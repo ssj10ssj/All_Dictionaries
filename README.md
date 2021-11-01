@@ -670,6 +670,7 @@
 - [360 百科](https://baike.so.com/)
 - [MBA智库百科](http://wiki.mbalib.com/)
 - [萌娘百科](https://zh.moegirl.org/)
+- [THBWiki](https://thwiki.cc/)
 - [香港網絡大典](http://evchk.wikia.com/)
 - [药智数据:药材标准数据库查询](https://db.yaozh.com/biaozhun)
 - [国家药典委员会](http://www.chp.org.cn/)
