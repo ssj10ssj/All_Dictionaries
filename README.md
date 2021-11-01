@@ -192,6 +192,7 @@
 ### 其他汉语类站点
 - [說文解字 ShuoWen.ORG](http://www.shuowen.org/)
 - [字海网，叶典网](http://yedict.com/)
+- [千篇国学](https://www.qianp.com/)
 - [国学网](http://www.guoxue.com/)
 - [搜韵网](https://sou-yun.com/)
 - [漢語大詞典](https://sou-yun.com/Query.aspx?type=word&id=12331)
