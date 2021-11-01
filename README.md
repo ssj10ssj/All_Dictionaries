@@ -202,6 +202,7 @@
 - [异体字字典](http://dict.variants.moe.edu.tw)
 - [漢字古今中外讀音查詢 | 语言维基](https://langwiki.org/tools/dict/)
 - [古今文字集成](http://ccamc.co/)
+- [品诗文网](https://m.pinshiwen.com/)
 - [古诗文网](http://www.gushiwen.org/)
 - [千千秀字](http://www.qqxiuzi.cn/)
 - [TLS - Thesaurus Linguae Sericae 漢學文典](http://tls.uni-hd.de/home_en.lasso)
