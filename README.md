@@ -662,6 +662,7 @@
 - [医学百科](https://www.wiki8.com/)
 - [多识植物百科](http://duocet.ibiodiversity.net/)
 - [知网百科](https://xuewen.cnki.net/)
+- [灰机wiki](https://www.huijiwiki.com/wiki/)
 - [百度百科](https://baike.baidu.com/)
 - [互动百科](http://www.baike.com/)
 - [搜狗百科](http://baike.sogou.com/)
