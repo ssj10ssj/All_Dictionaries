@@ -659,6 +659,7 @@
 ### 汉语百科
 - [FRPS《中国植物志》全文电子版网站](http://frps.eflora.cn/)
 - [中国动物志](http://www.zoology.csdb.cn/efauna/index.jsp)
+- [A+医学百科](http://www.a-hospital.com/)
 - [医学百科](https://www.wiki8.com/)
 - [多识植物百科](http://duocet.ibiodiversity.net/)
 - [知网百科](https://xuewen.cnki.net/)
