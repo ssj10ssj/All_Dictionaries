@@ -403,7 +403,7 @@
     - [『小学館ランダムハウス英和大辞典』（第２版）無料！❗已下线](https://dictionary.goo.ne.jp/ej/)
     - [『デイリーコンサイス中日辞典（第2版）』❗已下线](https://dictionary.goo.ne.jp/cj/)
     - [『デイリーコンサイス日中辞典』❗已下线](https://dictionary.goo.ne.jp/jc/)
-- https://kotobank.jp/langdictionary/
+- [コトバンク](https://kotobank.jp/langdictionary/)
 - [三省堂 Web Dictionary](https://www.sanseido.biz/)
 - [研究社 Online Dictionary ](http://kod.kenkyusha.co.jp/service/faq/faq10.jsp)
 - [BIGLOBE辞書](https://search.biglobe.ne.jp/dic/)
