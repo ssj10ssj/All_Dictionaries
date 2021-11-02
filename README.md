@@ -792,7 +792,7 @@
 - [在线百科全书列表 维基](https://zh.m.wikipedia.org/wiki/%E5%9C%A8%E7%BA%BF%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6%E5%88%97%E8%A1%A8)
 - [问答网站列表 维基](https://zh.m.wikipedia.org/wiki/%E9%97%AE%E7%AD%94%E7%BD%91%E7%AB%99%E5%88%97%E8%A1%A8)
 - [有了这50个电子书网站...](https://m.sohu.com/a/276723424_99949461/?pvid=000115_3w_a)
-- [轻小说文库](https://www.wenku8.net/)
+- [轻小说文库](https://www.wenku8.net/login.php?jumpurl=http%3A%2F%2Fwww.wenku8.net%2Fmodules%2Farticle%2Ftoplist.php%3Fsort%3Dlastupdate)
 - [Alexa - Top Sites by Category: Reference](https://www.alexa.com/topsites/category/Reference)
 - [List of online dictionaries](https://en.wikipedia.org/wiki/List_of_online_dictionaries)
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
