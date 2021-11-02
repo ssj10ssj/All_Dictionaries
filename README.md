@@ -715,6 +715,7 @@
 - [CNKI中国知网](https://www.cnki.net/)
 - [万方数据](https://www.wanfangdata.com.cn/index.html)
 - [维普](https://www.cqvip.com)
+- [wikiHow](https://zh.wikihow.com/)
 - [Omniglot](https://www.omniglot.com/)
 - [Separated by a Common Language Observations on British and American English by an American linguist in the UK](https://separatedbyacommonlanguage.blogspot.com/)
 - [John Wells’s phonetic blog](http://phonetic-blog.blogspot.com/)
