@@ -790,6 +790,7 @@
 
 ## mdx等辞典下载网站
 - [FreeMdict](https://freemdict.com/)
+- [Mdict](https://mdict.org/)
 
 ## 参考
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
