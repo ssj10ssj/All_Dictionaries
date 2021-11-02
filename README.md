@@ -381,6 +381,7 @@
 - [sentencedict.com](http://sentencedict.com/)
 - [词汇大全](http://dict.youdao.com/map/)
 - [pyDict - 英漢、漢英兩用字典](http://mirror.sars.tw/FreeBSD_Chinese_HOWTO/pydict.html)
+- [Planet Math](https://planetmath.org/)
 
 ### 英语写作、课程学习
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
