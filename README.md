@@ -665,6 +665,7 @@
 - [知网百科](https://xuewen.cnki.net/)
 - [灰机wiki](https://www.huijiwiki.com/wiki/)
 - [百度百科](https://baike.baidu.com/)
+- [快懂百科](https://m.baike.com/)
 - [互动百科](http://www.baike.com/)
 - [搜狗百科](http://baike.sogou.com/)
 - [360 百科](https://baike.so.com/)
