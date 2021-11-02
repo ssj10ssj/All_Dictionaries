@@ -790,6 +790,7 @@
 
 ## mdx等辞典下载网站
 - [FreeMdict](https://freemdict.com/)
+- [掌上百科-PDAWIKI](https://www.pdawiki.com/forum/)
 - [Mdict](https://mdict.org/)
 
 ## 参考
