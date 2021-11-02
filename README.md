@@ -711,6 +711,7 @@
 
 ## 一些站点
 - [CNKI中国知网](https://www.cnki.net/)
+- [维普](https://www.cqvip.com)
 - [Omniglot](https://www.omniglot.com/)
 - [Separated by a Common Language Observations on British and American English by an American linguist in the UK](https://separatedbyacommonlanguage.blogspot.com/)
 - [John Wells’s phonetic blog](http://phonetic-blog.blogspot.com/)
