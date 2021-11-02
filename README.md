@@ -270,6 +270,7 @@
 - [BusinessDictionary](http://www.businessdictionary.com/)
 - [A Dictionary of the English Language - Samuel Johnson - 1755](http://johnsonsdictionaryonline.com/)
 - [Legal Dictionary | Law.com](https://dictionary.law.com/)
+- [Fandom/Wikia/Wiki Cities](https://www.fandom.com/)
 - [Financial Dictionary | Investopedia](https://www.investopedia.com/dictionary/)
 - [The OEDILF, our online limerictionary!](https://www.oedilf.com/db/Lim.php)
 - [1913 Webster's Online Dictionary](http://www.webster-dictionary.org/)
