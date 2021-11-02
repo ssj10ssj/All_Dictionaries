@@ -62,6 +62,7 @@
 - [知网词典](http://cidian.cnki.net/)
 - [CNKI 翻译助手](http://dict.cnki.net/)
 - [优词词典](http://www.youdict.com/)
+- [维基词典](https://zh.m.wiktionary.org/wiki/)
 - [人人词典 - 跟人人影视字幕组一起学英语](https://www.91dict.com/)
 - [汉典](http://www.zdic.net/)
 - [国学大师](http://www.guoxuedashi.com/)
