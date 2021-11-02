@@ -710,6 +710,7 @@
 - [大学数字图书馆国际合作计划（China Academic Digital Associative Library，CADAL）](http://www.cadal.cn/)
 
 ## 一些站点
+- [中国国家图书馆](http://www.nlc.cn/)
 - [CNKI中国知网](https://www.cnki.net/)
 - [万方数据](https://www.wanfangdata.com.cn/index.html)
 - [维普](https://www.cqvip.com)
