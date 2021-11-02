@@ -789,7 +789,7 @@
 - [Online Dictionary Helper (with Anki app support)](https://github.com/ninja33/ODH)
 
 ## mdx等辞典下载网站
-- [FreeMdict](https://www.google.com/amp/s/freemdict.com/)
+- [FreeMdict](https://freemdict.com/)
 
 ## 参考
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
