@@ -788,6 +788,9 @@
 - [漢文博士](http://hanbox.cnblogs.com/)
 - [Online Dictionary Helper (with Anki app support)](https://github.com/ninja33/ODH)
 
+## mdx等辞典下载网站
+- [FreeMdict](https://www.google.com/amp/s/freemdict.com/)
+
 ## 参考
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
 - [在线百科全书列表 维基](https://zh.m.wikipedia.org/wiki/在线百科全书列表)
