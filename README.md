@@ -262,6 +262,7 @@
 - [Linggle](http://linggle.com/)
 - [LEXILOGOS](http://www.lexilogos.com/)
 - [bab.la Online dictionary for 28 languages](https://bab.la)
+- [WordNet](https://wordnet.princeton.edu/)
 - [WordReference](http://www.wordreference.com/definition/)
 - [WordReference Random House Learner's Dictionary of American English](http://www.wordreference.com/definition/welcome)
 - [Collins Concise English Dictionary](http://www.wordreference.com/definition/welcome)
