@@ -744,6 +744,7 @@
 - [Marina Mogilko](https://www.youtube.com/channel/UCLJl8-mbCfolWMkh1F1qfjA)
 - http://blog.liberty-e.com/blog/
 - [轻小说文库](https://www.wenku8.net/login.php?jumpurl=http%3A%2F%2Fwww.wenku8.net%2Fmodules%2Farticle%2Ftoplist.php%3Fsort%3Dlastupdate)
+- [大百科全书大辞典网](http://www.dbkdcd.com/)
 
 ## app
 - [海笛](http://cidian.dict.cn/center.html)
