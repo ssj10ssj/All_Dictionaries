@@ -753,6 +753,7 @@
 - [卡西欧权威辞典](http://www.casio.com.cn/e-edu/books.html)
 - [物書堂](https://www.monokakido.jp/)
 - [BIGLOBE](http://manabi.biglobe.ne.jp/)
+- [Kiwix](https://www.kiwix.org/en/)
 - [LogoVista](http://www.logovista.co.jp/)
 - [LogoVista電子辞典シリーズ ライセンス価格](http://www.logovista.co.jp/LVERP/information/license/dic.html)
 - [Mobile Systems](https://www.mobisystems.com/dictionaries/)
