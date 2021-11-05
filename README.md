@@ -711,6 +711,7 @@
 
 ## 聚合搜索
 - [虫部落](https://search.chongbuluo.com/)
+- [文件搜](http://dh.wjsou.com/)
 
 ## 一些站点
 - [世界数字图书馆](https://www.wdl.org/zh/)
