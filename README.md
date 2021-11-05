@@ -709,6 +709,9 @@
 - [付费::方正阿帕比中国工具书资源全文数据库](http://www.apabi.cn/solution/source/4/)
 - [大学数字图书馆国际合作计划（China Academic Digital Associative Library，CADAL）](http://www.cadal.cn/)
 
+## 聚合搜索
+- [虫部落](https://search.chongbuluo.com/)
+
 ## 一些站点
 - [世界数字图书馆](https://www.wdl.org/zh/)
 - [中国国家图书馆](http://www.nlc.cn/)
