@@ -711,6 +711,7 @@
 
 ## 聚合搜索
 - [24K导航](https://www.24kdh.com/)
+- [极致导航网](https://www.zzdhz.com/)
 - [虫部落 快搜](https://search.chongbuluo.com/)
 - [文件搜](http://dh.wjsou.com/)
 
