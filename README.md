@@ -710,6 +710,7 @@
 - [大学数字图书馆国际合作计划（China Academic Digital Associative Library，CADAL）](http://www.cadal.cn/)
 
 ## 聚合搜索
+- [24K导航](https://www.24kdh.com/)
 - [虫部落](https://search.chongbuluo.com/)
 - [文件搜](http://dh.wjsou.com/)
 
