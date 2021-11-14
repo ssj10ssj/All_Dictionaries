@@ -804,6 +804,7 @@
 - [微软小英](http://www.engkoo.com/)
 - [漢文博士](http://hanbox.cnblogs.com/)
 - [Online Dictionary Helper (with Anki app support)](https://github.com/ninja33/ODH)
+- [Dict Tango](https://play.google.com/store/apps/details?id=cn.jimex.dict&hl=en&gl=US&auao=none&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Ddict+tango&pcampaignid=APPU_1_yFeRYaazJNWzmgeF0r-4Dw)
 
 ## mdx等辞典下载网站
 - [FreeMdict](https://freemdict.com/)
