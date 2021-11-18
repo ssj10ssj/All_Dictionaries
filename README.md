@@ -816,6 +816,7 @@
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
 - [在线百科全书列表 维基](https://zh.m.wikipedia.org/wiki/在线百科全书列表)
 - [问答网站列表 维基](https://zh.m.wikipedia.org/wiki/问答网站列表)
+- [语料库列表 维基](https://zh.m.wikipedia.org/wiki/语料库)
 - [聚合搜索 百度](https://baike.baidu.com/item/聚合搜索)
 - [资源搜索 freemdict](https://forum.freemdict.com/t/topic/9117)
 - [有了这50个电子书网站...](https://m.sohu.com/a/276723424_99949461/?pvid=000115_3w_a)
