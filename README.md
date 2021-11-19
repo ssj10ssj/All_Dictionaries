@@ -823,6 +823,7 @@
 - [Readmoo 读墨](https://readmoo.com/)
 
 ## 日语学习网站
+- [JLPT](https://www.jlpt.jp/cn/index.html)
 - [Hiragana](https://hiragana.jp/zh/)
 - [成为小说家吧](https://syosetu.com/)
 - [Marumaru](https://www.jpmarumaru.com/)
