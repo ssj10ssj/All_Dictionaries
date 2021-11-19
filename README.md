@@ -828,6 +828,7 @@
 - [Hiragana](https://hiragana.jp/zh/)
 - [成为小说家吧](https://syosetu.com/)
 - [Marumaru](https://www.jpmarumaru.com/)
+- [王可乐日语](https://colanekojp.com.tw/)
 
 ## 参考
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
