@@ -837,6 +837,7 @@
 - [全网免费电子书 iMyShare](https://imyshare.com/article/28/)
 - [有了这50个电子书网站...](https://m.sohu.com/a/276723424_99949461/?pvid=000115_3w_a)
 - [SearX 搜索引擎 列表](https://searx.space/)
+- [日语学习网站整理 知乎](https://zhuanlan.zhihu.com/p/85343511)
 - [Alexa - Top Sites by Category: Reference](https://www.alexa.com/topsites/category/Reference)
 - [List of online dictionaries](https://en.wikipedia.org/wiki/List_of_online_dictionaries)
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
