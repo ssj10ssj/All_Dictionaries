@@ -715,7 +715,7 @@
 - [亿万导航](https://www.yiw1.com/)
 - [搜奇导航](https://www.souqidaohang.com/)
 - [爱达杂货铺](https://adzhp.cn/)
-- [果汁导航](http://guozhivip.com/nav/)
+- [果汁导航](http://guozhivip.com/)
 - [15学习导航](https://www.yao515.com/)
 - [1纳米学习](http://www.1nami.com/)
 - [iMyShare](https://imyshare.com/)
