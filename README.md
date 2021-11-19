@@ -818,6 +818,7 @@
 - [书享家](https://shuxiangjia.cn/)
 - [资源帝](http://shu.ziyuandi.cn/)
 - [轻小说文库](https://www.wenku8.net/login.php?jumpurl=http%3A%2F%2Fwww.wenku8.net%2Fmodules%2Farticle%2Ftoplist.php%3Fsort%3Dlastupdate)
+- [青空文库](https://www.aozora.gr.jp/)
 - [大百科全书大辞典网](http://www.dbkdcd.com/)
 - [Readmoo 读墨](https://readmoo.com/)
 
