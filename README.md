@@ -721,6 +721,7 @@
 - [iMyShare](https://imyshare.com/)
 - [虫部落 快搜](https://search.chongbuluo.com/)
 - [文件搜](http://dh.wjsou.com/)
+- [资源狗](http://m.ziyuangou.com/)
 - [searX](https://searx.bar/)
 
 ## 一些站点
