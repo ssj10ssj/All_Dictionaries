@@ -721,7 +721,7 @@
 - [iMyShare](https://imyshare.com/)
 - [虫部落 快搜](https://search.chongbuluo.com/)
 - [文件搜](http://dh.wjsou.com/)
-- [searX](https://searx.bar/?imyshare.com=friends)
+- [searX](https://searx.bar/)
 
 ## 一些站点
 - [世界数字图书馆](https://www.wdl.org/zh/)
@@ -823,7 +823,7 @@
 - [资源搜索 freemdict](https://forum.freemdict.com/t/topic/9117)
 - [全网免费电子书 iMyShare](https://imyshare.com/article/28/)
 - [有了这50个电子书网站...](https://m.sohu.com/a/276723424_99949461/?pvid=000115_3w_a)
-- [SearX 搜索引擎 列表](https://searx.space/?imyshare.com=friends)
+- [SearX 搜索引擎 列表](https://searx.space/)
 - [Alexa - Top Sites by Category: Reference](https://www.alexa.com/topsites/category/Reference)
 - [List of online dictionaries](https://en.wikipedia.org/wiki/List_of_online_dictionaries)
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
