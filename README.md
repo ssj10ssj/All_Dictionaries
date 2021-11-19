@@ -828,6 +828,7 @@
 - [Hiragana](https://hiragana.jp/zh/)
 - [成为小说家吧](https://syosetu.com/)
 - [Marumaru](https://www.jpmarumaru.com/)
+- [時雨の町](https://www.sigure.tw/)
 - [王可乐日语](https://colanekojp.com.tw/)
 
 ## 参考
