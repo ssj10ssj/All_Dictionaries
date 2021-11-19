@@ -822,6 +822,9 @@
 - [大百科全书大辞典网](http://www.dbkdcd.com/)
 - [Readmoo 读墨](https://readmoo.com/)
 
+## 日语学习网站
+- [成为小说家吧](https://syosetu.com/)
+
 ## 参考
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
 - [在线百科全书列表 维基](https://zh.m.wikipedia.org/wiki/在线百科全书列表)
