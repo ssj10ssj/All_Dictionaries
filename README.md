@@ -810,7 +810,7 @@
 - [掌上百科-PDAWIKI](https://www.pdawiki.com/forum/)
 - [Mdict](https://mdict.org/)
 
-## 电子书搜索/网站/书店
+## 电子书搜索/网站/文库/书店
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [点点文档](https://www.junengfan.cn/bd)
 - [淘链客](https://www.toplinks.cc/s/)
@@ -819,6 +819,7 @@
 - [资源帝](http://shu.ziyuandi.cn/)
 - [轻小说文库](https://www.wenku8.net/login.php?jumpurl=http%3A%2F%2Fwww.wenku8.net%2Fmodules%2Farticle%2Ftoplist.php%3Fsort%3Dlastupdate)
 - [青空文库](https://www.aozora.gr.jp/)
+- [维基文库](https://zh.m.wikisource.org/wiki/)
 - [大百科全书大辞典网](http://www.dbkdcd.com/)
 - [Readmoo 读墨](https://readmoo.com/)
 
