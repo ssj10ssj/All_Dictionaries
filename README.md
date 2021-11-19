@@ -721,6 +721,7 @@
 - [iMyShare](https://imyshare.com/)
 - [虫部落 快搜](https://search.chongbuluo.com/)
 - [文件搜](http://dh.wjsou.com/)
+- [searX](https://searx.bar/?imyshare.com=friends)
 
 ## 一些站点
 - [世界数字图书馆](https://www.wdl.org/zh/)
