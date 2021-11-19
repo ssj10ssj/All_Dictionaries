@@ -817,6 +817,7 @@
 - [在线百科全书列表 维基](https://zh.m.wikipedia.org/wiki/在线百科全书列表)
 - [问答网站列表 维基](https://zh.m.wikipedia.org/wiki/问答网站列表)
 - [语料库列表 维基](https://zh.m.wikipedia.org/wiki/语料库)
+- [搜索引擎列表 维基](https://zh.m.wikipedia.org/wiki/搜索引擎列表)
 - [聚合搜索 百度](https://baike.baidu.com/item/聚合搜索)
 - [资源搜索 freemdict](https://forum.freemdict.com/t/topic/9117)
 - [全网免费电子书 iMyShare](https://imyshare.com/article/28/)
