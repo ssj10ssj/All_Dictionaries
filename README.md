@@ -811,6 +811,9 @@
 - [Mdict](https://mdict.org/)
 
 ## 电子书搜索网站
+- [鸠摩搜书](https://www.jiumodiary.com/)
+- [点点文档](https://www.junengfan.cn/bd)
+- [淘链客](https://www.toplinks.cc/s/)
 - [Z-Library](https://z-lib.org/)
 - [书享家](https://shuxiangjia.cn/)
 - [资源帝](http://shu.ziyuandi.cn/)
