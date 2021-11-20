@@ -833,6 +833,7 @@
 - [Marumaru](https://www.jpmarumaru.com/)
 - [時雨の町](https://www.sigure.tw/)
 - [王可乐日语](https://colanekojp.com.tw/)
+- [沪江日语](https://m.hujiang.com/jp/)
 
 ## 参考
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
