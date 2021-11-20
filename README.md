@@ -681,6 +681,7 @@
 - [THBWiki](https://thwiki.cc/)
 - [香港網絡大典](http://evchk.wikia.com/)
 - [买购网](https://m.maigoo.com/)
+- [知识贝壳](https://www.zsbeike.com/)
 - [药智数据:药材标准数据库查询](https://db.yaozh.com/biaozhun)
 - [国家药典委员会](http://www.chp.org.cn/)
 - [中国药典](http://www.ouryao.com/forum-283-1)
