@@ -796,6 +796,7 @@
 - [金山词霸](http://www.iciba.com/)：Windows、Android、iOS
 - [必应词典](https://cn.bing.com/dict)：Windows、Android、iOS
 - [ABBYY Lingvo](https://www.abbyy.com/lingvo_dictionary/)：Windows、macOS、Android、iOS
+- [灵格斯词霸 Lingoes](http://www.lingoes.cn/)
 - [Babylon](http://www.babylon-software.com/)：Windows
 - [Color Dict](http://www.socialnmobile.com/colordict.html)
 - [FireDict:A simple offline dictionary software for Firefox OS](http://tuxor1337.github.io/firedict/)
