@@ -782,7 +782,7 @@
 - [eLexico](http://www.elexico.com/)
 
 ## 词典软件 、语言学习 app
-- [GoldenDict](https://github.com/goldendict/)
+- [金典 GoldenDict](https://github.com/goldendict/)
 - [MDict](http://mdict.cn/) ： Windows、Android、iOS
 - [深蓝词典 \(BlueDict\)：mdx](http://ssdlsoft.com/bluedict/)：Android
 - [星际译王 StarDict](https://github.com/huzheng001/stardict-3)
