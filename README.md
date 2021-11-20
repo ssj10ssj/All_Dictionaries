@@ -785,6 +785,7 @@
 - [GoldenDict](https://github.com/goldendict/)
 - [MDict](http://mdict.cn/) ： Windows、Android、iOS
 - [深蓝词典 \(BlueDict\)：mdx](http://ssdlsoft.com/bluedict/)：Android
+- [星际译王 StarDict](https://github.com/huzheng001/stardict-3)
 - [EBDic：EPWING、mdx、StarDict](http://t.cn/RY14MLP)：Android
 - [EB series：EPWING](http://ebstudio.info/) : iOS、Android、macOS、Windows [mdx] 适合日语学习者
 - [Dictionary](https://en.wikipedia.org/wiki/Dictionary_(software))：[☞ [2018-05-06] macOS / iOS 内置版权词典名录](https://dictionaryphile.github.io/blog/2017/03/14/)
