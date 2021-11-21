@@ -978,6 +978,9 @@
 - [MosaLingua](https://www.mosalingua.com/)
 - [Pleco](http://www.pleco.com/)
 - [文林® 汉语学习软件](https://wenlin.com/)
+- [HelloTalk](http://www.hellotalk.com/)
+- [りんな 人工智能 Line](https://www.rinna.jp/)
+- [日语语法酷](https://m.wandoujia.com/apps/6860621)
 
 </details>
 
@@ -1041,6 +1044,7 @@
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [点点文档](https://www.junengfan.cn/bd)
 - [淘链客](https://www.toplinks.cc/s/)
+- [Scribd](https://www.scribd.com/)
 - [Z-Library](https://z-lib.org/)
 - [书享家](https://shuxiangjia.cn/)
 - [资源帝](http://shu.ziyuandi.cn/)
@@ -1057,15 +1061,17 @@
 <summary>展开</summary>
 
 - [JLPT 日语能力测试官网](https://www.jlpt.jp/cn/index.html)
+- [Wikibooks](https://ja.m.wikibooks.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E)
 - [ひらひらのひらがなめがね](https://hiragana.jp/zh/)
 - [手紙の書き方](http://www.letter110.net/)
 - [読み方は？](https://yomikatawa.com/)
 - [写作指导网](https://hinoki-project.org/natsume/)
-- [成为小说家吧](https://syosetu.com/)
+- [小説家になろう](https://syosetu.com/)
 - [Marumaru](https://www.jpmarumaru.com/)
 - [時雨の町](https://www.sigure.tw/)
 - [王可乐日语](https://colanekojp.com.tw/)
 - [沪江日语](https://m.hujiang.com/jp/)
+- [早道网校](https://www.izaodao.com)
 - [动漫日语](http://anime-manga.jp/chinese/)
 - [艾琳的挑战！我会说日语](https://www.erin.ne.jp/zh/)
 - [富士大学留学生网站](http://raicho.ier.u-toyama.ac.jp/)
@@ -1135,6 +1141,7 @@
 - [许多日语读解材料](http://language.tiu.ac.jp)
 - [日语写日记网站](http://lang-8.com/)
 - [关于“敬语”的网站](http://www3.kcn.ne.jp/~jarry/keig/keimn.html)
+- [日本姓氏网](https://mnamae.jp/)
 - [日语歌词检索](http://www.utamap.com/)
 - [日语测试网站](http://www.j-cat.org/zh/)
 - [在线日语测试](http://test.u-biq.org/)
@@ -1171,7 +1178,6 @@
 - [关西方言研究网站](http://www.kansaiben.com/)
 - [JPLANG](https://jplang.tufs.ac.jp/)
 - [日语学习](https://www.jpmarumaru.com/tw/JPSongList.asp)
-- [日本姓氏网](https://mnamae.jp/)
 - [各种商品价格](http://kakaku.com/)
 - [福娘童话集](http://hukumusume.com/douwa/)
 - [日本文学电子图书馆](http://j-texts.com)
