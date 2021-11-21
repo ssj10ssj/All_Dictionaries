@@ -1057,7 +1057,7 @@
 <summary>展开</summary>
 
 - [JLPT 日语能力测试官网](https://www.jlpt.jp/cn/index.html)
-- [ひらひらのひらがなめがね 汉字标假名网站](https://hiragana.jp/zh/)
+- [ひらひらのひらがなめがね](https://hiragana.jp/zh/)
 - [手紙の書き方](http://www.letter110.net/)
 - [読み方は？](https://yomikatawa.com/)
 - [写作指导网](https://hinoki-project.org/natsume/)
@@ -1144,7 +1144,7 @@
 - [日语在线声调词典](http://www.gavo.t.u-tokyo.ac.jp/ojad/search)
 - [注音网站](http://nihongo-e-na.com/chi/zhcn/id405.html)
 - [拟声词，拟态词博客](http://www.voiceblog.jp/onomatopets/)
-- [日语例文网站](https://j-nihongo.com/)
+- [日本語の例文](https://j-nihongo.com/)
 - [造句网站](http://j-nihongo.com/)
 - [翻译引擎1](http://www.excite.co.jp/world/chinese/)
 - [翻译引擎2](http://honyaku.yahoo.co.jp/)
@@ -1154,8 +1154,8 @@
 - [bekkoame搜索](http://www.bekkoame.ne.jp)
 - [历史知识搜索](http://macao.softvision.co.jp/dbpwww/)
 - [东京国立博物馆](http://www.tnm.jp)
-- [日本日语学习索引](http://nihongo-e-na.com/chi/zhcn/)
-- [针对外国人学日语的网站](http://www.jfkc.jp/ja/material/marugotoplus.html)
+- [NIHONGO eな(いいな)](http://nihongo-e-na.com/chi/zhcn/)
+- [まるごと・まるごとプラス](http://www.jfkc.jp/ja/material/marugotoplus.html)
 - [日本国家旅游局网站](http://www.jnto.go.jp/eng/index.html)
 - [中文版](http://www.welcome2japan.cn/)
 - [日本旅行](http://www.nta.co.jp/)
