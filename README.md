@@ -853,6 +853,15 @@
 - [時雨の町](https://www.sigure.tw/)
 - [王可乐日语](https://colanekojp.com.tw/)
 - [沪江日语](https://m.hujiang.com/jp/)
+- [动漫日语](http://anime-manga.jp/chinese/)
+- [富士大学留学生网站](http://raicho.ier.u-toyama.ac.jp/)
+- [巧克力学堂](http://www.learningchocolate.com/zh-hans?st_lang=ja)
+- [CRI](http://japanese.cri.cn/)
+- [青空朗读](http://aozoraroudoku.jp/)
+- [哔哩哔哩](http://www.bilibili.com/)
+- [日尚影音馆](http://www.jpsub.com/bbs/)
+- [诸神字幕组](http://www.kamigami.org/forum-18-1.html)
+- [日本文化中心](http://ftp.jpfbj.cn/)
 
 ## 参考
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
