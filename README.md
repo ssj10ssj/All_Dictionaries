@@ -50,6 +50,7 @@
 - [参考](#参考)
 - [字体](#字体)
 - [输入法](#输入法)
+- [GitHub电子书](#GitHub电子书)
 - [GitHub](#GitHub)
 - [Chrome-扩展](#Chrome-扩展)
 
@@ -1249,6 +1250,15 @@
 - [法语智能输入法](http://soft.frdic.com/product/francais_input.aspx)
 - [蒙科立智能输入法](http://www.menksoft.com/site/alias__menkcms/2824/Default.aspx)
 - [ATOK](https://www.atok.com/)
+
+</details>
+
+## GitHub电子书
+<details>
+<summary>展开</summary>
+
+== 综合类 ==
+== 计算机类 ==
 
 </details>
 
