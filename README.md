@@ -1258,7 +1258,21 @@
 <summary>展开</summary>
 
 == 综合类 ==
+- https://github.com/programthink/books
+- https://github.com/acrofrank/ebooks-1
+- https://github.com/nagato1208/books-2
 == 计算机类 ==
+- https://github.com/forthespada/CS-Books
+- https://github.com/iCSToCS/awesome-cs-books
+- https://github.com/HeroHai/it-pdf-books
+- https://github.com/itdevbooks/pdf
+- https://github.com/iamshuaidi/CS-Book
+- https://github.com/Jackpopc/CS-Books-Store
+- https://github.com/ebooklist/awesome-ebooks-list
+- https://github.com/EbookFoundation
+- https://github.com/justjavac/free-programming-books-zh_CN#python
+- https://github.com/hackstoic/open-source-books
+- https://github.com/0voice/expert_readed_books
 
 </details>
 
