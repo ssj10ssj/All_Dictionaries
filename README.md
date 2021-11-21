@@ -952,6 +952,9 @@
 - [北沢文库](http://www.ftm.co.jp/bunko/)
 - [日语图书俱乐部](http://www.bookclub.kodansha.co.jp)
 - [译读](http://read.iol8.com/list-htm-catid-133.html)
+- [日本大学](http://www.gakkou.net/daigaku/)
+- [日本大学入试情况](http://www.yozemi.ac.jp/)
+- [日本国际教育支援协会](http://www.jees.or.jp)
 
 ## 参考
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
