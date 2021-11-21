@@ -1181,6 +1181,9 @@
 - [数字帝国](https://zh.numberempire.com/)
 - [OEIS 整数数列线上大全](https://oeis.org/)
 - [数学乐](https://www.shuxuele.com/)
+- [AoPS](https://artofproblemsolving.com/)
+- [Brilliant](https://brilliant.org/)
+- [3Blue1Brown](https://www.3blue1brown.com/)
 
 </details>
 
