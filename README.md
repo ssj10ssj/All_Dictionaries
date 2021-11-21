@@ -689,6 +689,9 @@
 - [医药网-医药搜索](http://www.pharmnet.com.cn/search/index.cgi)
 
 ## 语料库
+- [点通多语言语音语料库](https://archive.md/20121208123647/http://www.dmcbc.com.cn/)
+- [宾州大学语料库](https://www.ldc.upenn.edu/)
+- [Wikipedia XML 语料库](https://web.archive.org/web/20060512161550/http://www-connex.lip6.fr/~denoyer/wikipediaXML/)
 - [Google Ngram Viewer](https://books.google.com/ngrams)
 - [殆知阁](http://www.daizhige.org/)
 - [中国哲学书电子化计划](http://ctext.org/)
