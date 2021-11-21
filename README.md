@@ -898,6 +898,15 @@
 - [码农场日语](http://www.hankcs.com/nihongonote/)
 - [外语爱好者网站](http://www.ryedu.net/ry/riyuyuedu/)
 - [杭州现代日语学习论坛](http://bbs.hzmjp.com/indexs.php)
+- [TBS新闻](http://news.tbs.co.jp/)
+- [NHK新闻](http://www.nhk.or.jp)
+- [NHK中文版](https://www3.nhk.or.jp/nhkworld/zh/)
+- [朝日新闻](http://www.asahi.com)
+- [读卖新闻](http://www.yomiuri.co.jp)
+- [每日新闻](http://www.mainichi.com)
+- [产经新闻社](http://www.sankei.co.jp)
+- [共同新闻社](http://www.kyodo.co.jp)
+- [时事通信社](http://www.jiji.co.jp)
 
 ## 参考
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
