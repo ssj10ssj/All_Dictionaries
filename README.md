@@ -1061,7 +1061,7 @@
 <summary>展开</summary>
 
 - [JLPT 日语能力测试官网](https://www.jlpt.jp/cn/index.html)
-- [Wikibooks](https://ja.m.wikibooks.org/wiki/%E6%97%A5%E6%9C%AC%E8%AA%9E)
+- [Wikibooks](https://ja.m.wikibooks.org/wiki/日本語)
 - [ひらひらのひらがなめがね](https://hiragana.jp/zh/)
 - [手紙の書き方](http://www.letter110.net/)
 - [読み方は？](https://yomikatawa.com/)
