@@ -1,13 +1,21 @@
 ## 宇宙最全在线词典网站导航
 
-## 说明：
+## 说明
+<details>
+<summary>展开</summary>
+
 - [作者](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)
 - 试试页面内 Ctrl + F 关键字。为节省篇幅，就不评介各个站点了，可以点击进去查看。一些站点集成了多部乃至多语种词典，尽量注明典型词典
 - 各站点内容良莠不齐，有的有对应纸版，且有权威机构背书，有的则是拼凑之作；有的虽然数据是正版授权，但是排版却暴殄天物，请大家批判性地参考
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
 - 感谢这些站点为我们提供查询服务，感谢大家的分享、补充
 
+</details>
+
 ## 目录
+<details>
+<summary>展开</summary>
+
 - [国内常用在线词典](#国内常用在线词典)
 - [在线翻译](#在线翻译)
 - [常用英语词典](#常用英语词典)
@@ -26,7 +34,24 @@
 - [Português](#português)
 - [梵语](#梵语)
 - [其他](#其他)
+- [汉语百科](#汉语百科)
 - [语料库](#语料库)
+- [聚合搜索](#聚合搜索)
+- [一些站点](#一些站点)
+- [app](#app)
+- [词典技术服务](#词典技术服务)
+- [词典软件 、语言学习 app](#词典软件 、语言学习 app)
+- [mdx等辞典下载网站](#mdx等辞典下载网站)
+- [电子书搜索/网站/文库/书店](#电子书搜索/网站/文库/书店]
+- [日语学习网站](#日语学习网站)
+- [数学学习网站](#数学学习网站)
+- [参考](#参考)
+- [字体](#字体)
+- [输入法](#输入法)
+- [GitHub](#GitHub)
+- [Chrome 扩展](#Chrome 扩展)
+
+</details>
 
 ## 国内常用在线词典
 - [有道词典](http://youdao.com/w/eng/welcome/)
@@ -1049,7 +1074,7 @@
 - [MYDICTIONARY Desktop Application of CLI on GitHub ](https://github.com/zzc-tongji/mydictionary-client-cli)
 - [有道词典的命令行版本 on GitHub](https://github.com/ChestnutHeng/Wudao-dict)
 
-### Chrome 扩展
+## Chrome 扩展
 - [比较好看的 Chrome 划词翻译(搜狗)插件，自带生词簿及吐司弹词记忆](https://github.com/waynecz/dadda-translate-crx)
 - [Anki 划词制卡助手 on GitHub](https://github.com/ninja33/anki-dict-helper)
 - [Saladict 沙拉查词 on GitHub](https://github.com/crimx/ext-saladict)
