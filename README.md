@@ -54,6 +54,9 @@
 </details>
 
 ## 国内常用在线词典
+<details>
+<summary>展开</summary>
+
 - [有道词典](http://youdao.com/w/eng/welcome/)
     - [柯林斯英汉双解大词典::译文质量一般](http://cidian.youdao.com/5.0/help/deskdict5beta/features/16.html)
     - [现代汉语规范词典（第 2 版）（仅客户端可用）](http://cidian.youdao.com/)
@@ -94,7 +97,12 @@
 - [萌典](https://www.moedict.tw/)
 - [YouGlish::Use YouTube to improve your English pronunciation](https://youglish.com/)
 
+</details>
+
 ## 在线翻译
+<details>
+<summary>展开</summary>
+
 **注**：输入单个英语词汇，以下站点也可以当在线词典使用。
 - [Google Translate](https://translate.google.com/)
 - [百度翻译::金山词霸::柯林斯、牛津高阶](http://fanyi.baidu.com/#en/zh/welcome)
@@ -109,6 +117,8 @@
 - [Translate by Babylon - Free Online Translation](http://translation.babylon-software.com/)
 - [爱词霸在线翻译](http://fy.iciba.com/)
 - [XYZ翻译网](http://www.xyzdict.com/)
+
+</details>
 
 ## 常用英语词典
 **注**：英语词典分母语型词典和学习型词典，部分站点兼有两种词典，以下分类并不严格。
@@ -425,6 +435,9 @@
 - [ENGLISH NUMBERS](https://english-number.com/)
 
 ## 日本語
+<details>
+<summary>展开</summary>
+
 - [翻訳と辞書 Index](http://www.kotoba.ne.jp/)
 - [goo辞書](http://dictionary.goo.ne.jp/)
     - [プログレッシブ英和中辞典 第5版](https://dictionary.goo.ne.jp/en/)
@@ -509,7 +522,12 @@
 - [FreshEyePedia](http://wkp.fresheye.com/)
 - [Yahoo!辞書 2019-05-31❗已下线](https://dic.yahoo.co.jp/)
 
+</details>
+
 ## Deutsch
+<details>
+<summary>展开</summary>
+
 - [德语助手](https://www.godic.net/)
 - [沪江小D - 德语词典](https://dict.hjenglish.com/de/danke)
 - [HanDeDict:Das Freie Chinesisch-Deutsche Wörterbuch 汉德词典 / 德汉词典](http://www.handedict.de/)
@@ -540,7 +558,12 @@
 - [Leipzig Corpora Collection / Deutscher Wortschatz](http://wortschatz.uni-leipzig.de/)
 - [Beilstein German to English and English to German Dictionary](http://web.stanford.edu/group/swain/beilstein/index.html)
 
+</details>
+
 ## Français
+<details>
+<summary>展开</summary>
+
 - [Collins French Dictionary](https://www.collinsdictionary.com/dictionary/english-french/welcome_1)
 - [法语助手](https://www.frdic.com/)
 - [沪江小D - 法语词典](https://dict.hjenglish.com/fr/merci)
@@ -557,7 +580,12 @@
 - [CFDICT](https://chine.in/mandarin/dictionnaire/CFDICT/)
 - [Le Dictionnaire Visuel](https://infovisual.info/fr)
 
+</details>
+
 ## Русский
+<details>
+<summary>展开</summary>
+
 - [译酷俄语](http://ru.yicool.cn/)
 - [大БКРС](https://bkrs.info/)
 - [千亿词霸](http://www.qianyix.com/words/)
@@ -568,8 +596,12 @@
 - http://wooordhunt.ru/
 - http://kak-perevoditsya.ru/
 
+</details>
 
 ## Italiano
+<details>
+<summary>展开</summary>
+
 - [意汉图片词典](http://unasettimana.com/)
 - [Collins Italian Dictionary](https://www.collinsdictionary.com/dictionary/english-italian/welcome)
 - [Dizionario inglese-italiano - WordReference](http://www.wordreference.com/enit/)
@@ -584,7 +616,12 @@
 - [zanichelli](https://www.zanichelli.it/dizionari/)
 - [欧华词典 - 在线意大利语汉语翻译词典](http://yidaliyu.ohdict.com/)
 
+</details>
+
 ## Español
+<details>
+<summary>展开</summary>
+
 - [Diccionario de la lengua española de la Real Academia Española](http://dle.rae.es/)
 - [SpanishDict](http://www.spanishdict.com/)
 - [Los Diccionarios del Periódico El Mundo](http://www.elmundo.es/diccionarios/)
@@ -613,7 +650,12 @@
 - [El Diccionario Visual](https://infovisual.info/es)
 - [Traducción y aprendizaje del inglés by Britannica](http://www.nglish.com/spanish/)
 
+</details>
+
 ## Português
+<details>
+<summary>展开</summary>
+
 - [Chinês Português dicionário Online](http://www.chine-culture.com/pt/chin%C3%AAs/dicion%C3%A1rio-chin%C3%AAs.php)
 - [Dicionário chinês português](http://www.a-china.info/dicionario)
 - [Iao Dicionário 中葡雙向詞典](http://www.iao-dicionario.com/)
@@ -624,7 +666,12 @@
 - [Dicionário infopédia de Chinês|Português](https://www.infopedia.pt/dicionarios/portugues-chines/ano)
 - [Glosbe Portuguese Dictionary](https://glosbe.com/en/pt)
 
+</details>
+
 ## 한국어
+<details>
+<summary>展开</summary>
+
 - [韩国国立国语院：标准韓韓释义](http://www.korean.go.kr/)
 - [네이버 사전 (NAVER dictionary)](http://dic.naver.com/)
     - [네이버 중국어사전 (NAVER 韩中词典)](http://cndic.naver.com/)
@@ -634,23 +681,43 @@
 - [词林韩语词典](http://www.cilin.org/kr/)
 - http://alldic.daum.net/
 
+</details>
+
 ## 阿拉伯语
+<details>
+<summary>展开</summary>
+
 - [Glosbe Arabic Dictionary](https://glosbe.com/en/ar)
 - [Cambridge English-Arabic Dictionary](https://dictionary.cambridge.org/dictionary/english-arabic/)
 - [Britannica English - Arabic](http://arabic.britannicaenglish.com/)
 
+</details>
+
 ## 印地语
+<details>
+<summary>展开</summary>
+
 - [Collins Hindi Dictionary](https://www.collinsdictionary.com/dictionary/english-hindi)
 - [Oxford Hindi Dictionary](https://hi.oxforddictionaries.com/)
 
+</details>
+
 ## 梵语
+<details>
+<summary>展开</summary>
+
 - http://www.manduuka.net/sanskrit/w/dic.cgi
 - [梵语辞书文献数据库建设](http://www.fanfoyan.com/project/pkudic.html)
 - [华梵网](http://www.sanskrit-input.com/)
 - [Monier Williams Online Dictionary - Koeln Sanskrit Lexicon](http://www.sanskrit-lexicon.uni-koeln.de/monier/)
 - [梵语辞书](http://www.huafan.org.cn/index.php?m=Page&a=index&id=51)
 
+</details>
+
 ## 其他语种
+<details>
+<summary>展开</summary>
+
 - [EUdict (European dictionary) ](https://eudict.com/)
 - [泰语 LONGDO DICT](http://dict.longdo.com/index.php)
 - [泰国皇家学术院出的 泰泰词典](http://rirs3.royin.go.th/dictionary.asp)
@@ -671,20 +738,35 @@
 - [e马来文字典 eKamus](http://www.ekamus.info/)
 - [夏威夷语词典](http://wehewehe.org)
 
+</details>
+
 ### 拉丁语
+<details>
+<summary>展开</summary>
+
 - [Latin Word Study Tool](http://www.perseus.tufts.edu/hopper/morph?l=chartis&la=la)
 - [Glossa: a Latin dictionary](http://athirdway.com/glossa/)
 - [William Whitaker's Words](http://archives.nd.edu/words.html)
 - [Legal Latin phrases and maxims](http://www.inrebus.com/legalmaxims_a.php)
 - [Latin-English](http://humanum.arts.cuhk.edu.hk/Lexis/Latin/)
 
+</details>
+
 ## 其他
+<details>
+<summary>展开</summary>
+
 - [公共服务领域外文译写网站](http://www.wwyx.cn/)
 - [国家标准全文公开系统](http://www.gb688.cn/bzgk/gb/index)
 - [国家数据](http://data.stats.gov.cn/)
 - [佛光山電子大藏經](http://etext.fgs.org.tw/index.aspx)
 
-### 汉语百科
+</details>
+
+## 汉语百科
+<details>
+<summary>展开</summary>
+
 - [FRPS《中国植物志》全文电子版网站](http://frps.eflora.cn/)
 - [中国动物志](http://www.zoology.csdb.cn/efauna/index.jsp)
 - [A+医学百科](http://www.a-hospital.com/)
@@ -712,7 +794,12 @@
 - [蒲标网:药典](http://db.ouryao.com/)
 - [医药网-医药搜索](http://www.pharmnet.com.cn/search/index.cgi)
 
+</details>
+
 ## 语料库
+<details>
+<summary>展开</summary>
+
 - [点通多语言语音语料库](https://archive.md/20121208123647/http://www.dmcbc.com.cn/)
 - [宾州大学语料库](https://www.ldc.upenn.edu/)
 - [Wikipedia XML 语料库](https://web.archive.org/web/20060512161550/http://www-connex.lip6.fr/~denoyer/wikipediaXML/)
@@ -751,7 +838,12 @@
 - [付费::方正阿帕比中国工具书资源全文数据库](http://www.apabi.cn/solution/source/4/)
 - [大学数字图书馆国际合作计划（China Academic Digital Associative Library，CADAL）](http://www.cadal.cn/)
 
+</details>
+
 ## 聚合搜索
+<details>
+<summary>展开</summary>
+
 - [24K导航](https://www.24kdh.com/)
 - [极致导航网](https://www.zzdhz.com/)
 - [亿万导航](https://www.yiw1.com/)
@@ -765,6 +857,8 @@
 - [文件搜](http://dh.wjsou.com/)
 - [资源狗](http://m.ziyuangou.com/)
 - [searX](https://searx.bar/)
+
+</details>
 
 ## 一些站点
 <details>
@@ -807,6 +901,9 @@
 </details>
 
 ## app
+<details>
+<summary>展开</summary>
+
 - [海笛](http://cidian.dict.cn/center.html)
 - [CASIO 電子辞書](https://casio.jp/exword/)
 - [卡西欧权威辞典](http://www.casio.com.cn/e-edu/books.html)
@@ -822,11 +919,18 @@
 - [Pleco](http://www.pleco.com/)
 - [文林® 汉语学习软件](https://wenlin.com/)
 
+</details>
+
 ## 词典技术服务
+<details>
+<summary>展开</summary>
+
 - [IDM](http://www.idmgroup.com/use-cases.htm)
 - [PubFactory](http://www.pubfactory.com/pubfactory/case-studies.html)
 - [TLex Suite: Dictionary Compilation Software](http://tshwanedje.com/tshwanelex/)
 - [eLexico](http://www.elexico.com/)
+
+</details>
 
 ## 词典软件、语言学习-app
 <details>
@@ -861,11 +965,19 @@
 </details>
 
 ## mdx等辞典下载网站
+<details>
+<summary>展开</summary>
+
 - [FreeMdict](https://freemdict.com/)
 - [掌上百科-PDAWIKI](https://www.pdawiki.com/forum/)
 - [Mdict](https://mdict.org/)
 
+</details>
+
 ## 电子书搜索/网站/文库/书店
+<details>
+<summary>展开</summary>
+
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [点点文档](https://www.junengfan.cn/bd)
 - [淘链客](https://www.toplinks.cc/s/)
@@ -877,6 +989,8 @@
 - [维基文库](https://zh.m.wikisource.org/wiki/)
 - [大百科全书大辞典网](http://www.dbkdcd.com/)
 - [Readmoo 读墨](https://readmoo.com/)
+
+</details>
 
 ## 日语学习网站
 <details>
@@ -1047,8 +1161,13 @@
 </details>
 
 ## 字体
+<details>
+<summary>展开</summary>
+
 - [花園明朝](http://fonts.jp/hanazono/)
 - [List of CJK fonts](https://en.wikipedia.org/wiki/List_of_CJK_fonts)
+
+</details>
 
 ## 输入法
 <details>
