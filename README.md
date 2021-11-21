@@ -18,12 +18,14 @@
 
 - [国内常用在线词典](#国内常用在线词典)
 - [在线翻译](#在线翻译)
+- [英语](#英语)
 - [常用英语词典](#常用英语词典)
 - [母语型英语词典](#母语型英语词典)
 - [学习型英语词典](#学习型英语词典)
+- [其他英语类词典](#其他英语类)
+- [英语写作、课程学习](#英语写作、课程学习)
 - [汉语](#其他汉语类)
 - [汉语同义词、反义词、近义词、相关词](#同义词)
-- [其他英语类词典](#其他英语类)
 - [日本語](#日本語)
 - [Deutsch](#deutsch)
 - [Français](#français)
@@ -120,6 +122,10 @@
 
 </details>
 
+## 英语
+<details>
+<summary>展开</summary>
+
 ## 常用英语词典
 <details>
 <summary>展开</summary>
@@ -195,122 +201,6 @@
 - [CALD::Cambridge Advanced Learner’s Dictionary 剑桥高阶英语词典](http://dictionary.cambridge.org/)
 - [MED::Macmillan English Dictionary for Advanced Learners 麦克米伦高阶英语词典](http://www.macmillandictionary.com/)
 - [Heinle's Newbury House Dictionary of American English](http://nhd.heinle.com/home.aspx)
-
-</details>
-
-## 其他汉语类
-<details>
-<summary>展开</summary>
-
-### 官方或权威机构
-<details>
-<summary>展开</summary>
-
-- [中国大百科全书 第三版 · 网络版](https://poe.zgbk.com/)
-- [中国大百科全书数据库](http://h.bkzx.cn/)
-- [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
-- [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/cbdic/)
-- [教育部國語辭典簡編本::包括释义均有真人朗读](http://dict.concised.moe.edu.tw/jbdic/)
-- [付费::辞源（第三版）](http://ciyuan.cp.com.cn/)
-- [付费::大辞海](http://www.dacihai.com.cn/)
-- [付费::辞海](http://gongjushu.cishu.com.cn/)
-- [付费::历版《辞海》数据库](http://chlb.cishu.com.cn/)
-- [100年汉语新词新语大辞典](http://xcxy.cishu.com.cn/)
-- [北师大 - 汉字全息资源应用系统](http://qxk.bnu.edu.cn/gjqxknew/jump/index)
-- [新词语研究资源库](http://ling.cuc.edu.cn/newword/)
-- [中华语文知识库](http://www.zhonghuayuwen.org/)
-- [中華語文知識庫](http://chinese-linguipedia.org/)
-- [中華語文大辭典](http://chinese-linguipedia.org/search_inner.html)
-- [搜文解字](http://words.sinica.edu.tw/)
-- [漢語大字典裡面收錄的 3 千多個常用字](http://words.sinica.edu.tw/sou/sou.html)
-- [漢語多功能字庫 Multi-function Chinese Character Database](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
-- [小學堂](http://xiaoxue.iis.sinica.edu.tw/)
-- [Index 引得市](http://www.mebag.com/index/)
-- [北大 CCL 现代汉语语义词典:仅对注册的北大校园网用户开放](http://ccl.pku.edu.cn/ccl_sem_dict/)
-- [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
-- [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
-- [东方语言学](http://www.eastling.org/)
-
-</details>
-
-### 同义词
-<details>
-<summary>展开</summary>
-
-- [哈工大社会计算与信息检索研究中心 同义词词林(扩展版)](https://www.ltp-cloud.com/download/)
-- [東東同義詞詞典 Chinese Thesaurus](http://www.kwuntung.net/synonym/)
-- [同义词库 ABC Thesaurus](http://chinese.abcthesaurus.com/)
-- [词林近义词词典](http://www.cilin.org/jyc/)
-- [中文近义词工具包 on GitHub](https://github.com/huyingxi/Synonyms)
-- [中文詞彙網路| Chinese Wordnet - LOPE @ NTU](http://lope.linguistics.ntu.edu.tw/cwn/)
-- [**需单位订阅**::商务印书馆·精品工具书数据库：据意查词](http://www.icidian.com.cn/cpnet/)
-- [汉典:相关词语](http://www.zdic.net/z/17/js/597D.htm)
-- [新派查询网 - 近义词大全](http://jinyici.xpcha.com/)
-- [在线近义词查询](http://jyc.5156edu.com/)
-- [**付费**《中国分类主题词表》 Web 版](http://clc.nlc.cn/ztfzfbweb.jsp)
-- [**付费** CNKI中国工具书网络出版总库](http://gongjushu.cnki.net/refbook/book.aspx)
-- [搜霸近义词大全](http://www.soba8.com/jinyici/)
-
-</details>
-
-### 其他汉语类站点
-<details>
-<summary>展开</summary>
-
-- [說文解字 ShuoWen.ORG](http://www.shuowen.org/)
-- [字海网，叶典网](http://yedict.com/)
-- [千篇国学](https://www.qianp.com/)
-- [国学网](http://www.guoxue.com/)
-- [搜韵网](https://sou-yun.com/)
-- [漢語大詞典](https://sou-yun.com/Query.aspx?type=word&id=12331)
-- [韻典網](http://ytenx.org/)
-- [說文解字綜合檢索 蔣門馬整理](http://www.homeinmists.com/shuowen/)
-- [臺灣閩南語常用詞辭典](http://twblg.dict.edu.tw/holodict_new/index.html)
-- [异体字字典](http://dict.variants.moe.edu.tw)
-- [漢字古今中外讀音查詢 | 语言维基](https://langwiki.org/tools/dict/)
-- [古今文字集成](http://ccamc.co/)
-- [品诗文网](https://m.pinshiwen.com/)
-- [古诗文网](http://www.gushiwen.org/)
-- [千千秀字](http://www.qqxiuzi.cn/)
-- [TLS - Thesaurus Linguae Sericae 漢學文典](http://tls.uni-hd.de/home_en.lasso)
-- [康熙字典網上版](http://www.kangxizidian.com/)
-- [中华博物网工具书](http://www.gg-art.com/article/tools.php)
-- [快快查字典](http://zidian.yy.com/)
-- [百度汉语](http://hanyu.baidu.com/)
-- [百度词典](https://dict.baidu.com/)
-- [開放詞典](http://kaifangcidian.com/)
-- [一把刀实用查询](https://18dao.cn/)
-- [中教网  -  网络字典](http://zidian.teachercn.com/)
-- [中国汉语言文学网](http://www.hanwenxue.com/chengyu/)
-- [新派查询网汉语词典](http://cidian.xpcha.com/)
-- [汉文学网](https://www.hwxnet.com/)
-- [易笔字](http://www.yibizi.com/)
-- [汉辞网 - 汉语大辞典](http://www.hydcd.com/cidian/)
-- [家长帮词典](http://cidian.eduu.com/)
-- [粤语词典](http://www.yueyv.cn/dacidian/)
-- [中国百科网](http://www.chinabaike.com/)
-- [字典 TONG](http://zidiantong.com/)
-- [汉文 360](http://hanwen360.com/)
-- [给力汉语词典](http://www.dacidian.net/)
-- [中国汉语字典](http://zi.artx.cn/)
-- [IT 学习网在线成语词典](http://chengyu.t086.com/)
-- [造句网](http://zaojv.com/)
-- [在线《佛学大辞典》查询](http://foxue.supfree.net/)
-- [象形字典](http://www.vividict.com/)
-- [语音字典(VoiceDic)](http://www.voicedic.com/)
-- [无忧无虑中学语文网](http://www.5156edu.com/)
-- [在线汉语词典](http://xh.5156edu.com/)
-- [书法字典](http://www.shufazidian.com/)
-- [吴音小字典](http://wu-chinese.com/minidict/)
-- [中华古籍资源库 - 国家图书馆](http://mylib.nlc.cn/web/guest/shanbenjiaojuan)
-- [文言文在线词典](http://gw.eywedu.com/)
-- [网上字典大全](http://www.zd9999.com/)
-- [中国作协会员辞典](http://www.chinawriter.com.cn/hycd/)
-- [注音字典](https://bopomofo.com.tw/)
-- [快学网字典](http://zidian.kxue.com/)
-- [句子迷](https://www.juzimi.com/)
-
-</details>
 
 </details>
 
@@ -476,6 +366,124 @@
 - [edX](https://www.edx.org/)
 - [The Great Courses](https://www.thegreatcourses.com/)
 - [ENGLISH NUMBERS](https://english-number.com/)
+
+</details>
+
+</details>
+
+## 其他汉语类
+<details>
+<summary>展开</summary>
+
+### 官方或权威机构
+<details>
+<summary>展开</summary>
+
+- [中国大百科全书 第三版 · 网络版](https://poe.zgbk.com/)
+- [中国大百科全书数据库](http://h.bkzx.cn/)
+- [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
+- [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/cbdic/)
+- [教育部國語辭典簡編本::包括释义均有真人朗读](http://dict.concised.moe.edu.tw/jbdic/)
+- [付费::辞源（第三版）](http://ciyuan.cp.com.cn/)
+- [付费::大辞海](http://www.dacihai.com.cn/)
+- [付费::辞海](http://gongjushu.cishu.com.cn/)
+- [付费::历版《辞海》数据库](http://chlb.cishu.com.cn/)
+- [100年汉语新词新语大辞典](http://xcxy.cishu.com.cn/)
+- [北师大 - 汉字全息资源应用系统](http://qxk.bnu.edu.cn/gjqxknew/jump/index)
+- [新词语研究资源库](http://ling.cuc.edu.cn/newword/)
+- [中华语文知识库](http://www.zhonghuayuwen.org/)
+- [中華語文知識庫](http://chinese-linguipedia.org/)
+- [中華語文大辭典](http://chinese-linguipedia.org/search_inner.html)
+- [搜文解字](http://words.sinica.edu.tw/)
+- [漢語大字典裡面收錄的 3 千多個常用字](http://words.sinica.edu.tw/sou/sou.html)
+- [漢語多功能字庫 Multi-function Chinese Character Database](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
+- [小學堂](http://xiaoxue.iis.sinica.edu.tw/)
+- [Index 引得市](http://www.mebag.com/index/)
+- [北大 CCL 现代汉语语义词典:仅对注册的北大校园网用户开放](http://ccl.pku.edu.cn/ccl_sem_dict/)
+- [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
+- [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
+- [东方语言学](http://www.eastling.org/)
+
+</details>
+
+### 同义词
+<details>
+<summary>展开</summary>
+
+- [哈工大社会计算与信息检索研究中心 同义词词林(扩展版)](https://www.ltp-cloud.com/download/)
+- [東東同義詞詞典 Chinese Thesaurus](http://www.kwuntung.net/synonym/)
+- [同义词库 ABC Thesaurus](http://chinese.abcthesaurus.com/)
+- [词林近义词词典](http://www.cilin.org/jyc/)
+- [中文近义词工具包 on GitHub](https://github.com/huyingxi/Synonyms)
+- [中文詞彙網路| Chinese Wordnet - LOPE @ NTU](http://lope.linguistics.ntu.edu.tw/cwn/)
+- [**需单位订阅**::商务印书馆·精品工具书数据库：据意查词](http://www.icidian.com.cn/cpnet/)
+- [汉典:相关词语](http://www.zdic.net/z/17/js/597D.htm)
+- [新派查询网 - 近义词大全](http://jinyici.xpcha.com/)
+- [在线近义词查询](http://jyc.5156edu.com/)
+- [**付费**《中国分类主题词表》 Web 版](http://clc.nlc.cn/ztfzfbweb.jsp)
+- [**付费** CNKI中国工具书网络出版总库](http://gongjushu.cnki.net/refbook/book.aspx)
+- [搜霸近义词大全](http://www.soba8.com/jinyici/)
+
+</details>
+
+### 其他汉语类站点
+<details>
+<summary>展开</summary>
+
+- [說文解字 ShuoWen.ORG](http://www.shuowen.org/)
+- [字海网，叶典网](http://yedict.com/)
+- [千篇国学](https://www.qianp.com/)
+- [国学网](http://www.guoxue.com/)
+- [搜韵网](https://sou-yun.com/)
+- [漢語大詞典](https://sou-yun.com/Query.aspx?type=word&id=12331)
+- [韻典網](http://ytenx.org/)
+- [說文解字綜合檢索 蔣門馬整理](http://www.homeinmists.com/shuowen/)
+- [臺灣閩南語常用詞辭典](http://twblg.dict.edu.tw/holodict_new/index.html)
+- [异体字字典](http://dict.variants.moe.edu.tw)
+- [漢字古今中外讀音查詢 | 语言维基](https://langwiki.org/tools/dict/)
+- [古今文字集成](http://ccamc.co/)
+- [品诗文网](https://m.pinshiwen.com/)
+- [古诗文网](http://www.gushiwen.org/)
+- [千千秀字](http://www.qqxiuzi.cn/)
+- [TLS - Thesaurus Linguae Sericae 漢學文典](http://tls.uni-hd.de/home_en.lasso)
+- [康熙字典網上版](http://www.kangxizidian.com/)
+- [中华博物网工具书](http://www.gg-art.com/article/tools.php)
+- [快快查字典](http://zidian.yy.com/)
+- [百度汉语](http://hanyu.baidu.com/)
+- [百度词典](https://dict.baidu.com/)
+- [開放詞典](http://kaifangcidian.com/)
+- [一把刀实用查询](https://18dao.cn/)
+- [中教网  -  网络字典](http://zidian.teachercn.com/)
+- [中国汉语言文学网](http://www.hanwenxue.com/chengyu/)
+- [新派查询网汉语词典](http://cidian.xpcha.com/)
+- [汉文学网](https://www.hwxnet.com/)
+- [易笔字](http://www.yibizi.com/)
+- [汉辞网 - 汉语大辞典](http://www.hydcd.com/cidian/)
+- [家长帮词典](http://cidian.eduu.com/)
+- [粤语词典](http://www.yueyv.cn/dacidian/)
+- [中国百科网](http://www.chinabaike.com/)
+- [字典 TONG](http://zidiantong.com/)
+- [汉文 360](http://hanwen360.com/)
+- [给力汉语词典](http://www.dacidian.net/)
+- [中国汉语字典](http://zi.artx.cn/)
+- [IT 学习网在线成语词典](http://chengyu.t086.com/)
+- [造句网](http://zaojv.com/)
+- [在线《佛学大辞典》查询](http://foxue.supfree.net/)
+- [象形字典](http://www.vividict.com/)
+- [语音字典(VoiceDic)](http://www.voicedic.com/)
+- [无忧无虑中学语文网](http://www.5156edu.com/)
+- [在线汉语词典](http://xh.5156edu.com/)
+- [书法字典](http://www.shufazidian.com/)
+- [吴音小字典](http://wu-chinese.com/minidict/)
+- [中华古籍资源库 - 国家图书馆](http://mylib.nlc.cn/web/guest/shanbenjiaojuan)
+- [文言文在线词典](http://gw.eywedu.com/)
+- [网上字典大全](http://www.zd9999.com/)
+- [中国作协会员辞典](http://www.chinawriter.com.cn/hycd/)
+- [注音字典](https://bopomofo.com.tw/)
+- [快学网字典](http://zidian.kxue.com/)
+- [句子迷](https://www.juzimi.com/)
+
+</details>
 
 </details>
 
