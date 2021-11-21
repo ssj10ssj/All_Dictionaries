@@ -24,7 +24,7 @@
 - [学习型英语词典](#学习型英语词典)
 - [其他英语类词典](#其他英语类)
 - [英语写作、课程学习](#英语写作、课程学习)
-- [汉语](#其他汉语类)
+- [汉语](#汉语)
 - [汉语同义词、反义词、近义词、相关词](#同义词)
 - [日本語](#日本語)
 - [Deutsch](#deutsch)
@@ -371,7 +371,7 @@
 
 </details>
 
-## 其他汉语类
+## 汉语
 <details>
 <summary>展开</summary>
 
@@ -576,6 +576,10 @@
 - [Yahoo!辞書 2019-05-31❗已下线](https://dic.yahoo.co.jp/)
 
 </details>
+
+## 各语种
+<details>
+<summary>展开</summary>
 
 ## Deutsch
 <details>
@@ -802,6 +806,8 @@
 - [William Whitaker's Words](http://archives.nd.edu/words.html)
 - [Legal Latin phrases and maxims](http://www.inrebus.com/legalmaxims_a.php)
 - [Latin-English](http://humanum.arts.cuhk.edu.hk/Lexis/Latin/)
+
+</details>
 
 </details>
 
