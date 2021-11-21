@@ -845,7 +845,13 @@
 - [大百科全书大辞典网](http://www.dbkdcd.com/)
 - [Readmoo 读墨](https://readmoo.com/)
 
+<details>
+<summary>
+
 ## 日语学习网站
+
+</summary>
+
 - [JLPT 日语能力测试官网](https://www.jlpt.jp/cn/index.html)
 - [Hiragana 汉字标假名网站](https://hiragana.jp/zh/)
 - [成为小说家吧](https://syosetu.com/)
@@ -955,6 +961,8 @@
 - [日本大学](http://www.gakkou.net/daigaku/)
 - [日本大学入试情况](http://www.yozemi.ac.jp/)
 - [日本国际教育支援协会](http://www.jees.or.jp)
+
+</details>
 
 ## 参考
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
