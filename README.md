@@ -121,12 +121,20 @@
 </details>
 
 ## 常用英语词典
+<details>
+<summary>展开</summary>
+
 **注**：英语词典分母语型词典和学习型词典，部分站点兼有两种词典，以下分类并不严格。
 - [☞ [2017-01-30] 英语学习型词典 vs 母语型词典 ](https://dictionaryphile.github.io/blog/2017/01/30/)
 - [☞ [2017-05-08] 我眼中的十二大英英母语型词典 ](https://dictionaryphile.github.io/blog/2017/05/08/)
 - [☞ [2017-11-03] 英语学习型词典与武林门派的对应关系 ](https://dictionaryphile.github.io/blog/2017/11/03/)
 
+</details>
+
 ### 母语型英语词典
+<details>
+<summary>展开</summary>
+
 - [付费:OED:Oxford English Dictionary - the definitive record of the English language 牛津英语大词典](http://www.oed.com/)
 - [Oxford Dictionaries](https://en.oxforddictionaries.com/)
 - [ODE::Oxford Dictionary of English 新牛津英语词典](https://en.oxforddictionaries.com/definition/welcome)
@@ -166,7 +174,12 @@
 - [OneLook Dictionary Search](https://www.onelook.com/)
 - [The Online Slang Dictionary](http://onlineslangdictionary.com/)
 
+</details>
+
 ### 学习型英语词典
+<details>
+<summary>展开</summary>
+
 - [Oxford Learner's Dictionaries](http://www.oxfordlearnersdictionaries.com/)
 - [OALD::Oxford Advanced Learner’s Dictionary 牛津高阶英语词典](https://www.oxfordlearnersdictionaries.com/definition/english/welcome_1)
 - [OAAD::Oxford Advanced American Dictionary](https://www.oxfordlearnersdictionaries.com/us/definition/english/welcome_1)
@@ -183,7 +196,12 @@
 - [MED::Macmillan English Dictionary for Advanced Learners 麦克米伦高阶英语词典](http://www.macmillandictionary.com/)
 - [Heinle's Newbury House Dictionary of American English](http://nhd.heinle.com/home.aspx)
 
+</details>
+
 ## 其他汉语类
+<details>
+<summary>展开</summary>
+
 ### 官方或权威机构
 - [中国大百科全书 第三版 · 网络版](https://poe.zgbk.com/)
 - [中国大百科全书数据库](http://h.bkzx.cn/)
@@ -279,7 +297,12 @@
 - [快学网字典](http://zidian.kxue.com/)
 - [句子迷](https://www.juzimi.com/)
 
+</details>
+
 ## 其他英语类
+<details>
+<summary>展开</summary>
+
 - [BabelNet](http://babelnet.org/)
 - [Historical Thesaurus of English](http://historicalthesaurus.arts.gla.ac.uk/)
 - [Chambers 21st Century Dictionary](http://chambers.co.uk/search/?query=welcome&title=21st)
@@ -418,7 +441,12 @@
 - [词汇大全](http://dict.youdao.com/map/)
 - [pyDict - 英漢、漢英兩用字典](http://mirror.sars.tw/FreeBSD_Chinese_HOWTO/pydict.html)
 
+</details>
+
 ### 英语写作、课程学习
+<details>
+<summary>展开</summary>
+
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
 - [Associated Press Stylebook](https://www.apstylebook.com/)
 - [Purdue Online Writing Lab (OWL)](https://owl.english.purdue.edu/owl/)
@@ -433,6 +461,8 @@
 - [edX](https://www.edx.org/)
 - [The Great Courses](https://www.thegreatcourses.com/)
 - [ENGLISH NUMBERS](https://english-number.com/)
+
+</details>
 
 ## 日本語
 <details>
