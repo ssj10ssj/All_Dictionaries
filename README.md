@@ -40,7 +40,7 @@
 - [一些站点](#一些站点)
 - [app](#app)
 - [词典技术服务](#词典技术服务)
-- [词典软件 、语言学习-app](#词典软件 、语言学习-app)
+- [词典软件、语言学习-app](#词典软件、语言学习-app)
 - [mdx等辞典下载网站](#mdx等辞典下载网站)
 - [电子书搜索/网站/文库/书店](#电子书搜索/网站/文库/书店)
 - [日语学习网站](#日语学习网站)
@@ -828,7 +828,7 @@
 - [TLex Suite: Dictionary Compilation Software](http://tshwanedje.com/tshwanelex/)
 - [eLexico](http://www.elexico.com/)
 
-## 词典软件 、语言学习-app
+## 词典软件、语言学习-app
 <details>
 <summary>展开</summary>
 
