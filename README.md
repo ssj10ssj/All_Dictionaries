@@ -979,6 +979,7 @@
 - [陶哲轩 博客](https://terrytao.wordpress.com/)
 - [Matrix67](http://www.matrix67.com/)
 - [数字帝国](https://zh.numberempire.com/)
+- [OEIS 整数数列线上大全](https://oeis.org/)
 - [数学乐](https://www.shuxuele.com/)
 
 </details>
