@@ -1069,16 +1069,26 @@
 </details>
 
 ## GitHub
+<details>
+<summary>展开</summary>
+
 - [Tatoeba on GitHub](https://github.com/Tatoeba/tatoeba2)
 - [Online dictionary based on the console，基于控制台的在线词典 on GitHub ](https://github.com/kuanghy/kictor)
 - [MYDICTIONARY Desktop Application of CLI on GitHub ](https://github.com/zzc-tongji/mydictionary-client-cli)
 - [有道词典的命令行版本 on GitHub](https://github.com/ChestnutHeng/Wudao-dict)
 
+</details>
+
 ## Chrome 扩展
+<details>
+<summary>展开</summary>
+
 - [比较好看的 Chrome 划词翻译(搜狗)插件，自带生词簿及吐司弹词记忆](https://github.com/waynecz/dadda-translate-crx)
 - [Anki 划词制卡助手 on GitHub](https://github.com/ninja33/anki-dict-helper)
 - [Saladict 沙拉查词 on GitHub](https://github.com/crimx/ext-saladict)
 - [FairyDict on GitHub](https://github.com/revir/FairyDict)
 - [汉典划词查询的 Chrome 插件 on GitHub](https://github.com/Ovilia/handian-chrome-extension)
+
+</details>
 
 -EOF-
