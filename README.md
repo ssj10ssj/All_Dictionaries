@@ -671,6 +671,7 @@
 - [灰机wiki](https://www.huijiwiki.com/wiki/)
 - [伪基百科](https://uncyclopedia.miraheze.org/wiki/)
 - [维基百科](https://zh.m.wikipedia.org/wiki/)
+- [维基大典](https://zh-classical.m.wikipedia.org/wiki/)
 - [百度百科](https://baike.baidu.com/)
 - [快懂百科/头条百科/互动百科](https://m.baike.com/)
 - [互动百科](http://www.baike.com/)
