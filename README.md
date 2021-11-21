@@ -846,7 +846,7 @@
 - [Readmoo 读墨](https://readmoo.com/)
 
 ## 日语学习网站
-- [JLPT](https://www.jlpt.jp/cn/index.html)
+- [JLPT 日语能力测试官网](https://www.jlpt.jp/cn/index.html)
 - [Hiragana](https://hiragana.jp/zh/)
 - [成为小说家吧](https://syosetu.com/)
 - [Marumaru](https://www.jpmarumaru.com/)
@@ -907,6 +907,16 @@
 - [产经新闻社](http://www.sankei.co.jp)
 - [共同新闻社](http://www.kyodo.co.jp)
 - [时事通信社](http://www.jiji.co.jp)
+- [日本語検定](http://www.nihongokentei.jp/)
+- [日本語 能力 検定試験傾向と対策＆問題集](http://adaa.daa.jp/jpx/)
+- [日本語敬語](http://www.alc.co.jp/jpn/article/faq/)
+- [ALC语言教育出版社](http://www.alc.co.jp/)
+- [许多日语读解材料](http://language.tiu.ac.jp)
+- [日语写日记网站](http://lang-8.com/)
+- [关于“敬语”的网站](http://www3.kcn.ne.jp/~jarry/keig/keimn.html)
+- [日语歌词检索](http://www.utamap.com/)
+- [日语测试网站](http://www.j-cat.org/zh/)
+- [在线日语测试](http://test.u-biq.org/)
 
 ## 参考
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
