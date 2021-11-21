@@ -847,7 +847,7 @@
 
 ## 日语学习网站
 - [JLPT 日语能力测试官网](https://www.jlpt.jp/cn/index.html)
-- [Hiragana](https://hiragana.jp/zh/)
+- [Hiragana 汉字标假名网站](https://hiragana.jp/zh/)
 - [成为小说家吧](https://syosetu.com/)
 - [Marumaru](https://www.jpmarumaru.com/)
 - [時雨の町](https://www.sigure.tw/)
@@ -917,6 +917,22 @@
 - [日语歌词检索](http://www.utamap.com/)
 - [日语测试网站](http://www.j-cat.org/zh/)
 - [在线日语测试](http://test.u-biq.org/)
+- [国语辞典、英以及辞典、以及英辞典](http://dictionary.goo.ne.jp/index.html)
+- [日本语俗语辞书](http://zokugo-dict.com/)
+- [三省堂网络词典](http://www.sanseido.net)
+- [goo辞書](http://dictionary.goo.ne.jp/)
+- [小楠日语](http://o-oo.net.cn/jptranslate/)
+- [日语在线声调词典](http://www.gavo.t.u-tokyo.ac.jp/ojad/search)
+- [注音网站](http://nihongo-e-na.com/chi/zhcn/id405.html)
+- (http://addruby.com/)
+- [拟声词，拟态词博客](http://www.voiceblog.jp/onomatopets/)
+- [造句网站](http://j-nihongo.com/)
+- [翻译引擎1](http://www.excite.co.jp/world/chinese/)
+- [翻译引擎2](http://honyaku.yahoo.co.jp/)
+- [yahoo日文搜索](http://www.yahoo.co.jp)
+- [goo搜索](http://www.goo.ne.jp)
+- [infoseek搜索](http://www.infoseek.co.jp)
+- [bekkoame搜索](http://www.bekkoame.ne.jp)
 
 ## 参考
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
