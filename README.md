@@ -382,8 +382,6 @@
 - [sentencedict.com](http://sentencedict.com/)
 - [词汇大全](http://dict.youdao.com/map/)
 - [pyDict - 英漢、漢英兩用字典](http://mirror.sars.tw/FreeBSD_Chinese_HOWTO/pydict.html)
-- [PlanetMath](https://planetmath.org/)
-- [MathWorld](https://mathworld.wolfram.com/)
 
 ### 英语写作、课程学习
 - [BBC Learning English](http://www.bbc.co.uk/learningenglish/)
@@ -968,6 +966,15 @@
 - [日本大学](http://www.gakkou.net/daigaku/)
 - [日本大学入试情况](http://www.yozemi.ac.jp/)
 - [日本国际教育支援协会](http://www.jees.or.jp)
+
+</details>
+
+## 数学学习网站
+<details>
+<summary>展开</summary>
+
+- [PlanetMath](https://planetmath.org/)
+- [MathWorld](https://mathworld.wolfram.com/)
 
 </details>
 
