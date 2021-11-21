@@ -845,12 +845,9 @@
 - [大百科全书大辞典网](http://www.dbkdcd.com/)
 - [Readmoo 读墨](https://readmoo.com/)
 
-<details>
-<summary>
-
 ## 日语学习网站
-
-</summary>
+<details>
+<summary>展开</summary>
 
 - [JLPT 日语能力测试官网](https://www.jlpt.jp/cn/index.html)
 - [Hiragana 汉字标假名网站](https://hiragana.jp/zh/)
@@ -965,6 +962,9 @@
 </details>
 
 ## 参考
+<details>
+<summary>展开</summary>
+
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
 - [在线百科全书列表 维基](https://zh.m.wikipedia.org/wiki/在线百科全书列表)
 - [问答网站列表 维基](https://zh.m.wikipedia.org/wiki/问答网站列表)
@@ -994,6 +994,8 @@
 - [Electronic Resources: English & French dictionaries](http://libraryresources.unog.ch/c.php?g=462656&p=3163215)
 - [主要参考文献一覧表 - 広島大学](http://home.hiroshima-u.ac.jp/wisdom/)
 - [[在线词典] 在线词典网址看这里,优秀的都在了](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=28557)
+
+</details>
 
 #### 字体
 - [花園明朝](http://fonts.jp/hanazono/)
