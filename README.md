@@ -947,6 +947,11 @@
 - [日语学习网站](https://jplang.tufs.ac.jp/)
 - [日语学习](https://www.jpmarumaru.com/tw/JPSongList.asp)
 - [各种商品价格](http://kakaku.com/)
+- [福娘童话集](http://hukumusume.com/douwa/)
+- [日本文学电子图书馆](http://j-texts.com)
+- [北沢文库](http://www.ftm.co.jp/bunko/)
+- [日语图书俱乐部](http://www.bookclub.kodansha.co.jp)
+- [译读](http://read.iol8.com/list-htm-catid-133.html)
 
 ## 参考
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
