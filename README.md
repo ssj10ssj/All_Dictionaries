@@ -862,6 +862,16 @@
 - [日尚影音馆](http://www.jpsub.com/bbs/)
 - [诸神字幕组](http://www.kamigami.org/forum-18-1.html)
 - [日本文化中心](http://ftp.jpfbj.cn/)
+- [咖啡日语](http://www.coffeejp.com/bbs/forum.php)
+- [日语自学网](http://www.smady.com/)
+- [芝麻abc](http://www.zhimaabc.com/)
+- [唯吾日语](http://www.v5jp.com/)
+- [日本文化交流中心网站](https://www.erin.ne.jp/zh/)
+- [首都大学东京](http://nihongo.hum.tmu.ac.jp/mic-j/home-c.html)
+- [日语达人工具箱](http://www.daren-sky.com/)
+- [人民网日语学习](http://japan.people.com.cn/GB/35465/393371/index.html)
+- [可可日语](http://www.kekejp.com/)
+- [嘟嘟日语](http://www.dudujp.com/)
 
 ## 参考
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
