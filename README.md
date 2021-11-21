@@ -1271,7 +1271,7 @@
 - [CS-Books-Store](https://github.com/Jackpopc/CS-Books-Store)
 - [awesome-ebooks-list](https://github.com/ebooklist/awesome-ebooks-list)
 - [EbookFoundation](https://github.com/EbookFoundation)
-- [free-programming-books-zh_CN#python](https://github.com/justjavac/free-programming-books-zh_CN#python)
+- [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 - [open-source-books](https://github.com/hackstoic/open-source-books)
 - [expert_readed_books](https://github.com/0voice/expert_readed_books)
 
