@@ -1058,6 +1058,7 @@
 
 - [JLPT 日语能力测试官网](https://www.jlpt.jp/cn/index.html)
 - [Hiragana 汉字标假名网站](https://hiragana.jp/zh/)
+- [手紙の書き方](http://www.letter110.net/)
 - [成为小说家吧](https://syosetu.com/)
 - [Marumaru](https://www.jpmarumaru.com/)
 - [時雨の町](https://www.sigure.tw/)
