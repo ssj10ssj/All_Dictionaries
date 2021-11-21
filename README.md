@@ -1184,6 +1184,7 @@
 - [AoPS](https://artofproblemsolving.com/)
 - [Brilliant](https://brilliant.org/)
 - [3Blue1Brown](https://www.3blue1brown.com/)
+- [玄数](http://math001.com/link/)
 
 </details>
 
