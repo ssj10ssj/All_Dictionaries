@@ -894,7 +894,7 @@
 - [52小语种日语](http://www.52xyz.com/jp/xx/)
 - [大家论坛日语](http://club.topsage.com/forum-162-1.html)
 - [外语学习网日语](http://en.examw.com/jp/)
-- [教育联展网日语](http://www.thea.cn/riyu)
+- [教育联展网日语](http://www.thea.cn/riyu/)
 - [码农场日语](http://www.hankcs.com/nihongonote/)
 - [外语爱好者网站](http://www.ryedu.net/ry/riyuyuedu/)
 - [杭州现代日语学习论坛](http://bbs.hzmjp.com/indexs.php)
