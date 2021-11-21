@@ -744,6 +744,9 @@
 - [searX](https://searx.bar/)
 
 ## 一些站点
+<details>
+<summary>展开</summary>
+
 - [世界数字图书馆](https://www.wdl.org/zh/)
 - [中国国家图书馆](http://www.nlc.cn/)
 - [CNKI中国知网](https://www.cnki.net/)
@@ -778,6 +781,8 @@
 - [Marina Mogilko](https://www.youtube.com/channel/UCLJl8-mbCfolWMkh1F1qfjA)
 - http://blog.liberty-e.com/blog/
 
+</details>
+
 ## app
 - [海笛](http://cidian.dict.cn/center.html)
 - [CASIO 電子辞書](https://casio.jp/exword/)
@@ -801,6 +806,9 @@
 - [eLexico](http://www.elexico.com/)
 
 ## 词典软件 、语言学习 app
+<details>
+<summary>展开</summary>
+
 - [金典 GoldenDict](https://github.com/goldendict/)
 - [MDict](http://mdict.cn/) ： Windows、Android、iOS
 - [深蓝词典 \(BlueDict\)：mdx](http://ssdlsoft.com/bluedict/)：Android
@@ -826,6 +834,8 @@
 - [Medict](https://github.com/terasum/medict)
 - [Dict Tango](https://play.google.com/store/apps/details?id=cn.jimex.dict&hl=en&gl=US&auao=none&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Ddict+tango&pcampaignid=APPU_1_yFeRYaazJNWzmgeF0r-4Dw)
 - [平典 Plain Dictionary](https://m.apkpure.com/cn/plain-dictionary/com.knziha/versions?_gl=1*gl1k70*_ga*YW1wLXdnVTI5cVNuZFV4WWNyUmRoZW9uc2FZNXZoV3d2b0dkalhVcWhNYUVIME81UFZHR2VacFdQS2tUeEx5LUM3MF8.)
+
+</details>
 
 ## mdx等辞典下载网站
 - [FreeMdict](https://freemdict.com/)
@@ -997,11 +1007,14 @@
 
 </details>
 
-#### 字体
+## 字体
 - [花園明朝](http://fonts.jp/hanazono/)
 - [List of CJK fonts](https://en.wikipedia.org/wiki/List_of_CJK_fonts)
 
 ## 输入法
+<details>
+<summary>展开</summary>
+
 - [RIME | 中州韻輸入法引擎](http://rime.im/)
 - [搜狗输入法](https://pinyin.sogou.com/)
 - [QQ 输入法](http://qq.pinyin.cn/)
@@ -1013,6 +1026,8 @@
 - [法语智能输入法](http://soft.frdic.com/product/francais_input.aspx)
 - [蒙科立智能输入法](http://www.menksoft.com/site/alias__menkcms/2824/Default.aspx)
 - [ATOK](https://www.atok.com/)
+
+</details>
 
 ## GitHub
 - [Tatoeba on GitHub](https://github.com/Tatoeba/tatoeba2)
