@@ -900,6 +900,7 @@
 - [王码](http://www.wangma.net.cn/)
 - [法语智能输入法](http://soft.frdic.com/product/francais_input.aspx)
 - [蒙科立智能输入法](http://www.menksoft.com/site/alias__menkcms/2824/Default.aspx)
+- [ATOK](https://www.atok.com/)
 
 ## GitHub
 - [Tatoeba on GitHub](https://github.com/Tatoeba/tatoeba2)
