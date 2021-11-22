@@ -1065,7 +1065,7 @@
 <summary>展开</summary>
 
 - [JLPT 日语能力测试官网](https://www.jlpt.jp/cn/index.html)
-- [JLPT备考网站](http://t.cn/EKAu7Xa)
+- [JLPT备考网站](https://jn1et.com/jlpt/)
 - [Wikibooks](https://ja.m.wikibooks.org/wiki/日本語)
 - [りんな 人工智能 Line](https://www.rinna.jp/)
 - [ひらひらのひらがなめがね](https://hiragana.jp/zh/)
