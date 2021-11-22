@@ -1226,6 +1226,8 @@
 - [资源搜索 freemdict](https://forum.freemdict.com/t/topic/9117)
 - [全网免费电子书 iMyShare](https://imyshare.com/article/28/)
 - [有了这50个电子书网站...](https://m.sohu.com/a/276723424_99949461/?pvid=000115_3w_a)
+- [作业君的小站](https://homeworkkun.wordpress.com/2018/08/18/dcdlls/#more-241)
+- [轻小说合集](https://forum.freemdict.com/t/topic/9083)
 - [SearX 搜索引擎 列表](https://searx.space/)
 - [Wiki网站列表](https://zh.m.wikipedia.org/wiki/Wiki网站列表)
 - [日语学习网站整理 知乎](https://zhuanlan.zhihu.com/p/85343511)
@@ -1304,10 +1306,16 @@
 <details>
 <summary>展开</summary>
 
+== 综合 ==
 - [Tatoeba on GitHub](https://github.com/Tatoeba/tatoeba2)
 - [Online dictionary based on the console，基于控制台的在线词典 on GitHub ](https://github.com/kuanghy/kictor)
 - [MYDICTIONARY Desktop Application of CLI on GitHub ](https://github.com/zzc-tongji/mydictionary-client-cli)
 - [有道词典的命令行版本 on GitHub](https://github.com/ChestnutHeng/Wudao-dict)
+
+== 二次元 ==
+- [轻小说文库](https://github.com/MewX/light-novel-library_Wenku8_Android)
+- [osudroid](https://github.com/osudroid/osu-droid)
+- [Cimoc](https://github.com/Haleydu/Cimoc)
 
 </details>
 
