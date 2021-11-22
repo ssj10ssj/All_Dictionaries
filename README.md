@@ -1060,7 +1060,8 @@
 - [大百科全书大辞典网](http://www.dbkdcd.com/)
 - [BOOK WALKER(中)](https://www.bookwalker.com.tw/)
     - [BOOK WALKER(日)](https://bookwalker.jp/top/)
-- [Amazon 亚马逊](https://www.amazon.cn/Kindle)
+- [Amazon 亚马逊](https://www.amazon.com/Chinese-Traditional-eBooks/b?ie=UTF8&node=18327575011)
+    - [Kindle 中国](https://www.amazon.cn/Kindle%E7%94%B5%E5%AD%90%E4%B9%A6/b?ie=UTF8&node=116169071&ref_=nav_topnav_giftcert)
 - [Readmoo 读墨](https://readmoo.com/)
 
 </details>
