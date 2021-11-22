@@ -845,6 +845,7 @@
 - [MBA智库百科](http://wiki.mbalib.com/)
 - [萌娘百科](https://zh.moegirl.org/)
 - [THBWiki](https://thwiki.cc/)
+- [十万个为什么 在线青少年百科全书](https://10why.net/)
 - [香港網絡大典](http://evchk.wikia.com/)
 - [买购网](https://m.maigoo.com/)
 - [知识贝壳](https://www.zsbeike.com/)
