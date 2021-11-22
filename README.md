@@ -1078,6 +1078,7 @@
 - [王可乐日语](https://colanekojp.com.tw/)
 - [沪江日语](https://m.hujiang.com/jp/)
 - [早道网校](https://www.izaodao.com)
+- [KUMON](https://www.kumon.ne.jp/jpn/chinese/)
 - [动漫日语](http://anime-manga.jp/chinese/)
 - [エリンが挑戦！にほんごできます。](https://www.erin.jpf.go.jp/)
 - [Babadum](https://babadum.com/play/?lang=9&game=2)
@@ -1138,7 +1139,9 @@
 - [NEWS WEB EASY](https://www3.nhk.or.jp/news/easy/)
 - [TBS新闻](http://news.tbs.co.jp/)
 - [NHK新闻](http://www.nhk.or.jp)
-- [NHK中文版](https://www3.nhk.or.jp/nhkworld/zh/)
+    - [NHK中文版](https://www3.nhk.or.jp/nhkworld/zh/)
+    - [NHK简明日语](https://www.nhk.or.jp/lesson/zh/)
+    - [NHK for School](http://www.nhk.or.jp/school/)
 - [朝日新闻](http://www.asahi.com)
 - [读卖新闻](http://www.yomiuri.co.jp)
 - [每日新闻](http://www.mainichi.com)
@@ -1150,6 +1153,7 @@
 - [日本語敬語](http://www.alc.co.jp/jpn/article/faq/)
 - [ALC语言教育出版社](http://www.alc.co.jp/)
 - [许多日语读解材料](http://language.tiu.ac.jp)
+- [Matcha](https://matcha-jp.com/easy)
 - [日语写日记网站](http://lang-8.com/)
 - [敬語のお品書き](http://www3.kcn.ne.jp/~jarry/keig/keimn.html)
 - [日本姓氏网](https://mnamae.jp/)
@@ -1190,6 +1194,7 @@
 - [Suki Desu](https://skdesu.com/zh/)
 - [JPLANG](https://jplang.tufs.ac.jp/)
 - [日语学习](https://www.jpmarumaru.com/tw/JPSongList.asp)
+- [亲子日本语教室](http://tabunka.or.jp/project/oyako/)
 - [各种商品价格](http://kakaku.com/)
 - [福娘童话集](http://hukumusume.com/douwa/)
 - [日本文学电子图书馆](http://j-texts.com)
@@ -1200,6 +1205,7 @@
 - [日本大学](http://www.gakkou.net/daigaku/)
 - [日本大学入试情况](http://www.yozemi.ac.jp/)
 - [日本国际教育支援协会](http://www.jees.or.jp)
+- [国际交流协会](http://rliea.clair.or.jp/kyoukai/)
 
 </details>
 
