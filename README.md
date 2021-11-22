@@ -929,6 +929,8 @@
 - [CNKI中国知网](https://www.cnki.net/)
 - [万方数据](https://www.wanfangdata.com.cn/index.html)
 - [维普](https://www.cqvip.com)
+- [80图书馆](http://www.80lib.com/)
+- [蜗牛图书馆](http://wnlib.com/)
 - [wikiHow](https://zh.wikihow.com/)
 - [Omniglot](https://www.omniglot.com/)
 - [Separated by a Common Language Observations on British and American English by an American linguist in the UK](https://separatedbyacommonlanguage.blogspot.com/)
