@@ -1211,6 +1211,7 @@
 - [日本大学入试情况](http://www.yozemi.ac.jp/)
 - [日本国际教育支援协会](http://www.jees.or.jp)
 - [国际交流协会](http://rliea.clair.or.jp/kyoukai/)
+- [CiNii Articles](https://ci.nii.ac.jp/ja)
 
 </details>
 
