@@ -979,7 +979,6 @@
 - [Pleco](http://www.pleco.com/)
 - [文林® 汉语学习软件](https://wenlin.com/)
 - [HelloTalk](http://www.hellotalk.com/)
-- [りんな 人工智能 Line](https://www.rinna.jp/)
 - [日语语法酷](https://m.wandoujia.com/apps/6860621)
 
 </details>
@@ -1032,6 +1031,8 @@
 <summary>展开</summary>
 
 - [FreeMdict](https://freemdict.com/)
+    - [FreeMdict File Search](https://search.freemdict.com/)
+    - [FreeMdict downloads site](https://downloads.freemdict.com/)
 - [掌上百科-PDAWIKI](https://www.pdawiki.com/forum/)
 - [Mdict](https://mdict.org/)
 
@@ -1053,6 +1054,7 @@
 - [维基文库](https://zh.m.wikisource.org/wiki/)
 - [大百科全书大辞典网](http://www.dbkdcd.com/)
 - [Readmoo 读墨](https://readmoo.com/)
+- [BOOK WALKER](https://bookwalker.jp/top/)
 
 </details>
 
@@ -1062,6 +1064,7 @@
 
 - [JLPT 日语能力测试官网](https://www.jlpt.jp/cn/index.html)
 - [Wikibooks](https://ja.m.wikibooks.org/wiki/日本語)
+- [りんな 人工智能 Line](https://www.rinna.jp/)
 - [ひらひらのひらがなめがね](https://hiragana.jp/zh/)
 - [手紙の書き方](http://www.letter110.net/)
 - [読み方は？](https://yomikatawa.com/)
