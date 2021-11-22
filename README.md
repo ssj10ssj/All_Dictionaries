@@ -38,7 +38,7 @@
 - [其他](#其他)
 - [汉语百科](#汉语百科)
 - [语料库](#语料库)
-- [聚合搜索](#聚合搜索)
+- [搜索引擎、聚合搜索、网站导航](#搜索引擎、聚合搜索、网站导航)
 - [一些站点](#一些站点)
 - [app](#app)
 - [词典技术服务](#词典技术服务)
@@ -901,7 +901,7 @@
 
 </details>
 
-## 聚合搜索
+## 搜索引擎、聚合搜索、网站导航
 <details>
 <summary>展开</summary>
 
@@ -1077,6 +1077,7 @@
 - [词汇辨析网站](http://chigai.lance3.net/aa-content-chigai-best.html)
 - [写作指导网](https://hinoki-project.org/natsume/)
 - [小説家になろう](https://syosetu.com/)
+- [Fiftyzero 日语五十音在线训练](https://soukaapp.com/fiftyzero/)
 - [Marumaru](https://www.jpmarumaru.com/)
 - [Ryuuu TV](https://zh.m.wikipedia.org/wiki/Ryuuu_TV)
 - [時雨の町](https://www.sigure.tw/)
@@ -1088,7 +1089,6 @@
 - [动漫日语](http://anime-manga.jp/chinese/)
 - [看图学语法](https://www.edewakaru.com/)
 - [エリンが挑戦！にほんごできます。](https://www.erin.jpf.go.jp/)
-- [デジタル絵本サイト](http://www.e-hon.jp/demo2/index1.htm)
 - [J-Cinemaで学ぶ日本語・日本文化](http://www.jp-hiroba.com/)
 - [おりがみくらぶ](https://www.origami-club.com/index.html)
 - [Babadum](https://babadum.com/play/?lang=9&game=2)
@@ -1121,6 +1121,8 @@
 - [畅学日语](http://jp.xsjclass.com/)
 - [日语自学网](http://www.prcu.cn/)
 - [日语在线学习网](http://www.jpxue.com/tingli/)
+- [JapaneseOnline 在线日语学习网](http://www.japanese-online.com)
+- [LearnJapanese 免费学日语网络教室](http://www.learnjapanese.aiyori.org/)
 - [毎日のんびり日本語教師](http://nihongonosensei.net/?page_id=10246#linkn1)
 - [漢字ドリルのJAKKA](http://www.jakka.jp/index.html)
 - [日语入门](http://www.riyurumen.com/)
@@ -1146,10 +1148,9 @@
 - [人民网中国语教室](http://j.people.com.cn/95961/index.html)
 - [杭州现代日语学习论坛](http://bbs.hzmjp.com/indexs.php)
 - [经济日语](http://keizai-nihongo.com/chi/)
-- [NEWS WEB EASY](https://www3.nhk.or.jp/news/easy/)
 - [TBS新闻](http://news.tbs.co.jp/)
 - [NHK新闻](http://www.nhk.or.jp)
-    - [NHK新闻(简明)](http://www3.nhk.or.jp/news/easy/index.html)
+    - [NHK新闻(简明)](http://www3.nhk.or.jp/news/easy/)
     - [NHK中文版](https://www3.nhk.or.jp/nhkworld/zh/)
     - [NHK简明日语](https://www.nhk.or.jp/lesson/zh/)
     - [NHK for School](http://www.nhk.or.jp/school/)
@@ -1183,6 +1184,7 @@
 - [三省堂网络词典](http://www.sanseido.net)
 - [goo辞書](http://dictionary.goo.ne.jp/)
 - [小楠日语](http://o-oo.net.cn/jptranslate/)
+- [JP日语学习网](http://www.jptranslate.com/)
 - [日语在线声调词典](http://www.gavo.t.u-tokyo.ac.jp/ojad/search)
 - [Forvo](https://ja.forvo.com/languages/ja/)
 - [注音网站](http://nihongo-e-na.com/chi/zhcn/id405.html)
@@ -1215,6 +1217,8 @@
 - [亲子日本语教室](http://tabunka.or.jp/project/oyako/)
 - [料理相关词汇网站](http://t.cn/Ai9qboBP)
 - [各种商品价格](http://kakaku.com/)
+- [PIBO 日语版儿童故事绘本](http://pibo.jp/)
+- [デジタル絵本サイト](http://www.e-hon.jp/demo2/index1.htm)
 - [福娘童话集](http://hukumusume.com/douwa/)
 - [日本文学电子图书馆](http://j-texts.com)
 - [北沢文库](http://www.ftm.co.jp/bunko/)
