@@ -1060,6 +1060,7 @@
 - [大百科全书大辞典网](http://www.dbkdcd.com/)
 - [BOOK WALKER(中)](https://www.bookwalker.com.tw/)
     - [BOOK WALKER(日)](https://bookwalker.jp/top/)
+- [Amazon 亚马逊](https://www.amazon.cn/Kindle)
 - [Readmoo 读墨](https://readmoo.com/)
 
 </details>
