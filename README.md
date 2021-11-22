@@ -1082,7 +1082,7 @@
 - [早道网校](https://www.izaodao.com)
 - [KUMON](https://www.kumon.ne.jp/jpn/chinese/)
 - [动漫日语](http://anime-manga.jp/chinese/)
-- [看图学语法](http://t.cn/EK8f0Fu)
+- [看图学语法](https://www.edewakaru.com/archives/9350808.html)
 - [エリンが挑戦！にほんごできます。](https://www.erin.jpf.go.jp/)
 - [Babadum](https://babadum.com/play/?lang=9&game=2)
 - [富士大学留学生网站](http://raicho.ier.u-toyama.ac.jp/)
