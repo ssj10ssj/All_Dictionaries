@@ -1064,6 +1064,7 @@
     - [BOOK WALKER(日)](https://bookwalker.jp/top/)
 - [Amazon 亚马逊](https://www.amazon.com/Chinese-Traditional-eBooks/b?ie=UTF8&node=18327575011)
     - [Kindle 中国](https://www.amazon.cn/Kindle%E7%94%B5%E5%AD%90%E4%B9%A6/b?ie=UTF8&node=116169071&ref_=nav_topnav_giftcert)
+- [Kobo 乐天](https://www.kobo.com/tw/zh/choose-your-country)
 - [Readmoo 读墨](https://readmoo.com/)
 
 </details>
