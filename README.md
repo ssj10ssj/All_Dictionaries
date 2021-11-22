@@ -1150,7 +1150,7 @@
 - [ALC语言教育出版社](http://www.alc.co.jp/)
 - [许多日语读解材料](http://language.tiu.ac.jp)
 - [日语写日记网站](http://lang-8.com/)
-- [关于“敬语”的网站](http://www3.kcn.ne.jp/~jarry/keig/keimn.html)
+- [敬語のお品書き](http://www3.kcn.ne.jp/~jarry/keig/keimn.html)
 - [日本姓氏网](https://mnamae.jp/)
 - [日语歌词检索](http://www.utamap.com/)
 - [日语测试网站](http://www.j-cat.org/zh/)
