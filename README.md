@@ -1073,6 +1073,7 @@
 - [写作指导网](https://hinoki-project.org/natsume/)
 - [小説家になろう](https://syosetu.com/)
 - [Marumaru](https://www.jpmarumaru.com/)
+- [Ryuuu TV](https://zh.m.wikipedia.org/wiki/Ryuuu_TV)
 - [時雨の町](https://www.sigure.tw/)
 - [王可乐日语](https://colanekojp.com.tw/)
 - [沪江日语](https://m.hujiang.com/jp/)
