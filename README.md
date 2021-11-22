@@ -1187,6 +1187,7 @@
 - [东京国立博物馆](http://www.tnm.jp)
 - [NIHONGO eな(いいな)](http://nihongo-e-na.com/chi/zhcn/)
 - [まるごと・まるごとプラス](https://marugotoweb.jp/ja/index.php)
+- [ひろがる もっといろんな日本と日本语](https://hirogaru-nihongo.jp/)
 - [JNTO 日本国家旅游局网站](https://www.jnto.go.jp/)
 - [日本旅行](http://www.nta.co.jp/)
 - [线上日语学习中文版](http://www.nihonmura.net/sc/)
