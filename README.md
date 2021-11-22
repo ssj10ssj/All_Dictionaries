@@ -4,7 +4,7 @@
 <details>
 <summary>展开</summary>
 
-- [作者](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)
+- [原作者](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)
 - 试试页面内 Ctrl + F 关键字。为节省篇幅，就不评介各个站点了，可以点击进去查看。一些站点集成了多部乃至多语种词典，尽量注明典型词典
 - 各站点内容良莠不齐，有的有对应纸版，且有权威机构背书，有的则是拼凑之作；有的虽然数据是正版授权，但是排版却暴殄天物，请大家批判性地参考
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
