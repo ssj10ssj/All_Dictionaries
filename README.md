@@ -1168,6 +1168,7 @@
 - [日语歌词检索](http://www.utamap.com/)
 - [日语测试网站](http://www.j-cat.org/zh/)
 - [在线日语测试](http://test.u-biq.org/)
+    - [U-biq](https://study.u-biq.org/)
 - [Online Japanese practice](http://www.nihonmura.net/)
 - [日语语源词典](http://gogen-allguide.com/)
 - [国语辞典、英以及辞典、以及英辞典](http://dictionary.goo.ne.jp/index.html)
