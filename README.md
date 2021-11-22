@@ -1073,7 +1073,7 @@
 - [沪江日语](https://m.hujiang.com/jp/)
 - [早道网校](https://www.izaodao.com)
 - [动漫日语](http://anime-manga.jp/chinese/)
-- [艾琳的挑战！我会说日语](https://www.erin.ne.jp/zh/)
+- [エリンが挑戦！にほんごできます。(关闭)](https://www.erin.ne.jp/zh/)
 - [Babadum](https://babadum.com/play/?lang=9&game=2)
 - [富士大学留学生网站](http://raicho.ier.u-toyama.ac.jp/)
 - [巧克力学堂](http://www.learningchocolate.com/zh-hans?st_lang=ja)
