@@ -1170,6 +1170,8 @@
 - [在线日语测试](http://test.u-biq.org/)
     - [U-biq](https://study.u-biq.org/)
 - [Online Japanese practice](http://www.nihonmura.net/)
+- [NINJAL-LWP for BCCWJ](http://nlb.ninjal.ac.jp)
+- [少納言 『現代日本語書き言葉均衡コーパス』](http://www.kotonoha.gr.jp/shonagon/)
 - [日语语源词典](http://gogen-allguide.com/)
 - [国语辞典、英以及辞典、以及英辞典](http://dictionary.goo.ne.jp/index.html)
 - [日本语俗语辞书](http://zokugo-dict.com/)
@@ -1218,6 +1220,7 @@
 - [日本大学入试情况](http://www.yozemi.ac.jp/)
 - [日本国际教育支援协会](http://www.jees.or.jp)
 - [国际交流协会](http://rliea.clair.or.jp/kyoukai/)
+- [OKwave](https://okwave.co.jp/)
 - [CiNii Articles](https://ci.nii.ac.jp/ja)
 
 </details>
