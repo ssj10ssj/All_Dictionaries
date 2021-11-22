@@ -1053,8 +1053,9 @@
 - [青空文库](https://www.aozora.gr.jp/)
 - [维基文库](https://zh.m.wikisource.org/wiki/)
 - [大百科全书大辞典网](http://www.dbkdcd.com/)
+- [BOOK WALKER(中)](https://www.bookwalker.com.tw/)
+    - [BOOK WALKER(日)](https://bookwalker.jp/top/)
 - [Readmoo 读墨](https://readmoo.com/)
-- [BOOK WALKER](https://bookwalker.jp/top/)
 
 </details>
 
