@@ -1080,6 +1080,7 @@
 - [王可乐日语](https://colanekojp.com.tw/)
 - [沪江日语](https://m.hujiang.com/jp/)
 - [早道网校](https://www.izaodao.com)
+- [海到学园](https://m.hidao100.cn/)
 - [KUMON](https://www.kumon.ne.jp/jpn/chinese/)
 - [动漫日语](http://anime-manga.jp/chinese/)
 - [看图学语法](https://www.edewakaru.com/)
