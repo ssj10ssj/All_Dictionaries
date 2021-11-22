@@ -1183,6 +1183,7 @@
 - [goo辞書](http://dictionary.goo.ne.jp/)
 - [小楠日语](http://o-oo.net.cn/jptranslate/)
 - [日语在线声调词典](http://www.gavo.t.u-tokyo.ac.jp/ojad/search)
+- [Forvo](https://ja.forvo.com/languages/ja/)
 - [注音网站](http://nihongo-e-na.com/chi/zhcn/id405.html)
 - [拟声词，拟态词博客](http://www.voiceblog.jp/onomatopets/)
 - [日本語の例文](https://j-nihongo.com/)
