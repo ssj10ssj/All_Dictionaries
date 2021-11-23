@@ -1177,6 +1177,7 @@
 - [人民网中国语教室](http://j.people.com.cn/95961/index.html)
 - [杭州现代日语学习论坛](http://bbs.hzmjp.com/indexs.php)
 - [经济日语](http://keizai-nihongo.com/chi/)
+- [Easy News | Easy Japanese - Todai Reader 2](https://easyjapanese.net/?hl=zh-CN)
 - [TBS新闻](http://news.tbs.co.jp/)
 - [NHK新闻](http://www.nhk.or.jp)
     - [NHK新闻(简明)](http://www3.nhk.or.jp/news/easy/)
