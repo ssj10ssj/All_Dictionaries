@@ -920,6 +920,16 @@
 - [文件搜](http://dh.wjsou.com/)
 - [资源狗](http://m.ziyuangou.com/)
 - [searX](https://searx.bar/)
+- [搜狗网址导航](https://123.sogou.com/)
+- [hao123导航](https://m.hao123.com/)
+- [2345网址导航](http://m.2345.com/)
+- [360导航](http://h5.mse.360.cn/newnavi.html#/home)
+- [百度网址大全](http://site.ageqin.cn/)
+- [世界各国网址大全](http://www.world68.com/)
+- [全球名站之家 u8588](https://m.u8588.com/)
+- [你好网](http://site.nihaowang.com/)
+- [看国外](https://www.kanguowai.com/index.html)
+- [悠悠国外网](http://www.yoyone.com/)
 
 </details>
 
