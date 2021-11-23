@@ -41,7 +41,7 @@
 - [汉语百科](#汉语百科)
 - [语料库](#语料库)
 - [搜索引擎-聚合搜索-网站导航](#搜索引擎-聚合搜索-网站导航)
-- [一些站点](#一些站点)
+- [一些站点-图书馆-学术文献-数据库](#一些站点-图书馆-学术文献-数据库)
 - [app](#app)
 - [词典技术服务](#词典技术服务)
 - [词典软件-语言学习-app](#词典软件-语言学习-app)
@@ -848,6 +848,7 @@
 - [萌娘百科](https://zh.moegirl.org/)
 - [THBWiki](https://thwiki.cc/)
 - [十万个为什么-在线青少年百科全书](https://10why.net/)
+- [wikiHow](https://zh.wikihow.com/)
 - [香港網絡大典](http://evchk.wikia.com/)
 - [买购网](https://m.maigoo.com/)
 - [知识贝壳](https://www.zsbeike.com/)
@@ -933,7 +934,7 @@
 
 </details>
 
-## 一些站点
+## 一些站点-图书馆-学术文献-数据库
 <details>
 <summary>展开</summary>
 
@@ -943,13 +944,17 @@
 - [万方数据](https://www.wanfangdata.com.cn/index.html)
 - [维普](https://www.cqvip.com)
 - [iData](https://www.cn-ki.net/)
+- [Google学术搜索](http://scholar.google.com/)
+- [微软学术搜索](http://academic.research.microsoft.com/)
+- [ISI Web of Knowledge](https://isiknowledge.com/)
+- [SciVerse](http://www.sciencedirect.com/)
+- [Springer](http://springer.lib.tsinghua.edu.cn/)
 - [全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/)
 - [超星数字图书馆](https://www.chaoxing.com/)
 - [龙岩图书馆](http://www.lytsg.com/)
 - [读秀](https://www.duxiu.com/)
 - [80图书馆](http://www.80lib.com/)
 - [蜗牛图书馆](http://wnlib.com/)
-- [wikiHow](https://zh.wikihow.com/)
 - [Omniglot](https://www.omniglot.com/)
 - [Separated by a Common Language Observations on British and American English by an American linguist in the UK](https://separatedbyacommonlanguage.blogspot.com/)
 - [John Wells’s phonetic blog](http://phonetic-blog.blogspot.com/)
