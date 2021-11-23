@@ -847,7 +847,7 @@
 - [MBA智库百科](http://wiki.mbalib.com/)
 - [萌娘百科](https://zh.moegirl.org/)
 - [THBWiki](https://thwiki.cc/)
-- [十万个为什么 在线青少年百科全书](https://10why.net/)
+- [十万个为什么-在线青少年百科全书](https://10why.net/)
 - [香港網絡大典](http://evchk.wikia.com/)
 - [买购网](https://m.maigoo.com/)
 - [知识贝壳](https://www.zsbeike.com/)
@@ -1065,6 +1065,11 @@
 - [Amazon 亚马逊](https://www.amazon.com/Chinese-Traditional-eBooks/b?ie=UTF8&node=18327575011)
     - [Kindle 中国](https://www.amazon.cn/Kindle%E7%94%B5%E5%AD%90%E4%B9%A6/b?ie=UTF8&node=116169071&ref_=nav_topnav_giftcert)
 - [Kobo 乐天](https://www.kobo.com/tw/zh/choose-your-country)
+- [Google 图书 (搜索)](https://books.google.com/?hl=zh-CN)
+    - [Google Play 图书](https://play.google.com/store/books?hl=zh&gl=US)
+- [Apple Books](https://www.apple.com/apple-books/)
+- [博客来](https://www.books.com.tw/)
+- [Pubu](https://m.pubu.com.tw/)
 - [Readmoo 读墨](https://readmoo.com/)
 
 </details>
