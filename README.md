@@ -923,6 +923,7 @@
 - [小言导航](https://www.bbddh.com/)
 - [爱达杂货铺](https://adzhp.cn/)
 - [果汁导航](http://guozhivip.com/)
+- [醉长生](https://www.exapmple.com/)
 - [iMyShare](https://imyshare.com/)
 - [虫部落 快搜](https://search.chongbuluo.com/)
 - [文件搜](http://dh.wjsou.com/)
@@ -938,6 +939,8 @@
 - [你好网](http://site.nihaowang.com/)
 - [看国外](https://www.kanguowai.com/index.html)
 - [悠悠国外网](http://www.yoyone.com/)
+- [ACG王国导航](https://www.acgkingdom.com/)
+- [鹿次元](https://luacg.com/)
 
 </details>
 
