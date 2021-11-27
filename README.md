@@ -1048,6 +1048,8 @@
 - [Medict](https://github.com/terasum/medict)
 - [Dict Tango](https://play.google.com/store/apps/details?id=cn.jimex.dict&hl=en&gl=US&auao=none&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Ddict+tango&pcampaignid=APPU_1_yFeRYaazJNWzmgeF0r-4Dw)
 - [平典 Plain Dictionary](https://m.apkpure.com/cn/plain-dictionary/com.knziha/versions?_gl=1*gl1k70*_ga*YW1wLXdnVTI5cVNuZFV4WWNyUmRoZW9uc2FZNXZoV3d2b0dkalhVcWhNYUVIME81UFZHR2VacFdQS2tUeEx5LUM3MF8.)
+- [Ahktionary](https://forum.freemdict.com/t/topic/4818)
+- [WarblerDict](https://forum.freemdict.com/t/topic/7079)
 
 </details>
 
@@ -1294,6 +1296,9 @@
 
 == 在线词典类 ==
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
+- [在线英文字典、词典、辞典、查字典大全 - 沪江英语](https://m.hujiang.com/en/p5142/)
+- [网上在线翻译字典词典大全 百度文库](https://wk.baidu.com/view/a0e646d10129bd64783e0912a216147917117ef6?pcf=2&re=view&bfetype=new)
+- [在线词典资源大全 百度文库](https://wk.baidu.com/view/fa35faef998fcc22bcd10d19?pcf=2&bfetype=new)
 
 == 综合类 ==
 - [在线百科全书列表 维基](https://zh.m.wikipedia.org/wiki/在线百科全书列表)
