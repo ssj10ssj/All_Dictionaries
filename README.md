@@ -909,6 +909,12 @@
 <details>
 <summary>展开</summary>
 
+== 学习类 ==
+- [15学习导航](https://www.yao515.com/)
+- [1纳米学习(失常)](http://www.1nami.com/)
+- [英语学习网站大全](http://www.yywz123.com/)
+
+== 综合类 ==
 - [24K导航](https://www.24kdh.com/)
 - [12K导航网](https://www.12k.net/)
 - [极致导航网](https://www.zzdhz.com/)
@@ -916,8 +922,6 @@
 - [搜奇导航](https://www.souqidaohang.com/)
 - [爱达杂货铺](https://adzhp.cn/)
 - [果汁导航](http://guozhivip.com/)
-- [15学习导航](https://www.yao515.com/)
-- [1纳米学习(失常)](http://www.1nami.com/)
 - [iMyShare](https://imyshare.com/)
 - [虫部落 快搜](https://search.chongbuluo.com/)
 - [文件搜](http://dh.wjsou.com/)
@@ -1301,9 +1305,12 @@
 - [网上在线翻译字典词典大全 百度文库](https://wk.baidu.com/view/a0e646d10129bd64783e0912a216147917117ef6?pcf=2&re=view&bfetype=new)
 - [在线词典资源大全 百度文库](https://wk.baidu.com/view/fa35faef998fcc22bcd10d19?pcf=2&bfetype=new)
 - [在线英文字典、词典、辞典、查字典大全 - 沪江英语](https://m.hujiang.com/en/p5142/)
+- [英语学习网站大全 16个大分类 知乎](https://zhuanlan.zhihu.com/p/405437181)
 - [中国英语学习网在线词典大全](https://www.24en.com/dict/)
+- [英语在线词典大全](http://myxxzl.top/english/abc/17604.html)
 - [实用在线翻译词典大全，CATTI和MTI学习必备](http://www.gaozhaiedu.com/html/translationindustry/shizhanfanyigongjuhecidia/20190719/2735.html)
 - [在线翻译、词典、离线工具大全](https://www.cnbeta.com/articles/soft/57401.htm)
+- [在线词典大全](https://bbs.fobshanghai.com/thread-827573-1-1.html)
 - [在线词典大全，词汇语法，英语阅读 - 资料库 (1)](http://www.zlcool.com/yy/9/e17919.html)
 - [在线词典大全，词汇语法，英语阅读 - 资料库 (2)](http://www.zlcool.com/yy/9/e17919_2.html)
 - [生命科学在线词典大全](https://3g.dxy.cn/bbs/topic/2967411#!_id=3033880)
