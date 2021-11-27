@@ -1292,7 +1292,10 @@
 <details>
 <summary>展开</summary>
 
+== 在线词典类 ==
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
+
+== 综合类 ==
 - [在线百科全书列表 维基](https://zh.m.wikipedia.org/wiki/在线百科全书列表)
 - [问答网站列表 维基](https://zh.m.wikipedia.org/wiki/问答网站列表)
 - [语料库列表 维基](https://zh.m.wikipedia.org/wiki/语料库)
@@ -1305,6 +1308,8 @@
 - [轻小说合集](https://forum.freemdict.com/t/topic/9083)
 - [SearX 搜索引擎 列表](https://searx.space/)
 - [Wiki网站列表](https://zh.m.wikipedia.org/wiki/Wiki网站列表)
+- [Wiki农场比较表](https://zh.m.wikipedia.org/wiki/Wiki农场比较表)
+- [英语网站大全 百度文库](https://wk.baidu.com/view/37dfde62f5335a8102d220f0)
 - [日语学习网站整理 知乎](https://zhuanlan.zhihu.com/p/85343511)
 - [30个免费日语学习网站](https://skdesu.com/zh/%E7%BD%91%E7%BB%9C%E4%B8%8A%E6%9C%8925%E4%B8%AA%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AF%AD%E7%9A%84%E7%BD%91%E7%AB%99/)
 - [50个网盘](https://zhuanlan.zhihu.com/p/97798044)
