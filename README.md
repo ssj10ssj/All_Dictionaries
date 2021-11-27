@@ -912,7 +912,11 @@
 == 学习类 ==
 - [15学习导航](https://www.yao515.com/)
 - [1纳米学习](http://www.1nami.com/)
+- [科塔学术导航](https://site.sciping.com/)
 - [英语学习网站大全](http://www.yywz123.com/)
+- [ChinaG.PRO](https://google.gdn/)
+- [学吧导航](https://www.xue8nav.com/)
+- [木木学习导航](https://www.mumudaohang.com/)
 
 == 综合类 ==
 - [24K导航](https://www.24kdh.com/)
