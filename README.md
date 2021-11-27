@@ -911,7 +911,7 @@
 
 == 学习类 ==
 - [15学习导航](https://www.yao515.com/)
-- [1纳米学习(失常)](http://www.1nami.com/)
+- [1纳米学习](http://www.1nami.com/)
 - [英语学习网站大全](http://www.yywz123.com/)
 
 == 综合类 ==
