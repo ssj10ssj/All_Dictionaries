@@ -920,6 +920,7 @@
 - [极致导航网](https://www.zzdhz.com/)
 - [亿万导航](https://www.yiw1.com/)
 - [搜奇导航](https://www.souqidaohang.com/)
+- [小言导航](https://www.bbddh.com/)
 - [爱达杂货铺](https://adzhp.cn/)
 - [果汁导航](http://guozhivip.com/)
 - [iMyShare](https://imyshare.com/)
