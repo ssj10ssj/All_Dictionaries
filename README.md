@@ -9,7 +9,7 @@
 - 各站点内容良莠不齐，有的有对应纸版，且有权威机构背书，有的则是拼凑之作；有的虽然数据是正版授权，但是排版却暴殄天物，请大家批判性地参考
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
 - 站点情况以google搜索为基准
-- 可与内含的"聚合搜索"及"网站导航"等配合使用
+- 可与内含的"聚合搜索"及"网站导航"等配搭使用
 - 感谢这些站点为我们提供查询服务，感谢大家的分享、补充
 
 </details>
@@ -485,6 +485,7 @@
 - [注音字典](https://bopomofo.com.tw/)
 - [快学网字典](http://zidian.kxue.com/)
 - [句子迷](https://www.juzimi.com/)
+- [小鸡词典 (网络流行语)](https://jikipedia.com/)
 
 </details>
 
@@ -909,6 +910,7 @@
 <summary>展开</summary>
 
 - [24K导航](https://www.24kdh.com/)
+- [12K导航网](https://www.12k.net/)
 - [极致导航网](https://www.zzdhz.com/)
 - [亿万导航](https://www.yiw1.com/)
 - [搜奇导航](https://www.souqidaohang.com/)
