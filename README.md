@@ -9,7 +9,8 @@
 - 各站点内容良莠不齐，有的有对应纸版，且有权威机构背书，有的则是拼凑之作；有的虽然数据是正版授权，但是排版却暴殄天物，请大家批判性地参考
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
 - 站点情况以google搜索为基准
-- 可与内含的"聚合搜索"、"网站导航"、"参考"等搭配使用 , 直接或间接连上所需网站
+- 可与内含的"聚合搜索"、"网站导航"、"参考"等配搭使用 , 直接或间接连上所需网站
+- 除了在线词典 , 学习类也含括在内
 - 感谢这些站点为我们提供查询服务，感谢大家的分享、补充
 
 </details>
@@ -1308,6 +1309,7 @@
 
 == 在线词典类 ==
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
+- [[在线词典] 在线词典网址看这里,优秀的都在了](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=28557)
 - [网上在线翻译字典词典大全](http://www.gtnet.us/link/dic.htm)
     - [网上在线翻译字典词典大全 360文库](https://wenku.so.com/d/16ee9c1ea902189ecbfbfee264acc0e2)
     - [网上在线翻译字典词典大全 百度文库](https://wk.baidu.com/view/a0e646d10129bd64783e0912a216147917117ef6?pcf=2&re=view&bfetype=new)
@@ -1315,13 +1317,13 @@
 - [在线英文字典、词典、辞典、查字典大全 - 沪江英语](https://m.hujiang.com/en/p5142/)
 - [英语学习网站大全 16个大分类 知乎](https://zhuanlan.zhihu.com/p/405437181)
 - [中国英语学习网在线词典大全](https://www.24en.com/dict/)
-- [英语在线词典大全](http://myxxzl.top/english/abc/17604.html)
+    - [英语在线词典大全](http://myxxzl.top/english/abc/17604.html)
+    - [在线词典大全，词汇语法，英语阅读 - 资料库 (1)](http://www.zlcool.com/yy/9/e17919.html)
+    - [在线词典大全，词汇语法，英语阅读 - 资料库 (2)](http://www.zlcool.com/yy/9/e17919_2.html)
 - [实用在线翻译词典大全，CATTI和MTI学习必备](http://www.gaozhaiedu.com/html/translationindustry/shizhanfanyigongjuhecidia/20190719/2735.html)
 - [在线翻译、词典、离线工具大全](https://www.cnbeta.com/articles/soft/57401.htm)
 - [网上在线字典词典大全](https://bbs.2cto.com/read.php?tid=111510)
 - [在线词典大全](https://bbs.fobshanghai.com/thread-827573-1-1.html)
-- [在线词典大全，词汇语法，英语阅读 - 资料库 (1)](http://www.zlcool.com/yy/9/e17919.html)
-- [在线词典大全，词汇语法，英语阅读 - 资料库 (2)](http://www.zlcool.com/yy/9/e17919_2.html)
 - [生命科学在线词典大全](https://3g.dxy.cn/bbs/topic/2967411#!_id=3033880)
 - [各种在线字典、词典（文字工具书大全，珍藏版） - 蚂蚁文库](https://www.antsdoc.com/art/AAQJBVJQVV4HVAcJBwACDw.html)
 
@@ -1345,7 +1347,7 @@
 - [50个网盘](https://zhuanlan.zhihu.com/p/97798044)
 - [40个网盘](https://zhuanlan.zhihu.com/p/65644792)
 - [12个网盘](https://m.chinaz.com/free/2010/0123/104816.shtml)
-- [钛盘](https://www.google.com/amp/s/www.appinn.com/tmp-link/amp/)
+- [钛盘(临时网盘个例)](https://www.google.com/amp/s/www.appinn.com/tmp-link/amp/)
 - [Alexa - Top Sites by Category: Reference](https://www.alexa.com/topsites/category/Reference)
 - [List of online dictionaries](https://en.wikipedia.org/wiki/List_of_online_dictionaries)
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
@@ -1362,7 +1364,6 @@
 - [从哪里能找到完整的法律英语论文、期刊或者案例？](https://www.zhihu.com/question/28550667)
 - [Electronic Resources: English & French dictionaries](http://libraryresources.unog.ch/c.php?g=462656&p=3163215)
 - [主要参考文献一覧表 - 広島大学](http://home.hiroshima-u.ac.jp/wisdom/)
-- [[在线词典] 在线词典网址看这里,优秀的都在了](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=28557)
 
 </details>
 
