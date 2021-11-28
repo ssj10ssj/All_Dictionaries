@@ -1348,6 +1348,8 @@
 - [40个网盘](https://zhuanlan.zhihu.com/p/65644792)
 - [12个网盘](https://m.chinaz.com/free/2010/0123/104816.shtml)
 - [钛盘(临时网盘个例)](https://www.google.com/amp/s/www.appinn.com/tmp-link/amp/)
+- [中国大陆网盘列表](https://zh.m.wikipedia.org/wiki/中国大陆网盘列表)
+- [网盘目录列表索引程式集合](https://www.bone233.com/?p=179)
 - [Alexa - Top Sites by Category: Reference](https://www.alexa.com/topsites/category/Reference)
 - [List of online dictionaries](https://en.wikipedia.org/wiki/List_of_online_dictionaries)
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
