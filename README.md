@@ -50,6 +50,7 @@
 - [电子书搜索-网站-文库-书店](#电子书搜索-网站-文库-书店)
 - [日语学习网站](#日语学习网站)
 - [数学学习网站](#数学学习网站)
+- [综合学习网站(选出)](#综合学习网站(选出))
 - [参考](#参考)
 - [字体](#字体)
 - [输入法](#输入法)
@@ -1300,6 +1301,16 @@
 - [3Blue1Brown](https://www.3blue1brown.com/)
 - [玄数](http://math001.com/link/)
 - [AMS](https://www.ams.org/home/page)
+
+</details>
+
+## 综合学习网站(选出)
+<details>
+<summary>展开</summary>
+
+- [书享家(电子书导航)](https://shuxiangjia.cn/)
+- [15学习导航(学习导航)](https://www.yao515.com/)
+- [科塔学术导航(学术导航)](https://site.sciping.com/)
 
 </details>
 
