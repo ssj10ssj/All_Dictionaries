@@ -1364,10 +1364,11 @@
 == 综合类 ==
 - [聚合搜索 百度](https://baike.baidu.com/item/聚合搜索)
 - [资源搜索 freemdict](https://forum.freemdict.com/t/topic/9117)
+- [mdx入门 freemdict](https://forum.freemdict.com/t/topic/9610)
+- [轻小说合集 freemdict](https://forum.freemdict.com/t/topic/9083)
 - [全网免费电子书 iMyShare](https://imyshare.com/article/28/)
 - [有了这50个电子书网站...](https://m.sohu.com/a/276723424_99949461/?pvid=000115_3w_a)
 - [作业君的小站](https://homeworkkun.wordpress.com/2018/08/18/dcdlls/#more-241)
-- [轻小说合集](https://forum.freemdict.com/t/topic/9083)
 - [SearX 搜索引擎 列表](https://searx.space/)
 - [英语网站大全 百度文库](https://wk.baidu.com/view/37dfde62f5335a8102d220f0)
 - [50个网盘](https://zhuanlan.zhihu.com/p/97798044)
