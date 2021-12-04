@@ -1340,6 +1340,17 @@
 - [生命科学在线词典大全](https://3g.dxy.cn/bbs/topic/2967411#!_id=3033880)
 - [各种在线字典、词典（文字工具书大全，珍藏版） - 蚂蚁文库](https://www.antsdoc.com/art/AAQJBVJQVV4HVAcJBwACDw.html)
 
+== 文献学术类 ==
+- [78个学术网站！史上最全常用文献数据库汇总!](https://blog.csdn.net/u012687394/article/details/109599943)
+- [收藏！史上最全学术搜索引擎推荐！](http://www.ecorr.org/news/industry/2018-02-08/168174.html)
+- [史上最全的常用学术网站，没有之一！](https://3g.163.com/dy/article/GKPKA9780536L1PQ.html?spss=adap_pc)
+- [史上最全的学术网站](http://www.360doc.cn/article/3595160_857154851.html)
+- [知名学术搜索引擎有哪些？](https://www.zhihu.com/question/19664055)
+- [【最全汇总】24个免费下载论文、查找文献的神级网站合集，超实用！](https://zhuanlan.zhihu.com/p/148742230)
+- [从哪里能找到完整的法律英语论文、期刊或者案例？](https://www.zhihu.com/question/28550667)
+- [Electronic Resources: English & French dictionaries](http://libraryresources.unog.ch/c.php?g=462656&p=3163215)
+- [主要参考文献一覧表 - 広島大学](http://home.hiroshima-u.ac.jp/wisdom/)
+
 == 日语网站类 ==
 - [日语学习网站整理 知乎](https://zhuanlan.zhihu.com/p/85343511)
 - [网上学习日语网站大集合](https://m.hujiang.com/c/wangshangxueriyu/p1095759/?source=pc)
@@ -1361,7 +1372,7 @@
 - [List of online dictionaries](https://en.wikipedia.org/wiki/List_of_online_dictionaries)
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
 
-== 综合类 ==
+== 搜索聚合类 ==
 - [聚合搜索 百度](https://baike.baidu.com/item/聚合搜索)
 - [资源搜索 freemdict](https://forum.freemdict.com/t/topic/9117)
 - [SearX 搜索引擎 列表](https://searx.space/)
@@ -1369,12 +1380,8 @@
 - [搜索引擎搜集](https://getquicker.net/KC/Kb/Article/285)
 - [替代搜索引擎：Google 的 25 种替代方案](https://www.affde.com/zh-CN/alternative-search-engines-7.html)
 - [2021年将使用22个替代搜索引擎](http://www.srcmini.com/68902.html)
-- [mdx入门 freemdict](https://forum.freemdict.com/t/topic/9610)
-- [轻小说合集 freemdict](https://forum.freemdict.com/t/topic/9083)
-- [全网免费电子书 iMyShare](https://imyshare.com/article/28/)
-- [有了这50个电子书网站...](https://m.sohu.com/a/276723424_99949461/?pvid=000115_3w_a)
-- [作业君的小站](https://homeworkkun.wordpress.com/2018/08/18/dcdlls/#more-241)
-- [英语网站大全 百度文库](https://wk.baidu.com/view/37dfde62f5335a8102d220f0)
+
+== 网盘资源类 ==
 - [50个网盘](https://zhuanlan.zhihu.com/p/97798044)
 - [40个网盘](https://zhuanlan.zhihu.com/p/65644792)
 - [12个网盘](https://m.chinaz.com/free/2010/0123/104816.shtml)
@@ -1382,6 +1389,14 @@
 - [网盘目录列表索引程式集合](https://www.bone233.com/?p=179)
 - [百度网盘资源搜索网站大全](https://zhuanlan.zhihu.com/p/68359089)
 - [129个百度网盘资源搜索网站大全](https://jishuin.proginn.com/p/763bfbd2ddcd)
+
+== 综合类 ==
+- [mdx入门 freemdict](https://forum.freemdict.com/t/topic/9610)
+- [轻小说合集 freemdict](https://forum.freemdict.com/t/topic/9083)
+- [全网免费电子书 iMyShare](https://imyshare.com/article/28/)
+- [有了这50个电子书网站...](https://m.sohu.com/a/276723424_99949461/?pvid=000115_3w_a)
+- [作业君的小站](https://homeworkkun.wordpress.com/2018/08/18/dcdlls/#more-241)
+- [英语网站大全 百度文库](https://wk.baidu.com/view/37dfde62f5335a8102d220f0)
 - [Alexa - Top Sites by Category: Reference](https://www.alexa.com/topsites/category/Reference)
 - [**bbkbbk** 德语词库整理](https://pdawiki.com/forum/thread-11437-1-1.html)
 - [The Web of Online Dictionaries](https://www.facstaff.bucknell.edu/rbeard/diction.html)
@@ -1392,15 +1407,6 @@
 - [有没有值得推荐的拉丁语在线翻译网站？](https://www.zhihu.com/question/21977562)
 - [意语干货：最实用的意语在线词典！](https://it.hujiang.com/new/p777140/)
 - [Dictionaries - English Spanish Dictionaries](https://lingolex.com/spanishbookshop/dictionary.htm)
-- [78个学术网站！史上最全常用文献数据库汇总!](https://blog.csdn.net/u012687394/article/details/109599943)
-- [收藏！史上最全学术搜索引擎推荐！](http://www.ecorr.org/news/industry/2018-02-08/168174.html)
-- [史上最全的常用学术网站，没有之一！](https://3g.163.com/dy/article/GKPKA9780536L1PQ.html?spss=adap_pc)
-- [史上最全的学术网站](http://www.360doc.cn/article/3595160_857154851.html)
-- [知名学术搜索引擎有哪些？](https://www.zhihu.com/question/19664055)
-- [【最全汇总】24个免费下载论文、查找文献的神级网站合集，超实用！](https://zhuanlan.zhihu.com/p/148742230)
-- [从哪里能找到完整的法律英语论文、期刊或者案例？](https://www.zhihu.com/question/28550667)
-- [Electronic Resources: English & French dictionaries](http://libraryresources.unog.ch/c.php?g=462656&p=3163215)
-- [主要参考文献一覧表 - 広島大学](http://home.hiroshima-u.ac.jp/wisdom/)
 
 </details>
 
