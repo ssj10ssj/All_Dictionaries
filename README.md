@@ -1339,6 +1339,7 @@
 - [在线词典大全](https://bbs.fobshanghai.com/thread-827573-1-1.html)
 - [生命科学在线词典大全](https://3g.dxy.cn/bbs/topic/2967411#!_id=3033880)
 - [各种在线字典、词典（文字工具书大全，珍藏版） - 蚂蚁文库](https://www.antsdoc.com/art/AAQJBVJQVV4HVAcJBwACDw.html)
+- [Electronic Resources: English & French dictionaries](http://libraryresources.unog.ch/c.php?g=462656&p=3163215)
 
 == 文献学术类 ==
 - [78个学术网站！史上最全常用文献数据库汇总!](https://blog.csdn.net/u012687394/article/details/109599943)
@@ -1348,7 +1349,6 @@
 - [知名学术搜索引擎有哪些？](https://www.zhihu.com/question/19664055)
 - [【最全汇总】24个免费下载论文、查找文献的神级网站合集，超实用！](https://zhuanlan.zhihu.com/p/148742230)
 - [从哪里能找到完整的法律英语论文、期刊或者案例？](https://www.zhihu.com/question/28550667)
-- [Electronic Resources: English & French dictionaries](http://libraryresources.unog.ch/c.php?g=462656&p=3163215)
 - [主要参考文献一覧表 - 広島大学](http://home.hiroshima-u.ac.jp/wisdom/)
 
 == 日语网站类 ==
