@@ -57,6 +57,8 @@
 - [GitHub电子书](#GitHub电子书)
 - [GitHub](#GitHub)
 - [Chrome-扩展](#Chrome-扩展)
+- [工具](#工具)
+- [ACGN-二次元](#ACGN-二次元)
 
 </details>
 
@@ -1491,7 +1493,27 @@
 
 </details>
 
-## 二次元
+## 工具
+<details>
+<summary>展开</summary>
+
+- [AndrOpen Office](https://andropenoffice.blogspot.com/?m=1)
+- [Quick Edit](https://rhmsoft.com/qedit/help.html)
+- [NMM文本编辑器](https://play.google.com/store/apps/details?id=in.mfile&hl=zh≷=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dnmm%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8&pcampaignid=APPU_1_VBkVZd2MBdDhseMP2MGx2Ao)
+- [MT管理器](https://mt2.cn/)
+- [NP管理器](https://github.com/githubXiaowangzi/NP-Manager)
+- [MiXplorer](https://mixplorer.com/)
+- [ES文件浏览器](http://www.estrongs.com/)
+- [AIDE](https://www.android-ide.com/)
+- [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dpydroid&pcampaignid=APPU_1_XhoVZftAmoPj4Q_Uv7SQCw)
+- [TinyPNG](https://tinify.cn/)
+- [爱笔思画](https://ibispaint.com/lecture/index.jsp?lang=zh-HANS)
+- [Sketchbook](https://www.sketchbook.com/)
+- [PS Touch](https://m.apkpure.com/adobe-photoshop-touch/air.com.adobe.pstouch/download)
+
+</details>
+
+## ACGN-二次元
 <details>
 <summary>展开</summary>
 
