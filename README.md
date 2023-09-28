@@ -1327,6 +1327,7 @@
 - [3Blue1Brown](https://www.3blue1brown.com/)
 - [玄数](http://math001.com/link/)
 - [AMS](https://www.ams.org/home/page)
+- [大数学维基](https://googology.fandom.com/zh/wiki/%E5%A4%A7%E6%95%B8%E5%88%97%E8%A1%A8?variant=zh-cn)
 
 </details>
 
