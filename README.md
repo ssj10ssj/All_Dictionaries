@@ -1526,6 +1526,8 @@
 - [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dpydroid&pcampaignid=APPU_1_XhoVZftAmoPj4Q_Uv7SQCw)
 - [Python官方文档](https://docs.python.org/zh-cn/3/)
 - [Pypi](https://pypi.org/)
+- [菜鸟教程 Runoob](https://www.runoob.com/)
+- [编程师 W3Cschool](https://m.w3cschool.cn/)
 - [TinyPNG](https://tinify.cn/)
 - [爱笔思画](https://ibispaint.com/lecture/index.jsp?lang=zh-HANS)
 - [Sketchbook](https://www.sketchbook.com/)
