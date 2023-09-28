@@ -41,6 +41,7 @@
 - [其他](#其他)
 - [汉语百科](#汉语百科)
 - [语料库](#语料库)
+- [AI](#AI)
 - [搜索引擎-聚合搜索-网站导航](#搜索引擎-聚合搜索-网站导航)
 - [一些站点-图书馆-数据库-学术文献](#一些站点-图书馆-数据库-学术文献)
 - [app](#app)
@@ -909,6 +910,17 @@
 
 </details>
 
+## AI
+<details>
+<summary>展开</summary>
+
+- [ChatGPT](https://chat.openai.com/auth/login)
+- [Bard](https://bard.google.com/)
+- [聊天机器人列表](https://zh.m.wikipedia.org/zh-cn/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%97%E8%A1%A8)
+- [日文口说老师Aoi](https://play.google.com/store/apps/details?id=com.db.lingotv&hl=zh_TW≷=US)
+
+</details>
+
 ## 搜索引擎-聚合搜索-网站导航
 <details>
 <summary>展开</summary>
@@ -1099,7 +1111,7 @@
 - [维基文库](https://zh.m.wikisource.org/wiki/)
 - [Project Gutenberg 古登堡计划](https://www.gutenberg.org/)
 - [大百科全书大辞典网](http://www.dbkdcd.com/)
-- [BOOK WALKER(中)](https://www.bookwalker.com.tw/)
+- [BOOK WALKER(台)](https://www.bookwalker.com.tw/)
     - [BOOK WALKER(日)](https://bookwalker.jp/top/)
 - [Amazon 亚马逊](https://www.amazon.com/Chinese-Traditional-eBooks/b?ie=UTF8&node=18327575011)
     - [Kindle 中国](https://www.amazon.cn/Kindle%E7%94%B5%E5%AD%90%E4%B9%A6/b?ie=UTF8&node=116169071&ref_=nav_topnav_giftcert)
