@@ -58,7 +58,7 @@
 - [GitHub电子书](#GitHub电子书)
 - [GitHub](#GitHub)
 - [Chrome-扩展](#Chrome-扩展)
-- [工具](#工具)
+- [综合工具](#综合工具)
 - [ACGN-二次元](#ACGN-二次元)
 
 </details>
@@ -1505,7 +1505,7 @@
 
 </details>
 
-## 工具
+## 综合工具
 <details>
 <summary>展开</summary>
 
@@ -1519,6 +1519,8 @@
 - [ES文件浏览器](http://www.estrongs.com/)
 - [AIDE](https://www.android-ide.com/)
 - [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dpydroid&pcampaignid=APPU_1_XhoVZftAmoPj4Q_Uv7SQCw)
+- [Python官方文档](https://docs.python.org/zh-cn/3/)
+- [Pypi](https://pypi.org/)
 - [TinyPNG](https://tinify.cn/)
 - [爱笔思画](https://ibispaint.com/lecture/index.jsp?lang=zh-HANS)
 - [Sketchbook](https://www.sketchbook.com/)
