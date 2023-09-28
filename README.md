@@ -1034,6 +1034,7 @@
 - [文林® 汉语学习软件](https://wenlin.com/)
 - [HelloTalk](http://www.hellotalk.com/)
 - [日语语法酷](https://m.wandoujia.com/apps/6860621)
+- [日文小说-轻](https://play.google.com/store/apps/details?id=com.suhao.lightnovel&hl=zh&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E8%BD%BB%E5%B0%8F%E8%AF%B4+app&pcampaignid=APPU_1_CMoVZafQJ_idseMP56Du0QM)
 
 </details>
 
