@@ -1367,6 +1367,7 @@
 - [主要参考文献一覧表 - 広島大学](http://home.hiroshima-u.ac.jp/wisdom/)
 
 == 日语网站类 ==
+- [Github/NoHeartPen](https://github.com/NoHeartPen/awesome_japanese_study_tools)
 - [日语学习网站整理 知乎](https://zhuanlan.zhihu.com/p/85343511)
 - [网上学习日语网站大集合](https://m.hujiang.com/c/wangshangxueriyu/p1095759/?source=pc)
 - [日语实用网站网址大集合](https://m.douban.com/group/topic/9518549/)
