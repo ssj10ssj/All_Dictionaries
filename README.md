@@ -1523,6 +1523,7 @@
 - [爱笔思画](https://ibispaint.com/lecture/index.jsp?lang=zh-HANS)
 - [Sketchbook](https://www.sketchbook.com/)
 - [PS Touch](https://m.apkpure.com/adobe-photoshop-touch/air.com.adobe.pstouch/download)
+- [阿Q围棋](https://play.google.com/store/apps/details?id=cn.ezandroid.aq.preview&hl=zh&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E9%98%BFq%E5%9B%B4%E6%A3%8B)
 
 </details>
 
