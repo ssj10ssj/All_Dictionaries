@@ -846,7 +846,7 @@
 - [维基百科](https://zh.m.wikipedia.org/wiki/)
 - [维基大典](https://zh-classical.m.wikipedia.org/wiki/)
 - [百度百科](https://baike.baidu.com/)
-- [快懂百科/头条百科/互动百科](https://m.baike.com/)
+- [快懂百科/头条百科/抖音百科/互动百科](https://m.baike.com/)
 - [互动百科](http://www.baike.com/)
 - [搜狗百科](http://baike.sogou.com/)
 - [360 百科](https://baike.so.com/)
