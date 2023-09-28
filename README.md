@@ -1491,4 +1491,12 @@
 
 </details>
 
+## 二次元
+<details>
+<summary>展开</summary>
+
+- [萌卡YGOPro社区](https://ygobbs.com/)
+
+</details>
+
 -EOF-
