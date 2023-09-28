@@ -1530,6 +1530,12 @@
 <summary>展开</summary>
 
 - [萌卡YGOPro社区](https://ygobbs.com/)
+- [萌卡社](https://moetcg.club/)
+- [巴哈姆特](https://m.gamer.com.tw/?t=GNN&page=1)
+- [哔哩哔哩视频解析下载](https://bili.iiilab.com/)
+- [动漫派](https://app.tvtvd.com/)
+- [Animia](https://animia.me/)
+- [小鸡模拟器](https://play.google.com/store/apps/details?id=org.xiaoji001.app&hl=zh≷=US)
 
 </details>
 
