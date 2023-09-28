@@ -1537,6 +1537,7 @@
 - [MiXplorer](https://mixplorer.com/)
 - [ES文件浏览器](http://www.estrongs.com/)
 - [AIDE](https://www.android-ide.com/)
+- [QPython](https://github.com/qpython-android/qpython3/releases)
 - [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dpydroid&pcampaignid=APPU_1_XhoVZftAmoPj4Q_Uv7SQCw)
 - [Python官方文档](https://docs.python.org/zh-cn/3/)
 - [Pypi](https://pypi.org/)
