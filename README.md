@@ -1110,6 +1110,8 @@
 - [点点文档](https://www.junengfan.cn/bd)
 - [淘链客](https://www.toplinks.cc/s/)
 - [Scribd](https://www.scribd.com/)
+- [Good Reads](https://www.goodreads.com/)
+- [English textbooks](https://www.at.alleng.org/english/txb1.htm)
 - [Library Genesis/libgen](http://libgen.is/)
 - [Z-Library](https://z-lib.org/)
     - [Z-Library(Wikipedia备址)](https://en.m.wikipedia.org/wiki/Z-Library)
