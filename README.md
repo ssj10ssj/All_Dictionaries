@@ -1542,6 +1542,11 @@
 - [哔哩哔哩视频解析下载](https://bili.iiilab.com/)
 - [动漫派](https://app.tvtvd.com/)
 - [Animia](https://animia.me/)
+- [Ani-One](https://www.medialink.com.hk/tc/Anione.aspx)
+- [Muse木棉花](https://www.e-muse.com.tw/)
+- [Age动漫](https://m.agemys.org/#/)
+- [Pixiv](https://www.pixiv.net/)
+- [异次元-源仓库](https://www.yckceo.com/yiciyuan/tuyuan/index.html)
 - [小鸡模拟器](https://play.google.com/store/apps/details?id=org.xiaoji001.app&hl=zh≷=US)
 
 </details>
