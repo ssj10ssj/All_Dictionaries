@@ -1511,6 +1511,7 @@
 
 - [AndrOpen Office](https://andropenoffice.blogspot.com/?m=1)
 - [Quick Edit](https://rhmsoft.com/qedit/help.html)
+- [Termux](https://termux.dev/cn/index.html)
 - [NMM文本编辑器](https://play.google.com/store/apps/details?id=in.mfile&hl=zh≷=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dnmm%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8&pcampaignid=APPU_1_VBkVZd2MBdDhseMP2MGx2Ao)
 - [MT管理器](https://mt2.cn/)
 - [NP管理器](https://github.com/githubXiaowangzi/NP-Manager)
