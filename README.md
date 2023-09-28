@@ -1092,6 +1092,7 @@
 - [书享家](https://shuxiangjia.cn/)
 - [资源帝](http://shu.ziyuandi.cn/)
 - [轻小说文库](https://www.wenku8.net/login.php?jumpurl=http%3A%2F%2Fwww.wenku8.net%2Fmodules%2Farticle%2Ftoplist.php%3Fsort%3Dlastupdate)
+- [哔哩轻小说](https://w.linovelib.com/)
 - [青空文库](https://www.aozora.gr.jp/)
 - [维基文库](https://zh.m.wikisource.org/wiki/)
 - [Project Gutenberg 古登堡计划](https://www.gutenberg.org/)
