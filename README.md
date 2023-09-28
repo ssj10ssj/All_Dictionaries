@@ -1509,6 +1509,7 @@
 <details>
 <summary>展开</summary>
 
+- [Zim资源](https://library.kiwix.org/?lang=zho#lang=zho)
 - [AndrOpen Office](https://andropenoffice.blogspot.com/?m=1)
 - [Quick Edit](https://rhmsoft.com/qedit/help.html)
 - [Termux](https://termux.dev/cn/index.html)
