@@ -1126,6 +1126,8 @@
 - [Library Genesis/libgen](http://libgen.is/)
 - [Z-Library](https://z-lib.org/)
     - [Z-Library(Wikipedia备址)](https://en.m.wikipedia.org/wiki/Z-Library)
+- [安娜的档案/Anna’s Archive](https://zh.annas-archive.org/)
+- [TMZN](https://netdrive.tmzncty.cn/)
 - [FreeMbook](https://freembook.com/)
 - [DLRaw.net | Raw Manga Free Download](https://dlraw.to/raw/%EF%BC%8C%E8%BF%99%E4%B8%AA%E8%BF%98%E6%98%AF%E5%9C%A8%E6%9C%AC%E8%AE%BA%E5%9D%9B%E7%9C%8B%E5%88%B0%E5%85%B6%E4%BB%96%E4%BA%BA%E6%8E%A8%E8%8D%90%E7%9A%84#)
 - [Internet Archive](https://archive.org/)
