@@ -1044,6 +1044,8 @@
 - [linguamarina](https://www.youtube.com/channel/UCAQg09FkoobmLquNNoO4ulg)
 - [Marina Mogilko](https://www.youtube.com/channel/UCLJl8-mbCfolWMkh1F1qfjA)
 - http://blog.liberty-e.com/blog/
+- [看典古籍](https://www.kandianguji.com/)
+- [儒藏](https://www.rulib.cn/#/)
 
 </details>
 
