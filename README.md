@@ -590,6 +590,7 @@
 - [日语语法酷](https://grammar.izaodao.com/)
 - [ふりがな文庫](https://furigana.info/)
 - [日本姓氏語源辞典](https://name-power.net/)
+- [nekodict](https://nekodict.com/)
 - [Yahoo!辞書 2019-05-31❗已下线](https://dic.yahoo.co.jp/)
 
 </details>
