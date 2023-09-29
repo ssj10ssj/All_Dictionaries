@@ -1341,6 +1341,7 @@
 - [数学软件（维基）](https://zh.m.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6%E8%BD%AF%E4%BB%B6)
 - [数字帝国](https://zh.numberempire.com/)
 - [OEIS 整数数列线上大全](https://oeis.org/)
+- [Maths is Fun](https://www.mathsisfun.com/)
 - [数学乐](https://www.shuxuele.com/)
 - [AoPS](https://artofproblemsolving.com/)
 - [Brilliant](https://brilliant.org/)
