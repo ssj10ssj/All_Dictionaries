@@ -388,11 +388,12 @@
 <details>
 <summary>展开</summary>
 
-- [中国大百科全书 第三版 · 网络版](https://poe.zgbk.com/)
+- [中国大百科全书 第三版 · 网络版](https://www.zgbk.com/)
 - [中国大百科全书数据库](http://h.bkzx.cn/)
 - [教育部電子辭典](http://www.spps.tp.edu.tw/dict.htm)
 - [教育部重編國語辭典修訂本](http://dict.revised.moe.edu.tw/cbdic/)
 - [教育部國語辭典簡編本::包括释义均有真人朗读](http://dict.concised.moe.edu.tw/jbdic/)
+- [付费::辞海官方网站](https://cihai.com.cn/)
 - [付费::辞源（第三版）](http://ciyuan.cp.com.cn/)
 - [付费::大辞海](http://www.dacihai.com.cn/)
 - [付费::辞海](http://gongjushu.cishu.com.cn/)
