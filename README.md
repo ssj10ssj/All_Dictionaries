@@ -914,7 +914,7 @@
 - [台湾华语文语料库](https://coct.naer.edu.tw/)
 - [中央研究院汉语平衡语料库](http://asbc.iis.sinica.edu.tw/)
 - [国家语委现代汉语语料库](http://corpus.zhonghuayuwen.org/cncindex.aspx)
-- [北京大学语料库](http://ccl.pku.edu.cn:8080/ccl_corpus/)
+- [北京大学语料库 CCL](http://ccl.pku.edu.cn:8080/ccl_corpus/)
 - [语料库语言学在线](https://www.corpus4u.org/)
 - [现代日语书面语均衡语料库BCCWJ](https://ccd.ninjal.ac.jp/bccwj/)
 - [日语口语词汇语料库CSJ](https://ccd.ninjal.ac.jp/csj/)
@@ -939,6 +939,9 @@
 - [付费::CNKI工具书馆](http://gongjushu.cnki.net/refbook/default.aspx)
 - [付费::方正阿帕比中国工具书资源全文数据库](http://www.apabi.cn/solution/source/4/)
 - [大学数字图书馆国际合作计划（China Academic Digital Associative Library，CADAL）](http://www.cadal.cn/)
+- [中文词汇网络 CWN](https://lopentu.github.io/CwnWeb/)
+- [汉语词语搭配查询系统](https://deeplang.feishu.cn/docs/doccnoH9ncCZspo2Ubx79bpZ0Lh)
+- [iweb](https://www.english-corpora.org/iweb/)
 
 </details>
 
