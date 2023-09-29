@@ -9,7 +9,7 @@
 - 各站点内容良莠不齐，有的有对应纸版，且有权威机构背书，有的则是拼凑之作；有的虽然数据是正版授权，但是排版却暴殄天物，请大家批判性地参考
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
 - 站点情况以google搜索为基准
-- 可适当将内含的"聚合搜索"、"网站导航"、"参考"等搭配用 , 直接或间接连上所需网站
+- 可适当将内含的"聚合搜索"、"网站导航"、"参考"等搭配用 , 直接或间接地连上所需的网站
 - 除了在线词典 , 学习类也含括在内 , 可当成"导航的导航"
 - 感谢这些站点为我们提供查询服务，感谢大家的分享、补充
 - [遠東英漢大辭典全文阅读及纯文本化项目](http://feecd.ducidian.com/)
@@ -1498,6 +1498,7 @@
 - [主要参考文献一覧表 - 広島大学](http://home.hiroshima-u.ac.jp/wisdom/)
 
 == 日语网站类 ==
+- [Freemdict 日语网站收集](https://forum.freemdict.com/t/topic/16334)
 - [日语学习网站整理 知乎](https://zhuanlan.zhihu.com/p/85343511)
 - [网上学习日语网站大集合](https://m.hujiang.com/c/wangshangxueriyu/p1095759/?source=pc)
 - [日语实用网站网址大集合](https://m.douban.com/group/topic/9518549/)
