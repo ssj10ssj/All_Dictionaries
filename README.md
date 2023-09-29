@@ -557,7 +557,7 @@
 - [漢字と古典の総合サイト、字源 - jigen.net](http://jigen.net/)
 - [ピクシブ百科事典](https://dic.pixiv.net/)
 - [日本の伝統文化・芸能事典](http://iroha-japan.net/)
-- http://dic.nicovideo.jp/
+- [ニコニコ大百科](http://dic.nicovideo.jp/)
 - [辞書辞典無料検索JLogos](http://www.jlogos.com/)
 - [和独辞典](https://www.wadoku.de/)
 - [Yakuru和露・露和オンライン辞書](https://yakuru.net/)
