@@ -1324,6 +1324,11 @@
 - [陶哲轩 博客](https://terrytao.wordpress.com/)
 - [Matrix67](http://www.matrix67.com/)
 - [WolframAlpha](https://www.wolframalpha.com/)
+- [Wolfram Mathematica](www.wolfram.com/mathematica/)
+- [Maple](www.maplesoft.com/products/maple/)
+- [Maxima](https://maxima.sourceforge.io/zh/index.html)
+- [MATLAB](https://www.mathworks.com/products/matlab.html)
+- [数学软件（维基）](https://zh.m.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6%E8%BD%AF%E4%BB%B6)
 - [数字帝国](https://zh.numberempire.com/)
 - [OEIS 整数数列线上大全](https://oeis.org/)
 - [数学乐](https://www.shuxuele.com/)
@@ -1337,8 +1342,8 @@
 == 书籍 ==
 - 《数学辞海》
 - 《数学大辞典》
-- 《岩波数学辞典》
-    - 《数学百科辞典》（中译旧版）
+- 《数学百科辞典》（中译旧版）
+    - 《岩波数学辞典》
 - 《现代数学手册》
 - 《实用数学手册》
 - 《数学百科全书》
@@ -1349,13 +1354,13 @@
 - 《普林斯顿数学指南》
 - 《20世纪数学思想》
 - 《10000个科学难题 数学卷》
-- 《那些年你没学明白的数学》
-    - 《攻读研究生必知必会的数学》
+- 《攻读研究生必知必会的数学》
+    - 《那些年你没学明白的数学》
     - 《数学拾遗》
 - 《从大学数学走向现代数学》
 - 《现代数学思想概论》
 - 《现代数学的概念》
-- 《数学——它的内容、方法和意义》
+- 《数学 : 它的内容、方法和意义》
 - 《古今数学思想》
 - 《什么是数学》
 - 《高观点下的初等数学》
@@ -1367,7 +1372,7 @@
 - 《数学万花筒》
 - 《数学之书》
 - 《数学少女》/《数学女孩》
-- 《欧姆社学习漫画》（数学部分）
+- 《欧姆社学习漫画》（数学）
 - 《牛津英汉双解数学词典》
 - 《英汉数学词汇》
 - 《数学名词》
