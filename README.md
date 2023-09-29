@@ -801,8 +801,8 @@
 - [在线满汉词典](http://www.anakv.com/dict/)
 - [维搜维汉在线词典 - izda](http://cn.dict.izda.com/)
 - [Uyghur-Chinese-Uyghur Dictionary 维汉词典](http://www.uyghurche.com/)
-- [e马来文字典 eKamus](http://www.ekamus.info/)
 - [夏威夷语词典](http://wehewehe.org)
+- [e马来文字典 eKamus](http://www.ekamus.info/)
 
 </details>
 
@@ -917,6 +917,7 @@
 - [ChatGPT](https://chat.openai.com/auth/login)
 - [Bard](https://bard.google.com/)
 - [聊天机器人列表](https://zh.m.wikipedia.org/zh-cn/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%97%E8%A1%A8)
+- [りんな 人工智能 Line](https://www.rinna.jp/)
 - [日文口说老师Aoi](https://play.google.com/store/apps/details?id=com.db.lingotv&hl=zh_TW≷=US)
 
 </details>
@@ -1116,7 +1117,7 @@
 - [Library Genesis/libgen](http://libgen.is/)
 - [Z-Library](https://z-lib.org/)
     - [Z-Library(Wikipedia备址)](https://en.m.wikipedia.org/wiki/Z-Library)
-- [FreeMBook](https://freembook.com/)
+- [FreeMbook](https://freembook.com/)
 - [DLRaw.net | Raw Manga Free Download](https://dlraw.to/raw/%EF%BC%8C%E8%BF%99%E4%B8%AA%E8%BF%98%E6%98%AF%E5%9C%A8%E6%9C%AC%E8%AE%BA%E5%9D%9B%E7%9C%8B%E5%88%B0%E5%85%B6%E4%BB%96%E4%BA%BA%E6%8E%A8%E8%8D%90%E7%9A%84#)
 - [Internet Archive](https://archive.org/)
 - [PDF Drive](https://www.pdfdrive.com/)
@@ -1156,7 +1157,6 @@
 - [JLPT 日语能力测试官网](https://www.jlpt.jp/cn/index.html)
 - [JLPT备考网站](https://jn1et.com/jlpt/)
 - [Wikibooks](https://ja.m.wikibooks.org/wiki/日本語)
-- [りんな 人工智能 Line](https://www.rinna.jp/)
 - [ひらひらのひらがなめがね](https://hiragana.jp/zh/)
 - [手紙の書き方](http://www.letter110.net/)
 - [読み方は？](https://yomikatawa.com/)
@@ -1342,7 +1342,7 @@
 - [数学软件（维基）](https://zh.m.wikipedia.org/zh-cn/%E6%95%B0%E5%AD%A6%E8%BD%AF%E4%BB%B6)
 - [数字帝国](https://zh.numberempire.com/)
 - [OEIS 整数数列线上大全](https://oeis.org/)
-- [Maths is Fun](https://www.mathsisfun.com/)
+- [Math is Fun](https://www.mathsisfun.com/)
 - [数学乐](https://www.shuxuele.com/)
 - [AoPS](https://artofproblemsolving.com/)
 - [Brilliant](https://brilliant.org/)
