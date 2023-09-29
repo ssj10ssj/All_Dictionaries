@@ -12,6 +12,7 @@
 - 可适当将内含的"聚合搜索"、"网站导航"、"参考"等搭配用 , 直接或间接连上所需网站
 - 除了在线词典 , 学习类也含括在内 , 可当成"导航的导航"
 - 感谢这些站点为我们提供查询服务，感谢大家的分享、补充
+- [遠東英漢大辭典全文阅读及纯文本化项目](http://feecd.ducidian.com/)
 
 </details>
 
@@ -100,6 +101,7 @@
 - [知网词典](http://cidian.cnki.net/)
 - [CNKI 翻译助手](http://dict.cnki.net/)
 - [优词词典](http://www.youdict.com/)
+- [quword趣词（原优词词典）](https://www.quword.com/w/welcome)
 - [维基词典](https://zh.m.wiktionary.org/wiki/)
 - [人人词典 - 跟人人影视字幕组一起学英语](https://www.91dict.com/)
 - [汉典](http://www.zdic.net/)
