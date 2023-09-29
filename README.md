@@ -869,6 +869,7 @@
 - [搜狗百科](http://baike.sogou.com/)
 - [360 百科](https://baike.so.com/)
 - [MBA智库百科](http://wiki.mbalib.com/)
+- [小时百科](https://wuli.wiki/index.html)
 - [萌娘百科](https://zh.moegirl.org/)
 - [THBWiki](https://thwiki.cc/)
 - [十万个为什么-在线青少年百科全书](https://10why.net/)
