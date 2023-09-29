@@ -418,6 +418,8 @@
 - [中文大辭典](http://ap6.pccu.edu.tw/Dictionary/)
 - [遠流:: 活用中文大辭典](https://lib.ctcn.edu.tw/chtdict/edit.aspx)
 - [东方语言学](http://www.eastling.org/)
+- [《汉语方言学大词典》数字化平台](http://www.fangyanxue.com:8090/)
+- [国家语言资源服务平台](http://fw.ywky.edu.cn/)
 
 </details>
 
