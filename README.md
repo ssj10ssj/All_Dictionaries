@@ -1113,6 +1113,8 @@
 - [Rikaikun](https://github.com/melink14/rikaikun)
 - [Yomichan](https://github.com/FooSoft/yomichan)
 - [沙拉查词 Saladict](https://saladict.crimx.com/)
+- QTranslate
+- [CopyTranslator](https://github.com/copytranslator/copytranslator/releases)
 - [Anki（Github）](https://github.com/ankitects/anki)
 - [AnkiWeb](https://apps.ankiweb.net/)
 - [Online Dictionary Helper (with Anki app support)](https://github.com/ninja33/ODH)
