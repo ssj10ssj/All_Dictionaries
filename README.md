@@ -1475,7 +1475,6 @@
 - [主要参考文献一覧表 - 広島大学](http://home.hiroshima-u.ac.jp/wisdom/)
 
 == 日语网站类 ==
-- [Github/NoHeartPen](https://github.com/NoHeartPen/awesome_japanese_study_tools)
 - [日语学习网站整理 知乎](https://zhuanlan.zhihu.com/p/85343511)
 - [网上学习日语网站大集合](https://m.hujiang.com/c/wangshangxueriyu/p1095759/?source=pc)
 - [日语实用网站网址大集合](https://m.douban.com/group/topic/9518549/)
@@ -1595,6 +1594,7 @@
 - [Online dictionary based on the console，基于控制台的在线词典 on GitHub ](https://github.com/kuanghy/kictor)
 - [MYDICTIONARY Desktop Application of CLI on GitHub ](https://github.com/zzc-tongji/mydictionary-client-cli)
 - [有道词典的命令行版本 on GitHub](https://github.com/ChestnutHeng/Wudao-dict)
+- [Github/NoHeartPen/日语](https://github.com/NoHeartPen/awesome_japanese_study_tools)
 
 == 二次元 ==
 - [轻小说文库](https://github.com/MewX/light-novel-library_Wenku8_Android)
