@@ -598,6 +598,8 @@
 - [ふりがな文庫](https://furigana.info/)
 - [日本姓氏語源辞典](https://name-power.net/)
 - [nekodict](https://nekodict.com/)
+- [数え方単位辞典](https://www.sanabo.com/kazoekata/)
+- [用例.jp](http://yourei.jp/)
 - [Yahoo!辞書 2019-05-31❗已下线](https://dic.yahoo.co.jp/)
 
 </details>
