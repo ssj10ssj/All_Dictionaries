@@ -1096,10 +1096,19 @@
 <details>
 <summary>展开</summary>
 
-- [FreeMdict](https://freemdict.com/)
+- [FreeMdict 论坛](https://forum.freemdict.com/)
+    - [FreeMdict 论坛搜索](https://forum.freemdict.com/search)
     - [FreeMdict File Search](https://search.freemdict.com/)
     - [FreeMdict downloads site](https://downloads.freemdict.com/)
+    - [FreeMdict 网站](https://freemdict.com/)
+    - [FreeMdict 云盘](https://cloud.freemdict.com/)
+    - [TIO](https://tio.freemdict.com/)
+    - [Telegram: Contact @freemdict](https://t.me/freemdict)
+    - [Telegram: Contact @freemdict_channel](https://t.me/freemdict_channel)
+    - [Telegram: Freemdict](https://t.me/s/freemdict_channel/)
+    - [FreeMdict 新手指南](https://forum.freemdict.com/t/topic/22233)
 - [掌上百科-PDAWIKI](https://www.pdawiki.com/forum/)
+    - [Pdawiki存档检索](https://061061.xyz/)
 - [Mdict](https://mdict.org/)
 
 </details>
