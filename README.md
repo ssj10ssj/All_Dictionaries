@@ -969,6 +969,7 @@
 <details>
 <summary>展开</summary>
 
+- [Hyread 国立台湾图书馆](https://ntledu.ebook.hyread.com.tw/index.jsp)
 - [世界数字图书馆](https://www.wdl.org/zh/)
 - [中国国家图书馆](http://www.nlc.cn/)
 - [CNKI中国知网](https://www.cnki.net/)
