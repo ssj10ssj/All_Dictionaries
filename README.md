@@ -1357,7 +1357,6 @@
 - [亲子日本语教室](http://tabunka.or.jp/project/oyako/)
 - [料理相关词汇网站](http://t.cn/Ai9qboBP)
 - [各种商品价格](http://kakaku.com/)
-- [読み方は？](https://yomikatawa.com/)
 - [マナペディア 课本（失常）](https://manapedia.jp/m/)
 - [日本儿童网](https://web-japan.org/kidsweb/cn/index.html)
 - [幼児の学習素材館](https://happylilac.net/kisetsu-sozai.html)
