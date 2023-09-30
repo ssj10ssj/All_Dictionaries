@@ -1130,6 +1130,7 @@
 - [平典 Plain Dictionary](https://m.apkpure.com/cn/plain-dictionary/com.knziha/versions?_gl=1*gl1k70*_ga*YW1wLXdnVTI5cVNuZFV4WWNyUmRoZW9uc2FZNXZoV3d2b0dkalhVcWhNYUVIME81UFZHR2VacFdQS2tUeEx5LUM3MF8.)
 - [Ahktionary](https://forum.freemdict.com/t/topic/4818)
 - [WarblerDict](https://forum.freemdict.com/t/topic/7079)
+- [SilverDict](https://forum.freemdict.com/t/topic/23724)
 
 </details>
 
