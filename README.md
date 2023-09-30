@@ -1211,8 +1211,24 @@
 
 <details>
 <summary>YouTube</summary>
-- [Ryuuu TV](https://zh.m.wikipedia.org/wiki/Ryuuu_TV)
+- [えびてんちゃんの日本語教室](https://m.youtube.com/@ebitenchan/about)
+- [Ryuuu TV / 學日文看日本](https://m.youtube.com/@RyuuuTV/about)
+- [Yuka老師的日本語教室](https://m.youtube.com/@yuka_japaneseteacher/about)
+- [Yunaty日本語](https://m.youtube.com/@yunaty7700/about)
+- [晓露的日语课堂](https://m.youtube.com/@user-qo2vq3dt6c/about)
+- [Elsaの放送](https://m.youtube.com/@ElsaJapanese/about)
+- [IM 英日文](https://m.youtube.com/@im_jp_en/about)
+- [井上一宏](https://m.youtube.com/@inouesensei/about)
+- [星碎雷袭](https://m.youtube.com/@user-cj4hv7lm3m/about)
+- [出口日語](https://m.youtube.com/@deguchi/about)
+- [日本語の森](https://m.youtube.com/@nihongonomori2013/about)
+- [日本語チャンネル](https://m.youtube.com/@Nihongo_Channel_1111/about)
+- [Talk In Japan 在线日本语](https://m.youtube.com/@TalkInJapanChineseVersion/about)
+- [Japan LanguageTV](https://m.youtube.com/@LIVEING-IN-JAPAN/about)
+- [Naoko Watanabe](https://m.youtube.com/@naokowatanabe7324/about)
+- [金三角外国語学校Official Channel](https://m.youtube.com/@officialchannel8837/about)
 </details>
+
 - [JLPT 日语能力测试官网](https://www.jlpt.jp/cn/index.html)
 - [JLPT备考网站](https://jn1et.com/jlpt/)
 - [Wikibooks](https://ja.m.wikibooks.org/wiki/日本語)
@@ -1290,6 +1306,9 @@
 - [码农场日语](http://www.hankcs.com/nihongonote/)
 - [人民网中国语教室](http://j.people.com.cn/95961/index.html)
 - [杭州现代日语学习论坛](http://bbs.hzmjp.com/indexs.php)
+
+<details>
+<summary>新闻</summary>
 - [经济日语](http://keizai-nihongo.com/chi/)
 - [Easy News | Easy Japanese - Todai Reader 2](https://easyjapanese.net/?hl=zh-CN)
 - [TBS新闻](http://news.tbs.co.jp/)
@@ -1304,6 +1323,8 @@
 - [产经新闻社](http://www.sankei.co.jp)
 - [共同新闻社](http://www.kyodo.co.jp)
 - [时事通信社](http://www.jiji.co.jp)
+</details>
+
 - [日本語検定](http://www.nihongokentei.jp/)
 - [日本語 能力 検定試験傾向と対策＆問題集](http://adaa.daa.jp/jpx/)
 - [日本語敬語](http://www.alc.co.jp/jpn/article/faq/)
@@ -1390,8 +1411,9 @@ jp.%E7%9F%A5%E5%90%8D%E5%BA%)
 - [日语语法指南](https://res.wokanxing.info/jpgramma/appendix.html)
 - [日语语法在线查询 - 日本語文法検索システム](http://www.nihonn.net/)
 - [文化日本语](https://bunkanihongo.com/)
+
 <details>
-<summary>导航</summary>
+<summary>日网导航</summary>
 - [Github/NoHeartPen/日语](https://github.com/NoHeartPen/awesome_japanese_study_tools)
 - [狐狸等间隔的小屋](https://jp.muimi.me/posts/eizan)
 - [達元 TATSUMOTO](https://tatsumoto.neocities.org/blog/resources)
