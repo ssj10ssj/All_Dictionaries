@@ -1373,6 +1373,18 @@
 - [国际交流协会](http://rliea.clair.or.jp/kyoukai/)
 - [OKwave](https://okwave.co.jp/)
 - [CiNii Articles](https://ci.nii.ac.jp/ja)
+- [まるごとのことば](words.marugotoweb.jp/top.php#collection?lang=en)
+- [罗马音](kawa.net/works/ajax/romanize/japanese.html)
+- [文法](so-zou.jp/web-app/text/proofreading/#word0)
+- [幼儿启蒙](print-kids.net)
+- [知名度1](
+jp.%E7%9F%A5%E5%90%8D%E5%BA%)
+- [知名度2](2A6.net)
+- [发言小町](komachi.yomiuri.co.jp)
+- [语言检测](nihongokentei.jp)
+- [日语练习](nihonmura.net)
+- [日语语法指南](https://res.wokanxing.info/jpgramma/appendix.html)
+- [日语语法在线查询 - 日本語文法検索システム](http://www.nihonn.net/)
 
 </details>
 
