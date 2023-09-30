@@ -1209,6 +1209,10 @@
 <details>
 <summary>展开</summary>
 
+<details>
+<summary>YouTube</summary>
+- [Ryuuu TV](https://zh.m.wikipedia.org/wiki/Ryuuu_TV)
+</details>
 - [JLPT 日语能力测试官网](https://www.jlpt.jp/cn/index.html)
 - [JLPT备考网站](https://jn1et.com/jlpt/)
 - [Wikibooks](https://ja.m.wikibooks.org/wiki/日本語)
@@ -1220,7 +1224,6 @@
 - [小説家になろう](https://syosetu.com/)
 - [Fiftyzero 日语五十音在线训练](https://soukaapp.com/fiftyzero/)
 - [Marumaru](https://www.jpmarumaru.com/)
-- [Ryuuu TV](https://zh.m.wikipedia.org/wiki/Ryuuu_TV)
 - [時雨の町](https://www.sigure.tw/)
 - [王可乐日语](https://colanekojp.com.tw/)
 - [沪江日语](https://m.hujiang.com/jp/)
@@ -1387,6 +1390,13 @@ jp.%E7%9F%A5%E5%90%8D%E5%BA%)
 - [日语语法指南](https://res.wokanxing.info/jpgramma/appendix.html)
 - [日语语法在线查询 - 日本語文法検索システム](http://www.nihonn.net/)
 - [文化日本语](https://bunkanihongo.com/)
+<details>
+<summary>导航</summary>
+- [Github/NoHeartPen/日语](https://github.com/NoHeartPen/awesome_japanese_study_tools)
+- [狐狸等间隔的小屋](https://jp.muimi.me/posts/eizan)
+- [達元 TATSUMOTO](https://tatsumoto.neocities.org/blog/resources)
+- [国語研共同研究プロジェクト「アノテーション」](https://masayu-a.github.io/anno/)    
+</details>
 
 </details>
 
@@ -1511,8 +1521,9 @@ jp.%E7%9F%A5%E5%90%8D%E5%BA%)
 - [主要参考文献一覧表 - 広島大学](http://home.hiroshima-u.ac.jp/wisdom/)
 
 == 日语网站类 ==
-- [狐狸等间隔的小屋 学习网站导航](https://jp.muimi.me/posts/eizan)
 - [Freemdict 日语网站收集](https://forum.freemdict.com/t/topic/16334)
+- [TheMoeWay](https://learnjapanese.moe/)
+- [影音漫画小说词汇挖矿指路](https://github.com/NoHeartPen/awesome_japanese_study_tools/issues/6)
 - [日语学习网站整理 知乎](https://zhuanlan.zhihu.com/p/85343511)
 - [网上学习日语网站大集合](https://m.hujiang.com/c/wangshangxueriyu/p1095759/?source=pc)
 - [日语实用网站网址大集合](https://m.douban.com/group/topic/9518549/)
