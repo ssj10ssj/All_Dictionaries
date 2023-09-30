@@ -1073,6 +1073,7 @@
 - [文林® 汉语学习软件](https://wenlin.com/)
 - [HelloTalk](http://www.hellotalk.com/)
 - [日语语法酷](https://m.wandoujia.com/apps/6860621)
+- [日语达人-环游日本大冒险](https://play.google.com/store/apps/details?id=com.chaos.jpmaster&hl=zh_TW&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E6%97%A5%E8%AF%AD%E8%BE%BE%E4%BA%BA+%E8%B0%B7%E6%AD%8C%E5%95%86%E5%BA%97&pcampaignid=APPU_1_55IXZfTkGPbPseMPsJaDiA8)
 - [日文小说-轻](https://play.google.com/store/apps/details?id=com.suhao.lightnovel&hl=zh&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E8%BD%BB%E5%B0%8F%E8%AF%B4+app&pcampaignid=APPU_1_CMoVZafQJ_idseMP56Du0QM)
 
 </details>
@@ -1283,7 +1284,6 @@
 - [外语学习网日语](http://en.examw.com/jp/)
 - [教育联展网日语](http://www.thea.cn/riyu/)
 - [码农场日语](http://www.hankcs.com/nihongonote/)
-- [外语爱好者网站](http://www.ryedu.net/ry/riyuyuedu/)
 - [人民网中国语教室](http://j.people.com.cn/95961/index.html)
 - [杭州现代日语学习论坛](http://bbs.hzmjp.com/indexs.php)
 - [经济日语](http://keizai-nihongo.com/chi/)
@@ -1330,7 +1330,6 @@
 - [注音网站](http://nihongo-e-na.com/chi/zhcn/id405.html)
 - [拟声词，拟态词博客](http://www.voiceblog.jp/onomatopets/)
 - [日本語の例文](https://j-nihongo.com/)
-- [造句网站](http://j-nihongo.com/)
 - [Tatoeba](https://tatoeba.org/zh-cn/)
 - [翻译引擎1](http://www.excite.co.jp/world/chinese/)
 - [翻译引擎2(关闭)](http://honyaku.yahoo.co.jp/)
