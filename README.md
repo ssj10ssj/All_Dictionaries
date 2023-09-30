@@ -1210,6 +1210,16 @@
 <summary>展开</summary>
 
 <details>
+<summary>日网导航</summary>
+
+- [Github/NoHeartPen/日语](https://github.com/NoHeartPen/awesome_japanese_study_tools)
+- [狐狸等间隔的小屋](https://jp.muimi.me/posts/eizan)
+- [達元 TATSUMOTO](https://tatsumoto.neocities.org/blog/resources)
+- [国語研共同研究プロジェクト「アノテーション」](https://masayu-a.github.io/anno/)
+
+</details>
+
+<details>
 <summary>YouTube</summary>
 
 - [えびてんちゃんの日本語教室](https://m.youtube.com/@ebitenchan/about)
@@ -1230,6 +1240,29 @@
 - [金三角外国語学校Official Channel](https://m.youtube.com/@officialchannel8837/about)
 
 </details>
+
+<details>
+<summary>新闻</summary>
+
+- [经济日语](http://keizai-nihongo.com/chi/)
+- [Easy News | Easy Japanese - Todai Reader 2](https://easyjapanese.net/?hl=zh-CN)
+- [TBS新闻](http://news.tbs.co.jp/)
+- [NHK新闻](http://www.nhk.or.jp)
+    - [NHK新闻(简明)](http://www3.nhk.or.jp/news/easy/)
+    - [NHK中文版](https://www3.nhk.or.jp/nhkworld/zh/)
+    - [NHK简明日语](https://www.nhk.or.jp/lesson/zh/)
+    - [NHK for School](http://www.nhk.or.jp/school/)
+- [朝日新闻](http://www.asahi.com)
+- [读卖新闻](http://www.yomiuri.co.jp)
+- [每日新闻](http://www.mainichi.com)
+- [产经新闻社](http://www.sankei.co.jp)
+- [共同新闻社](http://www.kyodo.co.jp)
+- [时事通信社](http://www.jiji.co.jp)
+
+</details>
+
+<details>
+<summary>其他</summary>
 
 - [JLPT 日语能力测试官网](https://www.jlpt.jp/cn/index.html)
 - [JLPT备考网站](https://jn1et.com/jlpt/)
@@ -1308,27 +1341,6 @@
 - [码农场日语](http://www.hankcs.com/nihongonote/)
 - [人民网中国语教室](http://j.people.com.cn/95961/index.html)
 - [杭州现代日语学习论坛](http://bbs.hzmjp.com/indexs.php)
-
-<details>
-<summary>新闻</summary>
-
-- [经济日语](http://keizai-nihongo.com/chi/)
-- [Easy News | Easy Japanese - Todai Reader 2](https://easyjapanese.net/?hl=zh-CN)
-- [TBS新闻](http://news.tbs.co.jp/)
-- [NHK新闻](http://www.nhk.or.jp)
-    - [NHK新闻(简明)](http://www3.nhk.or.jp/news/easy/)
-    - [NHK中文版](https://www3.nhk.or.jp/nhkworld/zh/)
-    - [NHK简明日语](https://www.nhk.or.jp/lesson/zh/)
-    - [NHK for School](http://www.nhk.or.jp/school/)
-- [朝日新闻](http://www.asahi.com)
-- [读卖新闻](http://www.yomiuri.co.jp)
-- [每日新闻](http://www.mainichi.com)
-- [产经新闻社](http://www.sankei.co.jp)
-- [共同新闻社](http://www.kyodo.co.jp)
-- [时事通信社](http://www.jiji.co.jp)
-
-</details>
-
 - [日本語検定](http://www.nihongokentei.jp/)
 - [日本語 能力 検定試験傾向と対策＆問題集](http://adaa.daa.jp/jpx/)
 - [日本語敬語](http://www.alc.co.jp/jpn/article/faq/)
@@ -1415,14 +1427,6 @@ jp.%E7%9F%A5%E5%90%8D%E5%BA%)
 - [日语语法指南](https://res.wokanxing.info/jpgramma/appendix.html)
 - [日语语法在线查询 - 日本語文法検索システム](http://www.nihonn.net/)
 - [文化日本语](https://bunkanihongo.com/)
-
-<details>
-<summary>日网导航</summary>
-
-- [Github/NoHeartPen/日语](https://github.com/NoHeartPen/awesome_japanese_study_tools)
-- [狐狸等间隔的小屋](https://jp.muimi.me/posts/eizan)
-- [達元 TATSUMOTO](https://tatsumoto.neocities.org/blog/resources)
-- [国語研共同研究プロジェクト「アノテーション」](https://masayu-a.github.io/anno/)
 
 </details>
 
