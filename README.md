@@ -1262,17 +1262,24 @@
 </details>
 
 <details>
+<summary>写作</summary>
+
+- [手紙の書き方](http://www.letter110.net/)
+- [写作指导网](https://hinoki-project.org/natsume/)
+- [Lang-8 日语写日记网站](http://lang-8.com/)
+- [小説家になろう](https://syosetu.com/)
+
+</details>
+
+<details>
 <summary>其他</summary>
 
 - [JLPT 日语能力测试官网](https://www.jlpt.jp/cn/index.html)
 - [JLPT备考网站](https://jn1et.com/jlpt/)
 - [Wikibooks](https://ja.m.wikibooks.org/wiki/日本語)
 - [ひらひらのひらがなめがね](https://hiragana.jp/zh/)
-- [手紙の書き方](http://www.letter110.net/)
 - [読み方は？](https://yomikatawa.com/)
 - [词汇辨析网站](http://chigai.lance3.net/aa-content-chigai-best.html)
-- [写作指导网](https://hinoki-project.org/natsume/)
-- [小説家になろう](https://syosetu.com/)
 - [Fiftyzero 日语五十音在线训练](https://soukaapp.com/fiftyzero/)
 - [Marumaru](https://www.jpmarumaru.com/)
 - [時雨の町](https://www.sigure.tw/)
@@ -1348,7 +1355,6 @@
 - [许多日语读解材料(失常)](http://language.tiu.ac.jp)
 - [Matcha](https://matcha-jp.com/easy)
 - [HiNative](https://hinative.com/?locale=zh-CN)
-- [Lang-8 日语写日记网站](http://lang-8.com/)
 - [敬語のお品書き](http://www3.kcn.ne.jp/~jarry/keig/keimn.html)
 - [日本姓氏网](https://mnamae.jp/)
 - [日语歌词检索](http://www.utamap.com/)
