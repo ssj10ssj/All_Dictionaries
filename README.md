@@ -1211,6 +1211,7 @@
 
 <details>
 <summary>YouTube</summary>
+
 - [えびてんちゃんの日本語教室](https://m.youtube.com/@ebitenchan/about)
 - [Ryuuu TV / 學日文看日本](https://m.youtube.com/@RyuuuTV/about)
 - [Yuka老師的日本語教室](https://m.youtube.com/@yuka_japaneseteacher/about)
@@ -1227,6 +1228,7 @@
 - [Japan LanguageTV](https://m.youtube.com/@LIVEING-IN-JAPAN/about)
 - [Naoko Watanabe](https://m.youtube.com/@naokowatanabe7324/about)
 - [金三角外国語学校Official Channel](https://m.youtube.com/@officialchannel8837/about)
+
 </details>
 
 - [JLPT 日语能力测试官网](https://www.jlpt.jp/cn/index.html)
@@ -1309,6 +1311,7 @@
 
 <details>
 <summary>新闻</summary>
+
 - [经济日语](http://keizai-nihongo.com/chi/)
 - [Easy News | Easy Japanese - Todai Reader 2](https://easyjapanese.net/?hl=zh-CN)
 - [TBS新闻](http://news.tbs.co.jp/)
@@ -1323,6 +1326,7 @@
 - [产经新闻社](http://www.sankei.co.jp)
 - [共同新闻社](http://www.kyodo.co.jp)
 - [时事通信社](http://www.jiji.co.jp)
+
 </details>
 
 - [日本語検定](http://www.nihongokentei.jp/)
@@ -1414,10 +1418,12 @@ jp.%E7%9F%A5%E5%90%8D%E5%BA%)
 
 <details>
 <summary>日网导航</summary>
+
 - [Github/NoHeartPen/日语](https://github.com/NoHeartPen/awesome_japanese_study_tools)
 - [狐狸等间隔的小屋](https://jp.muimi.me/posts/eizan)
 - [達元 TATSUMOTO](https://tatsumoto.neocities.org/blog/resources)
-- [国語研共同研究プロジェクト「アノテーション」](https://masayu-a.github.io/anno/)    
+- [国語研共同研究プロジェクト「アノテーション」](https://masayu-a.github.io/anno/)
+
 </details>
 
 </details>
