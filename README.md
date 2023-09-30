@@ -1644,7 +1644,7 @@
 <details>
 <summary>展开</summary>
 
-- [Zim资源](https://library.kiwix.org/?lang=zho#lang=zho)
+== 手机端 ==
 - [静读天下](http://www.moondownload.com/chinese.html)
 - [AndrOpen Office](https://andropenoffice.blogspot.com/?m=1)
 - [Quick Edit](https://rhmsoft.com/qedit/help.html)
@@ -1667,6 +1667,14 @@
 - [Sketchbook](https://www.sketchbook.com/)
 - [PS Touch](https://m.apkpure.com/adobe-photoshop-touch/air.com.adobe.pstouch/download)
 - [阿Q围棋](https://play.google.com/store/apps/details?id=cn.ezandroid.aq.preview&hl=zh&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E9%98%BFq%E5%9B%B4%E6%A3%8B)
+
+== 资源区 ==
+- [Zim资源](https://library.kiwix.org/?lang=zho#lang=zho)
+- [任地鱼（rom下载）](https://m.rendiyu.com/)
+- [52模拟器|Java](http://java.52emu.cn/)
+- [Java游戏小站](https://java.owoemu.com/)
+- [Java手机乐园](https://jvgm.cn/class)
+- [Phoneky](https://cn.phoneky.com/games/?p=browse)
 
 </details>
 
