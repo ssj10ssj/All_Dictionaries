@@ -1509,6 +1509,7 @@ jp.%E7%9F%A5%E5%90%8D%E5%BA%)
 - [主要参考文献一覧表 - 広島大学](http://home.hiroshima-u.ac.jp/wisdom/)
 
 == 日语网站类 ==
+- [狐狸等间隔的小屋 学习网站导航](https://jp.muimi.me/posts/eizan)
 - [Freemdict 日语网站收集](https://forum.freemdict.com/t/topic/16334)
 - [日语学习网站整理 知乎](https://zhuanlan.zhihu.com/p/85343511)
 - [网上学习日语网站大集合](https://m.hujiang.com/c/wangshangxueriyu/p1095759/?source=pc)
