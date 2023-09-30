@@ -1539,10 +1539,8 @@
 
 == 综合类 ==
 - [mdx入门 freemdict](https://forum.freemdict.com/t/topic/9610)
-- [轻小说合集 freemdict](https://forum.freemdict.com/t/topic/9083)
 - [全网免费电子书 iMyShare](https://imyshare.com/article/28/)
 - [有了这50个电子书网站...](https://m.sohu.com/a/276723424_99949461/?pvid=000115_3w_a)
-- [作业君的小站](https://homeworkkun.wordpress.com/2018/08/18/dcdlls/#more-241)
 - [英语网站大全 百度文库](https://wk.baidu.com/view/37dfde62f5335a8102d220f0)
 - [Alexa - Top Sites by Category: Reference](https://www.alexa.com/topsites/category/Reference)
 - [**bbkbbk** 德语词库整理](https://pdawiki.com/forum/thread-11437-1-1.html)
@@ -1670,6 +1668,12 @@
 
 == 资源区 ==
 - [Zim资源](https://library.kiwix.org/?lang=zho#lang=zho)
+- [Tab字典合集（mdx）](https://forum.freemdict.com/t/topic/13177)
+- [ 阿彌陀佛（mdx）](https://forum.freemdict.com/t/topic/7530)
+- [Ru-Board（mdx）](https://forum.freemdict.com/t/topic/12050)
+- [数学（mdx）](https://forum.freemdict.com/t/topic/13811)
+- [轻小说合集 freemdict](https://forum.freemdict.com/t/topic/9083)
+- [作业君的小站（轻小说txt）](https://homeworkkun.wordpress.com/2018/08/18/dcdlls/#more-241)
 - [任地鱼（rom下载）](https://m.rendiyu.com/)
 - [52模拟器|Java](http://java.52emu.cn/)
 - [Java游戏小站](https://java.owoemu.com/)
