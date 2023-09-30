@@ -1245,7 +1245,7 @@
 <summary>新闻</summary>
 
 - [经济日语](http://keizai-nihongo.com/chi/)
-- [Easy News | Easy Japanese - Todai Reader 2](https://easyjapanese.net/?hl=zh-CN)
+- [Easy News | Easy Japanese - Todai Reader](https://easyjapanese.net/?hl=zh-CN)
 - [TBS新闻](http://news.tbs.co.jp/)
 - [NHK新闻](http://www.nhk.or.jp)
     - [NHK新闻(简明)](http://www3.nhk.or.jp/news/easy/)
@@ -1436,7 +1436,9 @@ jp.%E7%9F%A5%E5%90%8D%E5%BA%)
 <details>
 <summary>展开</summary>
 
-== 网站 ==
+<details>
+<summary>网站</summary>
+
 - [PlanetMath](https://planetmath.org/)
 - [MathWorld](https://mathworld.wolfram.com/)
 - [ProofWiki](https://proofwiki.org/wiki/Main_Page)
@@ -1460,7 +1462,11 @@ jp.%E7%9F%A5%E5%90%8D%E5%BA%)
 - [AMS](https://www.ams.org/home/page)
 - [大数学维基](https://googology.fandom.com/zh/wiki/%E5%A4%A7%E6%95%B8%E5%88%97%E8%A1%A8?variant=zh-cn)
 
-== 书籍 ==
+</details>
+
+<details>
+<summary>书籍</summary>
+
 - 《数学辞海》
 - 《数学大辞典》
 - 《数学百科辞典》（中译旧版）
@@ -1504,6 +1510,8 @@ jp.%E7%9F%A5%E5%90%8D%E5%BA%)
 - 《思维模型》
 - 《逻辑学大辞典》
 - 《哲学大辞典》
+
+</details>
 
 </details>
 
