@@ -1456,8 +1456,7 @@
 - [CiNii Articles](https://ci.nii.ac.jp/ja)
 - [まるごとのことば](http://words.marugotoweb.jp/top.php#collection?lang=en)
 - [文法](http://so-zou.jp/web-app/text/proofreading/#word0)
-- [知名度1](http://
-jp.%E7%9F%A5%E5%90%8D%E5%BA%)
+- [知名度1](http://jp.%E7%9F%A5%E5%90%8D%E5%BA%)
 - [知名度2](http://2A6.net)
 - [发言小町](http://komachi.yomiuri.co.jp)
 - [日语语法指南](https://res.wokanxing.info/jpgramma/appendix.html)
