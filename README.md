@@ -1242,6 +1242,17 @@
 </details>
 
 <details>
+<summary>趣味</summary>
+
+- [Marumaru](https://www.jpmarumaru.com/)
+- [日语歌词检索](http://www.utamap.com/)
+- [动漫日语](http://anime-manga.jp/chinese/)
+- [看图学语法](https://www.edewakaru.com/)
+- [エリンが挑戦！にほんごできます。](https://www.erin.jpf.go.jp/)
+
+</details>
+
+<details>
 <summary>新闻</summary>
 
 - [经济日语](http://keizai-nihongo.com/chi/)
@@ -1272,6 +1283,22 @@
 </details>
 
 <details>
+<summary>检测</summary>
+
+- [JLPT 日语能力测试官网](https://www.jlpt.jp/cn/index.html)
+- [JLPT备考网站](https://jn1et.com/jlpt/)
+- [日本語検定](http://www.nihongokentei.jp/)
+- [日本語 能力 検定試験傾向と対策＆問題集](http://adaa.daa.jp/jpx/)
+- [日语测试网站](http://www.j-cat.org/zh/)
+- [在线日语测试](http://test.u-biq.org/)
+    - [U-biq](https://study.u-biq.org/)
+- [Online Japanese practice](http://www.nihonmura.net/)
+- [语言检测](nihongokentei.jp)
+- [日语练习](nihonmura.net)
+
+</details>
+
+<details>
 <summary>教育</summary>
 
 - [幼儿启蒙](print-kids.net)
@@ -1287,30 +1314,25 @@
 - [KUMON](https://www.kumon.ne.jp/jpn/chinese/)
 - [富士大学留学生网站](http://raicho.ier.u-toyama.ac.jp/)
 - [首都大学东京](http://nihongo.hum.tmu.ac.jp/mic-j/home-c.html)
+- [愉快的学校](https://www.kyoiku.metro.tokyo.lg.jp/)
 - [日本留学综合指南](http://www.studyjapan.go.jp/ch/)
 - [日本大学](http://www.gakkou.net/daigaku/)
 - [日本大学入试情况](http://www.yozemi.ac.jp/)
 - [日本国际教育支援协会](http://www.jees.or.jp)
+- [Wikibooks](https://ja.m.wikibooks.org/wiki/日本語)
 
 </details>
 
 <details>
 <summary>其他</summary>
 
-- [JLPT 日语能力测试官网](https://www.jlpt.jp/cn/index.html)
-- [JLPT备考网站](https://jn1et.com/jlpt/)
-- [Wikibooks](https://ja.m.wikibooks.org/wiki/日本語)
 - [ひらひらのひらがなめがね](https://hiragana.jp/zh/)
 - [読み方は？](https://yomikatawa.com/)
 - [词汇辨析网站](http://chigai.lance3.net/aa-content-chigai-best.html)
 - [Fiftyzero 日语五十音在线训练](https://soukaapp.com/fiftyzero/)
-- [Marumaru](https://www.jpmarumaru.com/)
 - [時雨の町](https://www.sigure.tw/)
 - [王可乐日语](https://colanekojp.com.tw/)
 - [沪江日语](https://m.hujiang.com/jp/)
-- [动漫日语](http://anime-manga.jp/chinese/)
-- [看图学语法](https://www.edewakaru.com/)
-- [エリンが挑戦！にほんごできます。](https://www.erin.jpf.go.jp/)
 - [J-Cinemaで学ぶ日本語・日本文化](http://www.jp-hiroba.com/)
 - [おりがみくらぶ](https://www.origami-club.com/index.html)
 - [Babadum](https://babadum.com/play/?lang=9&game=2)
@@ -1366,8 +1388,6 @@
 - [码农场日语](http://www.hankcs.com/nihongonote/)
 - [人民网中国语教室](http://j.people.com.cn/95961/index.html)
 - [杭州现代日语学习论坛](http://bbs.hzmjp.com/indexs.php)
-- [日本語検定](http://www.nihongokentei.jp/)
-- [日本語 能力 検定試験傾向と対策＆問題集](http://adaa.daa.jp/jpx/)
 - [日本語敬語](http://www.alc.co.jp/jpn/article/faq/)
 - [ALC语言教育出版社](http://www.alc.co.jp/)
 - [许多日语读解材料(失常)](http://language.tiu.ac.jp)
@@ -1375,11 +1395,6 @@
 - [HiNative](https://hinative.com/?locale=zh-CN)
 - [敬語のお品書き](http://www3.kcn.ne.jp/~jarry/keig/keimn.html)
 - [日本姓氏网](https://mnamae.jp/)
-- [日语歌词检索](http://www.utamap.com/)
-- [日语测试网站](http://www.j-cat.org/zh/)
-- [在线日语测试](http://test.u-biq.org/)
-    - [U-biq](https://study.u-biq.org/)
-- [Online Japanese practice](http://www.nihonmura.net/)
 - [NINJAL-LWP for BCCWJ](http://nlb.ninjal.ac.jp)
 - [少納言 『現代日本語書き言葉均衡コーパス』](http://www.kotonoha.gr.jp/shonagon/)
 - [日语语源词典](http://gogen-allguide.com/)
@@ -1410,7 +1425,6 @@
 - [JNTO 日本国家旅游局网站](https://www.jnto.go.jp/)
 - [日本旅行](http://www.nta.co.jp/)
 - [线上日语学习中文版](http://www.nihonmura.net/sc/)
-- [愉快的学校](http://www.kyoiku.metro.tokyo.jp/buka/shidou/tanoshi_gakko.htm)
 - [日本国语](http://www.hello-school.net/hsjap.htm)
 - [日本文化中文版](http://web-japan.org/other/index_ch.html)
 - [日本文化](http://www.ffortune.net/)
@@ -1434,8 +1448,6 @@
 jp.%E7%9F%A5%E5%90%8D%E5%BA%)
 - [知名度2](2A6.net)
 - [发言小町](komachi.yomiuri.co.jp)
-- [语言检测](nihongokentei.jp)
-- [日语练习](nihonmura.net)
 - [日语语法指南](https://res.wokanxing.info/jpgramma/appendix.html)
 - [日语语法在线查询 - 日本語文法検索システム](http://www.nihonn.net/)
 - [文化日本语](https://bunkanihongo.com/)
