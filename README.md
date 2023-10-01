@@ -1257,6 +1257,17 @@
 </details>
 
 <details>
+<summary>五十音</summary>
+
+- [Fiftyzero 日语五十音在线训练](https://soukaapp.com/fiftyzero/)
+- [ひらひらのひらがなめがね](https://hiragana.jp/zh/)
+- [注音网站](http://nihongo-e-na.com/chi/zhcn/id405.html)
+- [罗马音](http://kawa.net/works/ajax/romanize/japanese.html)
+- [読み方は？](https://yomikatawa.com/)
+
+</details>
+
+<details>
 <summary>新闻</summary>
 
 - [经济日语](http://keizai-nihongo.com/chi/)
@@ -1298,15 +1309,15 @@
 - [在线日语测试](http://test.u-biq.org/)
     - [U-biq](https://study.u-biq.org/)
 - [Online Japanese practice](http://www.nihonmura.net/)
-- [语言检测](nihongokentei.jp)
-- [日语练习](nihonmura.net)
+- [语言检测](http://nihongokentei.jp)
+- [日语练习](http://nihonmura.net)
 
 </details>
 
 <details>
 <summary>教育</summary>
 
-- [幼儿启蒙](print-kids.net)
+- [幼儿启蒙](http://print-kids.net)
 - [幼児の学習素材館](https://happylilac.net/kisetsu-sozai.html)
 - [PIBO 日语版儿童故事绘本](http://pibo.jp/)
 - [デジタル絵本サイト](http://www.e-hon.jp/demo2/index1.htm)
@@ -1314,6 +1325,7 @@
 - [日本儿童网](https://web-japan.org/kidsweb/cn/index.html)
 - [亲子日本语教室](http://tabunka.or.jp/project/oyako/)
 - [マナペディア 课本（失常）](https://manapedia.jp/m/)
+- [王可乐日语](https://colanekojp.com.tw/)
 - [早道网校](https://www.izaodao.com)
 - [海到学园](https://m.hidao100.cn/)
 - [KUMON](https://www.kumon.ne.jp/jpn/chinese/)
@@ -1331,6 +1343,7 @@
 <details>
 <summary>搜索</summary>
 
+- [Forvo](https://ja.forvo.com/languages/ja/)
 - [OJAD在线日语声调词典](http://www.gavo.t.u-tokyo.ac.jp/ojad/search)
 - [NINJAL-LWP for BCCWJ](http://nlb.ninjal.ac.jp)
 - [少納言 『現代日本語書き言葉均衡コーパス』](http://www.kotonoha.gr.jp/shonagon/)
@@ -1350,12 +1363,8 @@
 <details>
 <summary>其他</summary>
 
-- [ひらひらのひらがなめがね](https://hiragana.jp/zh/)
-- [読み方は？](https://yomikatawa.com/)
 - [词汇辨析网站](http://chigai.lance3.net/aa-content-chigai-best.html)
-- [Fiftyzero 日语五十音在线训练](https://soukaapp.com/fiftyzero/)
 - [時雨の町](https://www.sigure.tw/)
-- [王可乐日语](https://colanekojp.com.tw/)
 - [沪江日语](https://m.hujiang.com/jp/)
 - [J-Cinemaで学ぶ日本語・日本文化](http://www.jp-hiroba.com/)
 - [おりがみくらぶ](https://www.origami-club.com/index.html)
@@ -1417,8 +1426,6 @@
 - [谚语学习室](http://kotowaza.avaloky.com/index.html)
 - [小楠日语](http://o-oo.net.cn/jptranslate/)
 - [JP日语学习网](http://www.jptranslate.com/)
-- [Forvo](https://ja.forvo.com/languages/ja/)
-- [注音网站](http://nihongo-e-na.com/chi/zhcn/id405.html)
 - [拟声词，拟态词博客](http://www.voiceblog.jp/onomatopets/)
 - [日本語の例文](https://j-nihongo.com/)
 - [Tatoeba](https://tatoeba.org/zh-cn/)
@@ -1447,13 +1454,12 @@
 - [国际交流协会](http://rliea.clair.or.jp/kyoukai/)
 - [OKwave](https://okwave.co.jp/)
 - [CiNii Articles](https://ci.nii.ac.jp/ja)
-- [まるごとのことば](words.marugotoweb.jp/top.php#collection?lang=en)
-- [罗马音](kawa.net/works/ajax/romanize/japanese.html)
-- [文法](so-zou.jp/web-app/text/proofreading/#word0)
-- [知名度1](
+- [まるごとのことば](http://words.marugotoweb.jp/top.php#collection?lang=en)
+- [文法](http://so-zou.jp/web-app/text/proofreading/#word0)
+- [知名度1](http://
 jp.%E7%9F%A5%E5%90%8D%E5%BA%)
-- [知名度2](2A6.net)
-- [发言小町](komachi.yomiuri.co.jp)
+- [知名度2](http://2A6.net)
+- [发言小町](http://komachi.yomiuri.co.jp)
 - [日语语法指南](https://res.wokanxing.info/jpgramma/appendix.html)
 - [文化日本语](https://bunkanihongo.com/)
 
