@@ -1246,9 +1246,13 @@
 
 - [Marumaru](https://www.jpmarumaru.com/)
 - [日语歌词检索](http://www.utamap.com/)
+- [哔哩哔哩](http://www.bilibili.com/)
+- [日尚影音馆](http://www.jpsub.com/bbs/)
+- [诸神字幕组](http://www.kamigami.org/forum-18-1.html)
 - [动漫日语](http://anime-manga.jp/chinese/)
 - [看图学语法](https://www.edewakaru.com/)
 - [エリンが挑戦！にほんごできます。](https://www.erin.jpf.go.jp/)
+- [Babadum](https://babadum.com/play/?lang=9&game=2)
 
 </details>
 
@@ -1269,6 +1273,7 @@
 - [产经新闻社](http://www.sankei.co.jp)
 - [共同新闻社](http://www.kyodo.co.jp)
 - [时事通信社](http://www.jiji.co.jp)
+- [infoseek搜索](http://www.infoseek.co.jp)
 
 </details>
 
@@ -1324,6 +1329,25 @@
 </details>
 
 <details>
+<summary>搜索</summary>
+
+- [OJAD在线日语声调词典](http://www.gavo.t.u-tokyo.ac.jp/ojad/search)
+- [NINJAL-LWP for BCCWJ](http://nlb.ninjal.ac.jp)
+- [少納言 『現代日本語書き言葉均衡コーパス』](http://www.kotonoha.gr.jp/shonagon/)
+- [日语语源词典](http://gogen-allguide.com/)
+- [国语辞典、英以及辞典、以及英辞典](http://dictionary.goo.ne.jp/index.html)
+- [日本语俗语辞书](http://zokugo-dict.com/)
+- [三省堂网络词典](http://www.sanseido.net)
+- [goo辞書](http://dictionary.goo.ne.jp/)
+- [goo搜索](http://www.goo.ne.jp)
+- [yahoo日文搜索](http://www.yahoo.co.jp)
+- [翻译引擎1](http://www.excite.co.jp/world/chinese/)
+- [翻译引擎2(关闭)](http://honyaku.yahoo.co.jp/)
+- [日语语法在线查询 - 日本語文法検索システム](http://www.nihonn.net/)
+
+</details>
+
+<details>
 <summary>其他</summary>
 
 - [ひらひらのひらがなめがね](https://hiragana.jp/zh/)
@@ -1335,14 +1359,9 @@
 - [沪江日语](https://m.hujiang.com/jp/)
 - [J-Cinemaで学ぶ日本語・日本文化](http://www.jp-hiroba.com/)
 - [おりがみくらぶ](https://www.origami-club.com/index.html)
-- [Babadum](https://babadum.com/play/?lang=9&game=2)
 - [巧克力学堂](http://www.learningchocolate.com/zh-hans?st_lang=ja)
 - [CRI](http://japanese.cri.cn/)
-- [OJAD在线日语声调词典](http://www.gavo.t.u-tokyo.ac.jp/ojad/chi/pages/home)
 - [青空朗读](http://aozoraroudoku.jp/)
-- [哔哩哔哩](http://www.bilibili.com/)
-- [日尚影音馆](http://www.jpsub.com/bbs/)
-- [诸神字幕组](http://www.kamigami.org/forum-18-1.html)
 - [日本文化中心](http://ftp.jpfbj.cn/)
 - [咖啡日语](http://www.coffeejp.com/bbs/forum.php)
 - [日语自学网](http://www.smady.com/)
@@ -1395,27 +1414,14 @@
 - [HiNative](https://hinative.com/?locale=zh-CN)
 - [敬語のお品書き](http://www3.kcn.ne.jp/~jarry/keig/keimn.html)
 - [日本姓氏网](https://mnamae.jp/)
-- [NINJAL-LWP for BCCWJ](http://nlb.ninjal.ac.jp)
-- [少納言 『現代日本語書き言葉均衡コーパス』](http://www.kotonoha.gr.jp/shonagon/)
-- [日语语源词典](http://gogen-allguide.com/)
-- [国语辞典、英以及辞典、以及英辞典](http://dictionary.goo.ne.jp/index.html)
-- [日本语俗语辞书](http://zokugo-dict.com/)
 - [谚语学习室](http://kotowaza.avaloky.com/index.html)
-- [三省堂网络词典](http://www.sanseido.net)
-- [goo辞書](http://dictionary.goo.ne.jp/)
 - [小楠日语](http://o-oo.net.cn/jptranslate/)
 - [JP日语学习网](http://www.jptranslate.com/)
-- [日语在线声调词典](http://www.gavo.t.u-tokyo.ac.jp/ojad/search)
 - [Forvo](https://ja.forvo.com/languages/ja/)
 - [注音网站](http://nihongo-e-na.com/chi/zhcn/id405.html)
 - [拟声词，拟态词博客](http://www.voiceblog.jp/onomatopets/)
 - [日本語の例文](https://j-nihongo.com/)
 - [Tatoeba](https://tatoeba.org/zh-cn/)
-- [翻译引擎1](http://www.excite.co.jp/world/chinese/)
-- [翻译引擎2(关闭)](http://honyaku.yahoo.co.jp/)
-- [yahoo日文搜索](http://www.yahoo.co.jp)
-- [goo搜索](http://www.goo.ne.jp)
-- [infoseek搜索](http://www.infoseek.co.jp)
 - [bekkoame搜索](http://www.bekkoame.ne.jp)
 - [历史知识搜索](http://macao.softvision.co.jp/dbpwww/)
 - [东京国立博物馆](http://www.tnm.jp)
@@ -1449,7 +1455,6 @@ jp.%E7%9F%A5%E5%90%8D%E5%BA%)
 - [知名度2](2A6.net)
 - [发言小町](komachi.yomiuri.co.jp)
 - [日语语法指南](https://res.wokanxing.info/jpgramma/appendix.html)
-- [日语语法在线查询 - 日本語文法検索システム](http://www.nihonn.net/)
 - [文化日本语](https://bunkanihongo.com/)
 
 </details>
