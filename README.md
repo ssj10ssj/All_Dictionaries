@@ -1268,6 +1268,28 @@
 </details>
 
 <details>
+<summary>词汇</summary>
+
+- [巧克力学堂](http://www.learningchocolate.com/zh-hans?st_lang=ja)
+- [漢字ドリルのJAKKA](http://www.jakka.jp/index.html)
+- [拟声词，拟态词博客](http://www.voiceblog.jp/onomatopets/)
+- [词汇辨析网站](http://chigai.lance3.net/aa-content-chigai-best.html)
+- [日本姓氏网](https://mnamae.jp/)
+- [料理相关词汇网站](http://t.cn/Ai9qboBP)
+
+</details>
+
+<details>
+<summary>文法</summary>
+
+- [文法](http://so-zou.jp/web-app/text/proofreading/#word0)
+- [日语语法指南](https://res.wokanxing.info/jpgramma/appendix.html)
+- [日本語敬語](http://www.alc.co.jp/jpn/article/faq/)
+- [敬語のお品書き](http://www3.kcn.ne.jp/~jarry/keig/keimn.html)
+
+</details>
+
+<details>
 <summary>新闻</summary>
 
 - [经济日语](http://keizai-nihongo.com/chi/)
@@ -1285,6 +1307,7 @@
 - [共同新闻社](http://www.kyodo.co.jp)
 - [时事通信社](http://www.jiji.co.jp)
 - [infoseek搜索](http://www.infoseek.co.jp)
+- [各种商品价格](http://kakaku.com/)
 
 </details>
 
@@ -1321,6 +1344,7 @@
 - [日本文学电子图书馆](http://j-texts.com)
 - [北沢文库](http://www.ftm.co.jp/bunko/)
 - [日语图书俱乐部](http://www.bookclub.kodansha.co.jp)
+- [许多日语读解材料(失常)](http://language.tiu.ac.jp)
 
 </details>
 
@@ -1399,12 +1423,10 @@
 <details>
 <summary>其他</summary>
 
-- [词汇辨析网站](http://chigai.lance3.net/aa-content-chigai-best.html)
 - [時雨の町](https://www.sigure.tw/)
 - [沪江日语](https://m.hujiang.com/jp/)
 - [J-Cinemaで学ぶ日本語・日本文化](http://www.jp-hiroba.com/)
 - [おりがみくらぶ](https://www.origami-club.com/index.html)
-- [巧克力学堂](http://www.learningchocolate.com/zh-hans?st_lang=ja)
 - [CRI](http://japanese.cri.cn/)
 - [咖啡日语](http://www.coffeejp.com/bbs/forum.php)
 - [日语自学网](http://www.smady.com/)
@@ -1427,7 +1449,6 @@
 - [JapaneseOnline 在线日语学习网](http://www.japanese-online.com)
 - [LearnJapanese 免费学日语网络教室 (失常)](http://www.learnjapanese.aiyori.org/)
 - [毎日のんびり日本語教師](http://nihongonosensei.net/?page_id=10246#linkn1)
-- [漢字ドリルのJAKKA](http://www.jakka.jp/index.html)
 - [日语入门](http://www.riyurumen.com/)
 - [日语家园](http://www.ribenyu.cn/home.php)
 - [日语吧](http://www.riyuba.com/)
@@ -1444,16 +1465,11 @@
 - [码农场日语](http://www.hankcs.com/nihongonote/)
 - [人民网中国语教室](http://j.people.com.cn/95961/index.html)
 - [杭州现代日语学习论坛](http://bbs.hzmjp.com/indexs.php)
-- [日本語敬語](http://www.alc.co.jp/jpn/article/faq/)
 - [ALC语言教育出版社](http://www.alc.co.jp/)
-- [许多日语读解材料(失常)](http://language.tiu.ac.jp)
 - [Matcha](https://matcha-jp.com/easy)
-- [敬語のお品書き](http://www3.kcn.ne.jp/~jarry/keig/keimn.html)
-- [日本姓氏网](https://mnamae.jp/)
 - [谚语学习室](http://kotowaza.avaloky.com/index.html)
 - [小楠日语](http://o-oo.net.cn/jptranslate/)
 - [JP日语学习网](http://www.jptranslate.com/)
-- [拟声词，拟态词博客](http://www.voiceblog.jp/onomatopets/)
 - [日本語の例文](https://j-nihongo.com/)
 - [Tatoeba](https://tatoeba.org/zh-cn/)
 - [bekkoame搜索](http://www.bekkoame.ne.jp)
@@ -1466,18 +1482,13 @@
 - [日本国语](http://www.hello-school.net/hsjap.htm)
 - [Suki Desu](https://skdesu.com/zh/)
 - [JPLANG](https://jplang.tufs.ac.jp/)
-- [日语学习](https://www.jpmarumaru.com/tw/JPSongList.asp)
-- [料理相关词汇网站](http://t.cn/Ai9qboBP)
-- [各种商品价格](http://kakaku.com/)
 - [译读](http://read.iol8.com/list-htm-catid-133.html)
 - [国际交流协会](http://rliea.clair.or.jp/kyoukai/)
 - [OKwave](https://okwave.co.jp/)
 - [CiNii Articles](https://ci.nii.ac.jp/ja)
 - [まるごとのことば](http://words.marugotoweb.jp/top.php#collection?lang=en)
-- [文法](http://so-zou.jp/web-app/text/proofreading/#word0)
 - [知名度1](http://jp.%E7%9F%A5%E5%90%8D%E5%BA%)
 - [知名度2](http://2A6.net)
-- [日语语法指南](https://res.wokanxing.info/jpgramma/appendix.html)
 - [文化日本语](https://bunkanihongo.com/)
 
 </details>
