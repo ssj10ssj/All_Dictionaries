@@ -1191,6 +1191,11 @@
 - [维基文库](https://zh.m.wikisource.org/wiki/)
 - [Project Gutenberg 古登堡计划](https://www.gutenberg.org/)
 - [大百科全书大辞典网](http://www.dbkdcd.com/)
+- [知乎盐选](https://www.zhihu.com/xen/market/vip/remix-album)
+- [微信读书](https://weread.qq.com/)
+- [京东读书](https://e.m.jd.com/)
+- [Popo原创市集](https://www.popo.tw/index)
+- [Penana](https://m.penana.com/home.php)
 - [BOOK WALKER(台)](https://www.bookwalker.com.tw/)
     - [BOOK WALKER(日)](https://bookwalker.jp/top/)
 - [Amazon 亚马逊](https://www.amazon.com/Chinese-Traditional-eBooks/b?ie=UTF8&node=18327575011)
@@ -1668,6 +1673,7 @@
 == 综合类 ==
 - [mdx入门 freemdict](https://forum.freemdict.com/t/topic/9610)
 - [全网免费电子书 iMyShare](https://imyshare.com/article/28/)
+- [免费电子书资源大全](https://qiao.dev/2021/03/14/2021%E5%B9%B4%E5%85%8D%E8%B4%B9%E7%94%B5%E5%AD%90%E4%B9%A6%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8.html)
 - [有了这50个电子书网站...](https://m.sohu.com/a/276723424_99949461/?pvid=000115_3w_a)
 - [英语网站大全 百度文库](https://wk.baidu.com/view/37dfde62f5335a8102d220f0)
 - [Alexa - Top Sites by Category: Reference](https://www.alexa.com/topsites/category/Reference)
@@ -1741,6 +1747,7 @@
 
 == 综合 ==
 - [GitHub中文社区](https://www.github-zh.com/)
+- [freeCodeCamp.org](https://github.com/freeCodeCamp)
 - [Tatoeba on GitHub](https://github.com/Tatoeba/tatoeba2)
 - [Online dictionary based on the console，基于控制台的在线词典 on GitHub ](https://github.com/kuanghy/kictor)
 - [MYDICTIONARY Desktop Application of CLI on GitHub ](https://github.com/zzc-tongji/mydictionary-client-cli)
