@@ -1274,6 +1274,7 @@
 - [漢字ドリルのJAKKA](http://www.jakka.jp/index.html)
 - [拟声词，拟态词博客](http://www.voiceblog.jp/onomatopets/)
 - [词汇辨析网站](http://chigai.lance3.net/aa-content-chigai-best.html)
+- [谚语学习室](http://kotowaza.avaloky.com/index.html)
 - [日本姓氏网](https://mnamae.jp/)
 - [料理相关词汇网站](http://t.cn/Ai9qboBP)
 
@@ -1467,7 +1468,6 @@
 - [杭州现代日语学习论坛](http://bbs.hzmjp.com/indexs.php)
 - [ALC语言教育出版社](http://www.alc.co.jp/)
 - [Matcha](https://matcha-jp.com/easy)
-- [谚语学习室](http://kotowaza.avaloky.com/index.html)
 - [小楠日语](http://o-oo.net.cn/jptranslate/)
 - [JP日语学习网](http://www.jptranslate.com/)
 - [日本語の例文](https://j-nihongo.com/)
@@ -1544,13 +1544,12 @@
 - 《普林斯顿数学指南》
 - 《20世纪数学思想》
 - 《10000个科学难题 数学卷》
-- 《攻读研究生必知必会的数学》
-    - 《那些年你没学明白的数学》
+- 《那些年你没学明白的数学 : 攻读研究生必知必会的数学》
     - 《数学拾遗》
 - 《从大学数学走向现代数学》
 - 《现代数学思想概论》
 - 《现代数学的概念》
-- 《数学 : 它的内容、方法和意义》
+- 《数学:它的内容、方法和意义》
 - 《古今数学思想》
 - 《什么是数学》
 - 《高观点下的初等数学》
