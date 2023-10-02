@@ -1200,6 +1200,7 @@
     - [Google Play 图书](https://play.google.com/store/books?hl=zh&gl=US)
 - [Apple Books](https://www.apple.com/apple-books/)
 - [博客来](https://www.books.com.tw/)
+- [乱搭](https://tw.myrenta.com/)
 - [Pubu](https://m.pubu.com.tw/)
 - [Readmoo 读墨](https://readmoo.com/)
 
@@ -1826,6 +1827,8 @@
 - [Muse木棉花](https://www.e-muse.com.tw/)
 - [Age动漫](https://m.agemys.org/#/)
 - [Pixiv](https://www.pixiv.net/)
+- [角川平方 KADOKAWA GEMPAK STARZ](https://gempakstarz.com/zh/home-3/)
+- [魔豆原创 Magic Bean](https://m.facebook.com/I.Love.MagicBean)
 - [小鸡模拟器](https://play.google.com/store/apps/details?id=org.xiaoji001.app&hl=zh≷=US)
 
 </details>
