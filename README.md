@@ -1342,6 +1342,7 @@
 - [italki](https://www.italki.com/)
 - [LingQ](https://www.lingq.com/zh-cn/)
 - [KUMON](https://www.kumon.ne.jp/jpn/chinese/)
+- [教育联展网日语](http://www.thea.cn/riyu/)
 - [富士大学留学生网站](http://raicho.ier.u-toyama.ac.jp/)
 - [首都大学东京](http://nihongo.hum.tmu.ac.jp/mic-j/home-c.html)
 - [愉快的学校](https://www.kyoiku.metro.tokyo.lg.jp/)
@@ -1358,6 +1359,7 @@
 
 - [语言交换](https://mylanguageexchange.com/default_ChiSim.asp)
 - [HiNative](https://hinative.com/?locale=zh-CN)
+- [发言小町](http://komachi.yomiuri.co.jp)
 
 </details>
 
@@ -1439,7 +1441,6 @@
 - [52小语种日语](http://www.52xyz.com/jp/xx/)
 - [大家论坛日语](http://club.topsage.com/forum-162-1.html)
 - [外语学习网日语](http://en.examw.com/jp/)
-- [教育联展网日语](http://www.thea.cn/riyu/)
 - [码农场日语](http://www.hankcs.com/nihongonote/)
 - [人民网中国语教室](http://j.people.com.cn/95961/index.html)
 - [杭州现代日语学习论坛](http://bbs.hzmjp.com/indexs.php)
@@ -1476,7 +1477,6 @@
 - [文法](http://so-zou.jp/web-app/text/proofreading/#word0)
 - [知名度1](http://jp.%E7%9F%A5%E5%90%8D%E5%BA%)
 - [知名度2](http://2A6.net)
-- [发言小町](http://komachi.yomiuri.co.jp)
 - [日语语法指南](https://res.wokanxing.info/jpgramma/appendix.html)
 - [文化日本语](https://bunkanihongo.com/)
 
