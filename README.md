@@ -5,13 +5,13 @@
 <summary>展开</summary>
 
 - [原作者](http://mp.weixin.qq.com/s/b5RqP64xBr8Wcgd-Rg1Wfg)
-- 试试页面内 Ctrl + F 关键字。为节省篇幅，就不评介各个站点了，可以点击进去查看。一些站点集成了多部乃至多语种词典，尽量注明典型词典
-- 各站点内容良莠不齐，有的有对应纸版，且有权威机构背书，有的则是拼凑之作；有的虽然数据是正版授权，但是排版却暴殄天物，请大家批判性地参考
+- 试试页面内 Ctrl + F 关键字。为节省篇幅，就不评介各个站点了，可以点击进去查看。一些站点集成了多部乃至多语种词典，尽量注明典型词典。
+- 各站点内容良莠不齐，有的有对应纸版，且有权威机构背书，有的则是拼凑之作；有的虽然数据是正版授权，但是排版却暴殄天物，请大家批判性地参考。
 - [Use Google as a Dictionary](https://www.google.com/search?q=define%3Atest)
-- 站点情况以google搜索为基准
-- 可适当将内含的"聚合搜索"、"网站导航"、"参考"等搭配用 , 直接或间接地连上所需的网站
-- 除了在线词典 , 学习类也含括在内 , 可当成"导航的导航"
-- 感谢这些站点为我们提供查询服务，感谢大家的分享、补充
+- 站点情况以google搜索为基准。
+- 可适当将内含的"聚合搜索"、"网站导航"、"参考"等搭配用 , 直接或间接地连上所需的网站。
+- 除了在线词典 , 学习类也含括在内 , 可当成"导航的导航"。
+- 感谢这些站点为我们提供查询服务，感谢大家的分享、补充。
 - [遠東英漢大辭典全文阅读及纯文本化项目](http://feecd.ducidian.com/)
 
 </details>
@@ -1212,7 +1212,7 @@
 <details>
 <summary>日网导航</summary>
 
-- [Github/NoHeartPen/日语](https://github.com/NoHeartPen/awesome_japanese_study_tools)
+- [GitHub/NoHeartPen/日语](https://github.com/NoHeartPen/awesome_japanese_study_tools)
 - [狐狸等间隔的小屋](https://jp.muimi.me/posts/eizan)
 - [達元 TATSUMOTO](https://tatsumoto.neocities.org/blog/resources)
 - [国語研共同研究プロジェクト「アノテーション」](https://masayu-a.github.io/anno/)
@@ -1354,6 +1354,14 @@
 </details>
 
 <details>
+<summary>交流</summary>
+
+- [语言交换](https://mylanguageexchange.com/default_ChiSim.asp)
+- [HiNative](https://hinative.com/?locale=zh-CN)
+
+</details>
+
+<details>
 <summary>文化</summary>
 
 - [日本文化中心](http://ftp.jpfbj.cn/)
@@ -1430,7 +1438,6 @@
 - [千奕日语](http://www.unls.cn/riyu/culture/)
 - [52小语种日语](http://www.52xyz.com/jp/xx/)
 - [大家论坛日语](http://club.topsage.com/forum-162-1.html)
-- [语言交换](https://mylanguageexchange.com/default_ChiSim.asp)
 - [外语学习网日语](http://en.examw.com/jp/)
 - [教育联展网日语](http://www.thea.cn/riyu/)
 - [码农场日语](http://www.hankcs.com/nihongonote/)
@@ -1440,7 +1447,6 @@
 - [ALC语言教育出版社](http://www.alc.co.jp/)
 - [许多日语读解材料(失常)](http://language.tiu.ac.jp)
 - [Matcha](https://matcha-jp.com/easy)
-- [HiNative](https://hinative.com/?locale=zh-CN)
 - [敬語のお品書き](http://www3.kcn.ne.jp/~jarry/keig/keimn.html)
 - [日本姓氏网](https://mnamae.jp/)
 - [谚语学习室](http://kotowaza.avaloky.com/index.html)
@@ -1723,11 +1729,12 @@
 <summary>展开</summary>
 
 == 综合 ==
+- [GitHub中文社区](https://www.github-zh.com/)
 - [Tatoeba on GitHub](https://github.com/Tatoeba/tatoeba2)
 - [Online dictionary based on the console，基于控制台的在线词典 on GitHub ](https://github.com/kuanghy/kictor)
 - [MYDICTIONARY Desktop Application of CLI on GitHub ](https://github.com/zzc-tongji/mydictionary-client-cli)
 - [有道词典的命令行版本 on GitHub](https://github.com/ChestnutHeng/Wudao-dict)
-- [Github/NoHeartPen/日语](https://github.com/NoHeartPen/awesome_japanese_study_tools)
+- [GitHub/NoHeartPen/日语](https://github.com/NoHeartPen/awesome_japanese_study_tools)
 
 == 二次元 ==
 - [轻小说文库](https://github.com/MewX/light-novel-library_Wenku8_Android)
