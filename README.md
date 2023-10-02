@@ -1802,6 +1802,8 @@
 - [数学（mdx）](https://forum.freemdict.com/t/topic/13811)
 - [轻小说合集 freemdict](https://forum.freemdict.com/t/topic/9083)
 - [作业君的小站（轻小说txt）](https://homeworkkun.wordpress.com/2018/08/18/dcdlls/#more-241)
+- [异次元-源仓库](https://www.yckceo.com/yiciyuan/tuyuan/index.html)
+- [简单动漫（BT下载）](https://www.36dm.org/)
 - [任地鱼（rom下载）](https://m.rendiyu.com/)
 - [52模拟器|Java](http://java.52emu.cn/)
 - [Java游戏小站](https://java.owoemu.com/)
@@ -1824,7 +1826,6 @@
 - [Muse木棉花](https://www.e-muse.com.tw/)
 - [Age动漫](https://m.agemys.org/#/)
 - [Pixiv](https://www.pixiv.net/)
-- [异次元-源仓库](https://www.yckceo.com/yiciyuan/tuyuan/index.html)
 - [小鸡模拟器](https://play.google.com/store/apps/details?id=org.xiaoji001.app&hl=zh≷=US)
 
 </details>
