@@ -50,6 +50,7 @@
 - [词典软件-语言学习-app](#词典软件-语言学习-app)
 - [mdx等辞典下载网站](#mdx等辞典下载网站)
 - [电子书搜索-网站-文库-书店](#电子书搜索-网站-文库-书店)
+- [书源](#书源)
 - [日语学习网站](#日语学习网站)
 - [数学学习网站-书籍](#数学学习网站-书籍)
 - [综合学习网站-选出](#综合学习网站-选出)
@@ -1211,6 +1212,21 @@
 
 </details>
 
+## 书源
+<details>
+<summary>展开</summary>
+
+（部分列于GitHub）
+- [书源大汇总](https://zhuanlan.zhihu.com/p/628884862?utm_id=0)
+- [书源合集](https://zhuanlan.zhihu.com/p/425063200?utm_id=0)
+- [书源列表](https://lifves.com/Home/book/booksourcelist.html)
+- [阅读3.0源](https://github.com/safino9/SourceGo)
+- [小说书源及软件整理](https://github.com/tickmao/Novel)
+- [源仓库](https://www.yckceo.com/)
+- [Linovelib](https://github.com/lightnovel-center/linovelib2epub)
+
+</details>
+
 ## 日语学习网站
 <details>
 <summary>展开</summary>
@@ -1759,6 +1775,7 @@
 - [osudroid](https://github.com/osudroid/osu-droid)
 - [Cimoc](https://github.com/Haleydu/Cimoc)
 - [异次元](https://github.com/FaIryFlower/FairyFlower.github.io)
+- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 - [全是漫画](https://github.com/hongchacha/cartoon)
 - [漫画大全](https://github.com/chashaomanhua/manhuadaquan)
 - [AGE动漫](https://github.com/agefanscom/website)
