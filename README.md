@@ -998,6 +998,7 @@
 - [悠悠国外网](http://www.yoyone.com/)
 - [ACG王国导航](https://www.acgkingdom.com/)
 - [鹿次元](https://luacg.com/)
+- [木晞i的资源汇总](https://yftdtddh.github.io/muxizyhz/)
 
 </details>
 
