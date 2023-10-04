@@ -1224,6 +1224,7 @@
 - [小说书源及软件整理](https://github.com/tickmao/Novel)
 - [源仓库](https://www.yckceo.com/)
 - [Linovelib](https://github.com/lightnovel-center/linovelib2epub)
+- [香色闺阁视频源](https://github.com/xiaohucode/xiangse)
 
 </details>
 
@@ -1778,6 +1779,8 @@
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
 - [全是漫画](https://github.com/hongchacha/cartoon)
 - [漫画大全](https://github.com/chashaomanhua/manhuadaquan)
+- [纯纯看番（包括issues）](https://github.com/easybangumiorg/EasyBangumi)
+- [Anime Searcher](https://github.com/zaxtyson/AnimeSearcher)
 - [AGE动漫](https://github.com/agefanscom/website)
 
 </details>
