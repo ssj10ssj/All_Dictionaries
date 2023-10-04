@@ -1759,6 +1759,8 @@
 - [osudroid](https://github.com/osudroid/osu-droid)
 - [Cimoc](https://github.com/Haleydu/Cimoc)
 - [异次元](https://github.com/FaIryFlower/FairyFlower.github.io)
+- [全是漫画](https://github.com/hongchacha/cartoon)
+- [漫画大全](https://github.com/chashaomanhua/manhuadaquan)
 - [AGE动漫](https://github.com/agefanscom/website)
 
 </details>
