@@ -1834,6 +1834,7 @@
 - [数学（mdx）](https://forum.freemdict.com/t/topic/13811)
 - [轻小说合集 freemdict](https://forum.freemdict.com/t/topic/9083)
 - [作业君的小站（轻小说txt）](https://homeworkkun.wordpress.com/2018/08/18/dcdlls/#more-241)
+- [Meme梗图仓库](https://memes.tw/maker?q=%E7%99%BE%E7%A7%91&from=tag)
 - [异次元-源仓库](https://www.yckceo.com/yiciyuan/tuyuan/index.html)
 - [简单动漫（BT下载）](https://www.36dm.org/)
 - [任地鱼（rom下载）](https://m.rendiyu.com/)
