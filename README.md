@@ -996,6 +996,8 @@
 - [你好网](http://site.nihaowang.com/)
 - [看国外](https://www.kanguowai.com/index.html)
 - [悠悠国外网](http://www.yoyone.com/)
+
+== 二次元 ==
 - [ACG王国导航](https://www.acgkingdom.com/)
 - [鹿次元](https://luacg.com/)
 - [木晞i的资源汇总](https://yftdtddh.github.io/muxizyhz/)
@@ -1161,6 +1163,7 @@
 <details>
 <summary>展开</summary>
 
+== 综合类 ==
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [点点文档](https://www.junengfan.cn/bd)
 - [淘链客](https://www.toplinks.cc/s/)
@@ -1187,8 +1190,6 @@
 - [法文数学类书籍、论文、期刊等](http://archive.numdam.org/)
 - [书享家](https://shuxiangjia.cn/)
 - [资源帝](http://shu.ziyuandi.cn/)
-- [轻小说文库](https://www.wenku8.net/login.php?jumpurl=http%3A%2F%2Fwww.wenku8.net%2Fmodules%2Farticle%2Ftoplist.php%3Fsort%3Dlastupdate)
-- [哔哩轻小说](https://w.linovelib.com/)
 - [青空文库](https://www.aozora.gr.jp/)
 - [维基文库](https://zh.m.wikisource.org/wiki/)
 - [Project Gutenberg 古登堡计划](https://www.gutenberg.org/)
@@ -1210,6 +1211,8 @@
 - [乱搭](https://tw.myrenta.com/)
 - [Pubu](https://m.pubu.com.tw/)
 - [Readmoo 读墨](https://readmoo.com/)
+
+== 轻小说 ==
 
 </details>
 
@@ -1771,9 +1774,11 @@
 - [MYDICTIONARY Desktop Application of CLI on GitHub ](https://github.com/zzc-tongji/mydictionary-client-cli)
 - [有道词典的命令行版本 on GitHub](https://github.com/ChestnutHeng/Wudao-dict)
 - [GitHub/NoHeartPen/日语](https://github.com/NoHeartPen/awesome_japanese_study_tools)
+- [阅读](https://github.com/gedoor/legado)
 
 == 二次元 ==
-- [轻小说文库](https://github.com/MewX/light-novel-library_Wenku8_Android)
+- [轻小说文库（GooglePlay）](https://github.com/MewX/light-novel-library_Wenku8_Android)
+- [轻小说文库（GitHub）](https://github.com/15dd/wenku8reader)
 - [osudroid](https://github.com/osudroid/osu-droid)
 - [Cimoc](https://github.com/Haleydu/Cimoc)
 - [异次元](https://github.com/FaIryFlower/FairyFlower.github.io)
