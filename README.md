@@ -1163,7 +1163,9 @@
 <details>
 <summary>展开</summary>
 
-== 综合类 ==
+<details>
+<summary>综合类</summary>
+
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [点点文档](https://www.junengfan.cn/bd)
 - [淘链客](https://www.toplinks.cc/s/)
@@ -1197,8 +1199,6 @@
 - [知乎盐选](https://www.zhihu.com/xen/market/vip/remix-album)
 - [微信读书](https://weread.qq.com/)
 - [京东读书](https://e.m.jd.com/)
-- [Popo原创市集](https://www.popo.tw/index)
-- [Penana](https://m.penana.com/home.php)
 - [BOOK WALKER(台)](https://www.bookwalker.com.tw/)
     - [BOOK WALKER(日)](https://bookwalker.jp/top/)
 - [Amazon 亚马逊](https://www.amazon.com/Chinese-Traditional-eBooks/b?ie=UTF8&node=18327575011)
@@ -1212,7 +1212,48 @@
 - [Pubu](https://m.pubu.com.tw/)
 - [Readmoo 读墨](https://readmoo.com/)
 
-== 轻小说 ==
+</details>
+
+<details>
+<summary>轻小说</summary>
+
+- [轻小说文库（wenku8）]( https://www.wenku8.net/)
+    - [注册登录页](https://www.wenku8.net/index.php)
+- [哔哩轻小说](https://w.linovelib.com/)
+- [轻小说百科](https://lnovel.org/)
+- [无限轻小说](https://www.8novel.com/)
+- [图书馆的无限回廊](https://epub.love/wp/)
+- [205 藏书馆](https://205library.blogspot.com/)
+- [轻书架](https://www.lightnovel.app/home)
+- [神凑轻小说](https://m.shencou.com/)
+- [魔笔小说](https://mobinovels.com/)
+- [次元狗–轻小说](https://www.acgndog.com/category/qingxiaoshuo)
+- [Animex动漫社–轻小说](https://www.animetox.com/category/source/lightnovel)
+- [ESJ Zone](https://www.esjzone.cc/)
+- [CIJOC轻小说](https://cijoc.com/)
+- [铅笔小说](https://www.23qb.net/book/7-quanben-0-0-0-0-0-0-1.html)
+- [花火文学](https://m.huahuo6.com/)
+- [深夜读书会](http://ritdon.com/)
+- [虚空文学旅团](https://voidlord.com/)
+- [真白萌（Masiro）](https://masiro.me/admin/auth/login)
+- [动漫之家（维护）](https://xs.dmzj.com/)
+- [轻之国度（关）](https://www.lightnovel.us/)
+- [轻文轻小说（关）](https://m.iqing.com/)
+- [迷糊轻小说（关）](https://www.yidm.com/)
+- [亲小说（关）](http://www.qinxiaoshuo.com/)
+- [随想（异）](http://book.suixw.com/)
+- [猫耳FM](https://m.missevan.com/catalog/86#1091)
+- [jnovels](https://jnovels.com/)
+- [轻小说机翻机器人](https://books.fishhawk.top/)
+- [Go2Think](https://go2think.com/)
+- [不可能的世界](https://www.8kana.com/)
+- [刺猬猫](http://mip.ciweimao.com/)
+- [SF轻小说（菠萝包轻小说）](https://book.sfacg.com/List/)
+- [轻之文库](https://www.linovel.net/)
+- [Popo原创市集](https://www.popo.tw/index)
+- [Penana](https://m.penana.com/home.php)
+
+</details>
 
 </details>
 
