@@ -1777,6 +1777,26 @@
 - [蒙科立智能输入法](http://www.menksoft.com/site/alias__menkcms/2824/Default.aspx)
 - [ATOK](https://www.atok.com/)
 
+<details>
+<summary>日轻标点</summary>
+
+* 「」
+* 『』
+* （）
+* ——
+* ……
+* 、
+* 。
+* ？
+* ！
+* ♡
+* ☆
+* 《》
+* ~
+* :
+
+</details>
+
 </details>
 
 ## GitHub电子书
