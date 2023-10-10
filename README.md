@@ -1815,7 +1815,8 @@
 - [MYDICTIONARY Desktop Application of CLI on GitHub ](https://github.com/zzc-tongji/mydictionary-client-cli)
 - [有道词典的命令行版本 on GitHub](https://github.com/ChestnutHeng/Wudao-dict)
 - [GitHub/NoHeartPen/日语](https://github.com/NoHeartPen/awesome_japanese_study_tools)
-- [阅读](https://github.com/gedoor/legado)
+- [Librera Reader（app）](https://github.com/foobnix/LibreraReader)
+- [阅读（app）](https://github.com/gedoor/legado)
 
 == 二次元 ==
 - [轻小说文库（GooglePlay）](https://github.com/MewX/light-novel-library_Wenku8_Android)
