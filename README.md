@@ -1302,6 +1302,8 @@
 - [出口日語](https://m.youtube.com/@deguchi/about)
 - [日本語の森](https://m.youtube.com/@nihongonomori2013/about)
 - [日本語チャンネル](https://m.youtube.com/@Nihongo_Channel_1111/about)
+- [旭文日本語學院](https://m.youtube.com/@shuwoon/about)
+- [小弘学院日本语学习](https://m.youtube.com/@user-hj4gx6fz2d/about)
 - [Talk In Japan 在线日本语](https://m.youtube.com/@TalkInJapanChineseVersion/about)
 - [Japan LanguageTV](https://m.youtube.com/@LIVEING-IN-JAPAN/about)
 - [Naoko Watanabe](https://m.youtube.com/@naokowatanabe7324/about)
@@ -1351,6 +1353,7 @@
 <details>
 <summary>文法</summary>
 
+- [毎日のんびり日本語教師](http://nihongonosensei.net/?page_id=10246#linkn1)
 - [文法](http://so-zou.jp/web-app/text/proofreading/#word0)
 - [日语语法指南](https://res.wokanxing.info/jpgramma/appendix.html)
 - [日本語敬語](http://www.alc.co.jp/jpn/article/faq/)
@@ -1428,6 +1431,7 @@
 - [日本儿童网](https://web-japan.org/kidsweb/cn/index.html)
 - [亲子日本语教室](http://tabunka.or.jp/project/oyako/)
 - [マナペディア 课本（失常）](https://manapedia.jp/m/)
+- [沪江日语](https://m.hujiang.com/jp/)
 - [王可乐日语](https://colanekojp.com.tw/)
 - [早道网校](https://www.izaodao.com)
 - [海到学园](https://m.hidao100.cn/)
@@ -1490,10 +1494,15 @@
 </details>
 
 <details>
-<summary>其他</summary>
+<summary>综合</summary>
 
 - [時雨の町](https://www.sigure.tw/)
-- [沪江日语](https://m.hujiang.com/jp/)
+
+</details>
+
+<details>
+<summary>其他</summary>
+
 - [J-Cinemaで学ぶ日本語・日本文化](http://www.jp-hiroba.com/)
 - [おりがみくらぶ](https://www.origami-club.com/index.html)
 - [CRI](http://japanese.cri.cn/)
@@ -1517,7 +1526,6 @@
 - [日语在线学习网](http://www.jpxue.com/tingli/)
 - [JapaneseOnline 在线日语学习网](http://www.japanese-online.com)
 - [LearnJapanese 免费学日语网络教室 (失常)](http://www.learnjapanese.aiyori.org/)
-- [毎日のんびり日本語教師](http://nihongonosensei.net/?page_id=10246#linkn1)
 - [日语入门](http://www.riyurumen.com/)
 - [日语家园](http://www.ribenyu.cn/home.php)
 - [日语吧](http://www.riyuba.com/)
