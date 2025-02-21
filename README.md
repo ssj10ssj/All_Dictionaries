@@ -951,7 +951,12 @@
 <summary>展开</summary>
 
 - [ChatGPT](https://chat.openai.com/auth/login)
-- [Bard](https://bard.google.com/)
+- [Gemini(前身:Bard)](https://gemini.google.com/)
+- [Microsoft Copilot](https://copilot.microsoft.com/chats/rKgoWSiX1KMRGRwj4KwZB)
+- [深度求索(DeepSeek)](https://www.deepseek.com/)
+- [文心一言](https://yiyan.baidu.com/)
+- [通义千问](https://tongyi.aliyun.com/)
+- [月之暗面](https://www.moonshot.cn/)
 - [聊天机器人列表](https://zh.m.wikipedia.org/zh-cn/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%97%E8%A1%A8)
 - [りんな 人工智能 Line](https://www.rinna.jp/)
 - [日文口说老师Aoi](https://play.google.com/store/apps/details?id=com.db.lingotv&hl=zh_TW≷=US)
