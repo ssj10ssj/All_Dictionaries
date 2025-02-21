@@ -1146,6 +1146,7 @@
 - [Ahktionary](https://forum.freemdict.com/t/topic/4818)
 - [WarblerDict](https://forum.freemdict.com/t/topic/7079)
 - [SilverDict](https://forum.freemdict.com/t/topic/23724)
+- [Aard2](https://aarddict.org/)
 
 </details>
 
@@ -1167,6 +1168,7 @@
 - [掌上百科-PDAWIKI](https://www.pdawiki.com/forum/)
     - [Pdawiki存档检索](https://061061.xyz/)
 - [Mdict](https://mdict.org/)
+- [Aard2](https://github.com/itkach/slob/wiki/Dictionaries)
 
 </details>
 
@@ -1207,6 +1209,7 @@
 - [维基文库](https://zh.m.wikisource.org/wiki/)
 - [Project Gutenberg 古登堡计划](https://www.gutenberg.org/)
 - [大百科全书大辞典网](http://www.dbkdcd.com/)
+- [掌阅](https://m.zhangyue.com/)
 - [知乎盐选](https://www.zhihu.com/xen/market/vip/remix-album)
 - [微信读书](https://weread.qq.com/)
 - [京东读书](https://e.m.jd.com/)
@@ -1900,9 +1903,10 @@
 - [Python官方文档](https://docs.python.org/zh-cn/3/)
 - [Pypi](https://pypi.org/)
 - [菜鸟教程 Runoob](https://www.runoob.com/)
-- [编程师 W3Cschool](https://m.w3cschool.cn/)
+- [编程狮 W3Cschool](https://m.w3cschool.cn/)
 - [TinyPNG](https://tinify.cn/)
 - [爱笔思画](https://ibispaint.com/lecture/index.jsp?lang=zh-HANS)
+- [CLIP STUDIO PAINT](https://www.clipstudio.net/tc/)
 - [Sketchbook](https://www.sketchbook.com/)
 - [PS Touch](https://m.apkpure.com/adobe-photoshop-touch/air.com.adobe.pstouch/download)
 - [阿Q围棋](https://play.google.com/store/apps/details?id=cn.ezandroid.aq.preview&hl=zh&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E9%98%BFq%E5%9B%B4%E6%A3%8B)
