@@ -966,6 +966,8 @@
 - [聊天机器人列表](https://zh.m.wikipedia.org/zh-cn/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%97%E8%A1%A8)
 - [りんな 人工智能 Line](https://www.rinna.jp/)
 - [日文口说老师Aoi](https://play.google.com/store/apps/details?id=com.db.lingotv&hl=zh_TW≷=US)
+- [口袋AI](https://github.com/yzfly/pocketpal-ai-zh)
+- [Stable Diffusion AI](https://sdai.moroz.cc/)
 
 </details>
 
