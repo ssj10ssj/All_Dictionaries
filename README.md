@@ -907,6 +907,8 @@
 <details>
 <summary>展开</summary>
 
+- [English Corpora](https://www.english-corpora.org/)
+- [FineWeb](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
 - [点通多语言语音语料库](https://archive.md/20121208123647/http://www.dmcbc.com.cn/)
 - [宾州大学语料库](https://www.ldc.upenn.edu/)
 - [Wikipedia XML 语料库](https://web.archive.org/web/20060512161550/http://www-connex.lip6.fr/~denoyer/wikipediaXML/)
