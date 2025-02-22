@@ -1067,6 +1067,7 @@
 - http://blog.liberty-e.com/blog/
 - [看典古籍](https://www.kandianguji.com/)
 - [儒藏](https://www.rulib.cn/#/)
+- [登楼古籍+汇总](https://forum.freemdict.com/t/topic/8832)
 
 </details>
 
