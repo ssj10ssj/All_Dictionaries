@@ -1009,6 +1009,7 @@
 - [你好网](http://site.nihaowang.com/)
 - [看国外](https://www.kanguowai.com/index.html)
 - [悠悠国外网](http://www.yoyone.com/)
+- [汇总转载](https://forum.freemdict.com/t/topic/35604)/[汇总原文](https://gitee.com/jamesfengcao/uweb/blob/master/zh/search.md)
 
 == 二次元 ==
 - [ACG王国导航](https://www.acgkingdom.com/)
