@@ -1150,6 +1150,7 @@
 - [Ahktionary](https://forum.freemdict.com/t/topic/4818)
 - [WarblerDict](https://forum.freemdict.com/t/topic/7079)
 - [SilverDict](https://forum.freemdict.com/t/topic/23724)
+- [词悦](https://github.com/mumu-lhl/Ciyue?tab=readme-ov-file)
 - [Aard2](https://aarddict.org/)
 
 </details>
