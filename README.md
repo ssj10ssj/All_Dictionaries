@@ -1921,6 +1921,7 @@
 - [Tab字典合集（mdx）](https://forum.freemdict.com/t/topic/13177)
 - [ 阿彌陀佛（mdx）](https://forum.freemdict.com/t/topic/7530)
 - [Ru-Board（mdx）](https://forum.freemdict.com/t/topic/12050)
+- [实用字辞典清单（mdx）](https://forum.freemdict.com/t/topic/13970)
 - [数学（mdx）](https://forum.freemdict.com/t/topic/13811)
 - [轻小说合集 freemdict](https://forum.freemdict.com/t/topic/9083)
 - [作业君的小站（轻小说txt）](https://homeworkkun.wordpress.com/2018/08/18/dcdlls/#more-241)
