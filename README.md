@@ -951,6 +951,7 @@
 - [中文词汇网络 CWN](https://lopentu.github.io/CwnWeb/)
 - [汉语词语搭配查询系统](https://deeplang.feishu.cn/docs/doccnoH9ncCZspo2Ubx79bpZ0Lh)
 - [iweb](https://www.english-corpora.org/iweb/)
+- [MNBVC(里屋)](https://github.com/esbatmop/MNBVC)
 
 </details>
 
@@ -1070,6 +1071,8 @@
 - [看典古籍](https://www.kandianguji.com/)
 - [儒藏](https://www.rulib.cn/#/)
 - [登楼古籍+汇总](https://forum.freemdict.com/t/topic/8832)
+- [Common Crawl](https://commoncrawl.org/)
+- [The Pile](https://pile.eleuther.ai/)
 
 </details>
 
@@ -1777,6 +1780,8 @@
 - [有没有值得推荐的拉丁语在线翻译网站？](https://www.zhihu.com/question/21977562)
 - [意语干货：最实用的意语在线词典！](https://it.hujiang.com/new/p777140/)
 - [Dictionaries - English Spanish Dictionaries](https://lingolex.com/spanishbookshop/dictionary.htm)
+- [各领域公开数据集](https://zhuanlan.zhihu.com/p/25138563)
+- [50个公共数据集](https://github.com/XNoteW/Studying/blob/master/dataset.md)
 
 </details>
 
