@@ -967,6 +967,9 @@
 - [通义千问](https://tongyi.aliyun.com/)
 - [月之暗面](https://www.moonshot.cn/)
 - [聊天机器人列表](https://zh.m.wikipedia.org/zh-cn/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%97%E8%A1%A8)
+- [中国大模型列表](https://github.com/wgwang/awesome-LLMs-In-China)
+- [中文大语言模型列表(小规模)](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
+- [Hugging Face](https://huggingface.co/)
 - [りんな 人工智能 Line](https://www.rinna.jp/)
 - [日文口说老师Aoi](https://play.google.com/store/apps/details?id=com.db.lingotv&hl=zh_TW≷=US)
 - [口袋AI](https://github.com/yzfly/pocketpal-ai-zh)
@@ -1071,6 +1074,7 @@
 - [看典古籍](https://www.kandianguji.com/)
 - [儒藏](https://www.rulib.cn/#/)
 - [登楼古籍+汇总](https://forum.freemdict.com/t/topic/8832)
+- [WuDaoCorpora(悟道)](https://data.baai.ac.cn/details/WuDaoCorporaText)
 - [Common Crawl](https://commoncrawl.org/)
 - [The Pile](https://pile.eleuther.ai/)
 
@@ -1780,7 +1784,9 @@
 - [有没有值得推荐的拉丁语在线翻译网站？](https://www.zhihu.com/question/21977562)
 - [意语干货：最实用的意语在线词典！](https://it.hujiang.com/new/p777140/)
 - [Dictionaries - English Spanish Dictionaries](https://lingolex.com/spanishbookshop/dictionary.htm)
+- [技术栈](https://nullwy.me/2023/12/popular-websites-tech-stack/)
 - [各领域公开数据集](https://zhuanlan.zhihu.com/p/25138563)
+- [各行业开源数据](https://github.com/FlagOpen/Awesome-Industry-Dataset)
 - [50个公共数据集](https://github.com/XNoteW/Studying/blob/master/dataset.md)
 
 </details>
