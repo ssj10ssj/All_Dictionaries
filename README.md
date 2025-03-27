@@ -1127,6 +1127,7 @@
 - [星际译王 StarDict](https://github.com/huzheng001/stardict-3)
 - [EBDic：EPWING、mdx、StarDict](http://t.cn/RY14MLP)：Android
 - [EB series：EPWING](http://ebstudio.info/) : iOS、Android、macOS、Windows [mdx] 适合日语学习者
+- [JEDict](http://www.jedict.com/)
 - [Dictionary](https://en.wikipedia.org/wiki/Dictionary_(software))：[☞ [2018-05-06] macOS / iOS 内置版权词典名录](https://dictionaryphile.github.io/blog/2017/03/14/)
 - [☞ [2017-03-15] Kindle（曾）内置版权词典名录](http://mp.weixin.qq.com/s/Ggve-W0ac1vDFKrRZKmCug)
 - [搜狗词典](http://fanyi.sogou.com/)
