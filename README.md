@@ -1140,6 +1140,7 @@
 - [Babylon](http://www.babylon-software.com/)：Windows
 - [Color Dict](http://www.socialnmobile.com/colordict.html)
 - [FireDict:A simple offline dictionary software for Firefox OS](http://tuxor1337.github.io/firedict/)
+- [Fora Dictionary](https://fora-dictionary.com/)
 - [微软小英](http://www.engkoo.com/)
 - [漢文博士](http://hanbox.cnblogs.com/)
 - Plod
@@ -1161,6 +1162,7 @@
 - [SilverDict](https://forum.freemdict.com/t/topic/23724)
 - [词悦](https://github.com/mumu-lhl/Ciyue?tab=readme-ov-file)
 - [Aard2](https://aarddict.org/)
+- [其他替代](https://zh.altapps.net/soft/goldendict)
 
 </details>
 
@@ -1183,6 +1185,7 @@
     - [Pdawiki存档检索](https://061061.xyz/)
 - [Mdict](https://mdict.org/)
 - [Aard2](https://github.com/itkach/slob/wiki/Dictionaries)
+- [FreeDict](https://freedict.org/zh_cn/)
 
 </details>
 
