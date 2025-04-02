@@ -891,6 +891,7 @@
 - [Bangumi维基](https://bangumi.tv/wiki)
 - [THBWiki](https://thwiki.cc/)
 - [中文Minecraft Wiki](https://zh.minecraft.wiki/)
+- [纪妖(妖怪页)](https://www.cbaigui.com/monster?page=1)
 - [火器百科](https://huoqibaike.club/n/index.php?title=%E9%A6%96%E9%A1%B5&variant=zh-my)
 - [十万个为什么-在线青少年百科全书](https://10why.net/)
 - [wikiHow](https://zh.wikihow.com/)
