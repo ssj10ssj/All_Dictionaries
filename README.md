@@ -869,6 +869,7 @@
 <details>
 <summary>展开</summary>
 
+- [物种2000](http://www.sp2000.org.cn/)
 - [FRPS《中国植物志》全文电子版网站](http://frps.eflora.cn/)
 - [中国动物志](http://www.zoology.csdb.cn/efauna/index.jsp)
 - [A+医学百科](http://www.a-hospital.com/)
@@ -1912,6 +1913,7 @@
 
 == 手机端 ==
 - [静读天下](http://www.moondownload.com/chinese.html)
+- [金山 WPS](https://mo.wps.cn/pc-app/office.html)
 - [AndrOpen Office](https://andropenoffice.blogspot.com/?m=1)
 - [Quick Edit](https://rhmsoft.com/qedit/help.html)
 - [Termux](https://termux.dev/cn/index.html)
@@ -1931,9 +1933,15 @@
 - [TinyPNG](https://tinify.cn/)
 - [爱笔思画](https://ibispaint.com/lecture/index.jsp?lang=zh-HANS)
 - [CLIP STUDIO PAINT](https://www.clipstudio.net/tc/)
+- [Krita](https://krita.org/zh-cn/)
+- [MediBang](https://medibangpaint.com/)
 - [Sketchbook](https://www.sketchbook.com/)
 - [PS Touch](https://m.apkpure.com/adobe-photoshop-touch/air.com.adobe.pstouch/download)
 - [阿Q围棋](https://play.google.com/store/apps/details?id=cn.ezandroid.aq.preview&hl=zh&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E9%98%BFq%E5%9B%B4%E6%A3%8B)
+- [Pixel Studio](https://play.google.com/store/apps/details?id=com.PixelStudio&hl=zh_HK&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E5%83%8F%E7%B4%A0%E7%BB%98%E7%94%BB&pcampaignid=APPU_1_cM84aOnPEs-QseMPr421mA4)
+- [巧影](https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree&hl=zh&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E5%B7%A7%E5%BD%B1&pcampaignid=APPU_1_5ck4aMuoJNKhnesPpva4wAg)
+- [FL Studio](https://play.google.com/store/apps/details?id=com.imageline.FLM&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dfl+studio%E4%B8%8B%E8%BD%BD&pcampaignid=APPU_1_I8k4aK20DtOMseMPwO-siAw)
+- [Cubasis 3](https://www.steinberg-cn.com/cubasis/)
 
 == 资源区 ==
 - [Zim资源](https://library.kiwix.org/?lang=zho#lang=zho)
