@@ -972,9 +972,13 @@
 - [中国大模型列表](https://github.com/wgwang/awesome-LLMs-In-China)
 - [中文大语言模型列表(小规模)](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 - [Hugging Face](https://huggingface.co/)
+- [Ollama](https://ollama.com/library)
 - [りんな 人工智能 Line](https://www.rinna.jp/)
 - [日文口说老师Aoi](https://play.google.com/store/apps/details?id=com.db.lingotv&hl=zh_TW≷=US)
 - [口袋AI](https://github.com/yzfly/pocketpal-ai-zh)
+- [MNN](https://github.com/alibaba/MNN/tree/master)
+- [Google AI Edge](https://github.com/google-ai-edge/gallery)
+- [MLC](https://llm.mlc.ai/)
 - [Stable Diffusion AI](https://sdai.moroz.cc/)
 
 </details>
