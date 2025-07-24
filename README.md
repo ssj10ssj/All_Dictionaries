@@ -1317,6 +1317,9 @@
 == 书源网址 ==
 - https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json
 - https://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json
+- https://gitcode.net/Haleydutest/cupdate/-/raw/master/sourceBaseUrl.json
+- http://www.cimoc.top/cimoc/sourc/master/raw/sourceBaseUrl.json
+- https://miuscapp.com/cimoc/sourceBaseUrl.json
 
 </details>
 
