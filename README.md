@@ -1898,6 +1898,7 @@
 - [纯纯看番（包括issues）](https://github.com/easybangumiorg/EasyBangumi)
 - [Anime Searcher](https://github.com/zaxtyson/AnimeSearcher)
 - [AGE动漫](https://github.com/agefanscom/website)
+- [Aniyomi](https://github.com/aniyomiorg/aniyomi)
 
 </details>
 
@@ -1919,6 +1920,8 @@
 
 == 手机端 ==
 - [静读天下](http://www.moondownload.com/chinese.html)
+- [ReadEra](https://readera.org/)
+- [Notion](https://www.notion.com/mobile)
 - [金山 WPS](https://mo.wps.cn/pc-app/office.html)
 - [AndrOpen Office](https://andropenoffice.blogspot.com/?m=1)
 - [Quick Edit](https://rhmsoft.com/qedit/help.html)
@@ -1929,6 +1932,7 @@
 - [NP管理器](https://github.com/githubXiaowangzi/NP-Manager)
 - [MiXplorer](https://mixplorer.com/)
 - [ES文件浏览器](http://www.estrongs.com/)
+- [Acode](https://acode.app/)
 - [AIDE](https://www.android-ide.com/)
 - [QPython](https://github.com/qpython-android/qpython3/releases)
 - [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dpydroid&pcampaignid=APPU_1_XhoVZftAmoPj4Q_Uv7SQCw)
@@ -1941,6 +1945,7 @@
 - [CLIP STUDIO PAINT](https://www.clipstudio.net/tc/)
 - [Krita](https://krita.org/zh-cn/)
 - [MediBang](https://medibangpaint.com/)
+- [Infinite Painter](https://www.infinitestudio.art/discover.php)
 - [Sketchbook](https://www.sketchbook.com/)
 - [PS Touch](https://m.apkpure.com/adobe-photoshop-touch/air.com.adobe.pstouch/download)
 - [阿Q围棋](https://play.google.com/store/apps/details?id=cn.ezandroid.aq.preview&hl=zh&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E9%98%BFq%E5%9B%B4%E6%A3%8B)
