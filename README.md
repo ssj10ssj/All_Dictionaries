@@ -1749,6 +1749,8 @@
 - [日语学习网站集合](http://www.yywz123.com/html/riyu/index.htm)
 - [日语交流网站集合](https://zhuanlan.zhihu.com/p/343131209)
 - [30个免费日语学习网站](https://skdesu.com/zh/%E7%BD%91%E7%BB%9C%E4%B8%8A%E6%9C%8925%E4%B8%AA%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AF%AD%E7%9A%84%E7%BD%91%E7%AB%99/)
+- [漫画APP 资源汇总](https://github.com/maomao1996/daily-notes/issues/48)
+- [插件&模块化的多媒体软件汇总](https://bgm.tv/group/topic/390250)
 
 == 维基列表类 ==
 - [在线百科全书列表 维基](https://zh.m.wikipedia.org/wiki/在线百科全书列表)
