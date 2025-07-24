@@ -904,6 +904,7 @@
 - [中国药典](http://www.ouryao.com/forum-283-1)
 - [蒲标网:药典](http://db.ouryao.com/)
 - [医药网-医药搜索](http://www.pharmnet.com.cn/search/index.cgi)
+- [岁年网（旧）](https://www.suinian.com/)
 
 </details>
 
@@ -1946,6 +1947,7 @@
 - [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dpydroid&pcampaignid=APPU_1_XhoVZftAmoPj4Q_Uv7SQCw)
 - [Python官方文档](https://docs.python.org/zh-cn/3/)
 - [Pypi](https://pypi.org/)
+- [F-Droid](https://f-droid.org/)
 - [菜鸟教程 Runoob](https://www.runoob.com/)
 - [编程狮 W3Cschool](https://m.w3cschool.cn/)
 - [TinyPNG](https://tinify.cn/)
