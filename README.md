@@ -1304,6 +1304,7 @@
 （部分列于GitHub）
 
 == 书源网站 ==
+- [书源+直播源+漫画源及软件汇总](https://zhuanlan.zhihu.com/p/720309319)
 - [书源大汇总](https://zhuanlan.zhihu.com/p/628884862?utm_id=0)
 - [书源合集](https://zhuanlan.zhihu.com/p/425063200?utm_id=0)
 - [书源列表](https://lifves.com/Home/book/booksourcelist.html)
