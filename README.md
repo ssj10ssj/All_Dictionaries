@@ -1301,6 +1301,7 @@
 <details>
 <summary>展开</summary>
 
+== 书源网站 ==
 （部分列于GitHub）
 - [书源大汇总](https://zhuanlan.zhihu.com/p/628884862?utm_id=0)
 - [书源合集](https://zhuanlan.zhihu.com/p/425063200?utm_id=0)
@@ -1311,6 +1312,10 @@
 - [Keiyoushi](https://keiyoushi.github.io/extensions/)
 - [Linovelib](https://github.com/lightnovel-center/linovelib2epub)
 - [香色闺阁视频源](https://github.com/xiaohucode/xiangse)
+
+== 书源网址 ==
+- https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json
+- https://gitee.com/Haleydu/update/raw/master/sourceBaseUrl.json
 
 </details>
 
