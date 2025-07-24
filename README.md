@@ -53,7 +53,7 @@
 - [书源](#书源)
 - [日语学习网站](#日语学习网站)
 - [数学学习网站-书籍](#数学学习网站-书籍)
-- [综合学习网站-选出](#综合学习网站-选出)
+- [学习推荐](#学习推荐)
 - [参考](#参考)
 - [字体](#字体)
 - [输入法](#输入法)
@@ -1106,6 +1106,7 @@
 - [Pleco](http://www.pleco.com/)
 - [文林® 汉语学习软件](https://wenlin.com/)
 - [HelloTalk](http://www.hellotalk.com/)
+- [JP Ninja](https://play.google.com/store/apps/details?id=com.app.jlptninja&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Djp+ninja&pcampaignid=APPU_1_rYmCaJL9FZfR2roP15TK4QI)
 - [日语语法酷](https://m.wandoujia.com/apps/6860621)
 - [日语达人-环游日本大冒险](https://play.google.com/store/apps/details?id=com.chaos.jpmaster&hl=zh_TW&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E6%97%A5%E8%AF%AD%E8%BE%BE%E4%BA%BA+%E8%B0%B7%E6%AD%8C%E5%95%86%E5%BA%97&pcampaignid=APPU_1_55IXZfTkGPbPseMPsJaDiA8)
 - [日文小说-轻](https://play.google.com/store/apps/details?id=com.suhao.lightnovel&hl=zh&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E8%BD%BB%E5%B0%8F%E8%AF%B4+app&pcampaignid=APPU_1_CMoVZafQJ_idseMP56Du0QM)
@@ -1692,10 +1693,17 @@
 
 </details>
 
-## 综合学习网站-选出
+## 学习推荐
 <details>
 <summary>展开</summary>
 
+== 离线学习 ==
+- 安娜的档案
+- Kiwix
+- LLM
+- Mdx
+
+== 推荐网站（旧） ==
 - [书享家(电子书导航)](https://shuxiangjia.cn/)
 - [15学习导航(学习导航)](https://www.yao515.com/)
 - [科塔学术导航(学术导航)](https://site.sciping.com/)
@@ -1963,6 +1971,7 @@
 - [数学（mdx）](https://forum.freemdict.com/t/topic/13811)
 - [轻小说合集 freemdict](https://forum.freemdict.com/t/topic/9083)
 - [作业君的小站（轻小说txt）](https://homeworkkun.wordpress.com/2018/08/18/dcdlls/#more-241)
+- [Zlib书单](https://zh.z-library.sk/profile/12760922/4f6f09)
 - [Meme梗图仓库](https://memes.tw/maker?q=%E7%99%BE%E7%A7%91&from=tag)
 - [异次元-源仓库](https://www.yckceo.com/yiciyuan/tuyuan/index.html)
 - [简单动漫（BT下载）](https://www.36dm.org/)
