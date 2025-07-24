@@ -1308,6 +1308,7 @@
 - [阅读3.0源](https://github.com/safino9/SourceGo)
 - [小说书源及软件整理](https://github.com/tickmao/Novel)
 - [源仓库](https://www.yckceo.com/)
+- [Keiyoushi](https://keiyoushi.github.io/extensions/)
 - [Linovelib](https://github.com/lightnovel-center/linovelib2epub)
 - [香色闺阁视频源](https://github.com/xiaohucode/xiangse)
 
