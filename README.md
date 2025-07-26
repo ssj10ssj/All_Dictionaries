@@ -1552,7 +1552,7 @@
 </details>
 
 <details>
-<summary>其他</summary>
+<summary>其他（待整理）</summary>
 
 - [J-Cinemaで学ぶ日本語・日本文化](http://www.jp-hiroba.com/)
 - [おりがみくらぶ](https://www.origami-club.com/index.html)
