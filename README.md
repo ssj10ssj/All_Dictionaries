@@ -1974,6 +1974,9 @@
 - [巧影](https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree&hl=zh&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E5%B7%A7%E5%BD%B1&pcampaignid=APPU_1_5ck4aMuoJNKhnesPpva4wAg)
 - [FL Studio](https://play.google.com/store/apps/details?id=com.imageline.FLM&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dfl+studio%E4%B8%8B%E8%BD%BD&pcampaignid=APPU_1_I8k4aK20DtOMseMPwO-siAw)
 - [Cubasis 3](https://www.steinberg-cn.com/cubasis/)
+- [Visha](https://visha.notion.site/669507ed9c0c47fd889e0ea975056c8d?v=1d1693306255437f8cf6f116ee043300)
+- [FeedMe](https://play.google.com/store/apps/details?id=com.seazon.feedme&hl=zh_HK&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA+rss&pcampaignid=APPU_1_Ey-FaMuOO8jn2roP0bDbwQU)
+- [Flud](https://delphisoftwares.com/flud)
 
 == 资源区 ==
 - [Zim资源](https://library.kiwix.org/?lang=zho#lang=zho)
