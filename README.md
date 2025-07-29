@@ -986,7 +986,9 @@
 - [Google Dataset Search
 ](https://datasetsearch.research.google.com/)
 - [OSINT Framework](https://osintframework.com/)
-
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+- [
+Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything)
 </details>
 
 ## 搜索引擎-聚合搜索-网站导航
