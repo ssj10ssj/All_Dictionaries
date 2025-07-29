@@ -1723,7 +1723,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - Mdx
 
 == 辅助学习 ==
-- 离线RSS
+- 离线RSS（+api）
 - 知识管理工具（+爬虫）
 - 电子书软件（网络书库/书源/OPDS）
 - 慕课（网盘/磁力/嗅探/聚合/OSINT）
