@@ -872,6 +872,7 @@
 - [物种2000](http://www.sp2000.org.cn/)
 - [FRPS《中国植物志》全文电子版网站](http://frps.eflora.cn/)
 - [中国动物志](http://www.zoology.csdb.cn/efauna/index.jsp)
+- [默沙东诊疗手册](https://www.msdmanuals.cn/)
 - [A+医学百科](http://www.a-hospital.com/)
 - [医学百科](https://www.wiki8.com/)
 - [多识植物百科](http://duocet.ibiodiversity.net/)
@@ -981,6 +982,10 @@
 - [Google AI Edge](https://github.com/google-ai-edge/gallery)
 - [MLC](https://llm.mlc.ai/)
 - [Stable Diffusion AI](https://sdai.moroz.cc/)
+- [大数据导航](https://hao.199it.com/)
+- [Google Dataset Search
+](https://datasetsearch.research.google.com/)
+- [OSINT Framework](https://osintframework.com/)
 
 </details>
 
