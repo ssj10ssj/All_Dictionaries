@@ -1724,9 +1724,9 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 
 == 辅助学习 ==
 - 离线RSS
-- 知识管理工具（带爬虫）
-- 电子书软件（网络书库/书源）
-- 慕课（网盘/磁力/嗅探/聚合）
+- 知识管理工具（+爬虫）
+- 电子书软件（网络书库/书源/OPDS）
+- 慕课（网盘/磁力/嗅探/聚合/OSINT）
 
 == 推荐网站（旧） ==
 - [书享家(电子书导航)](https://shuxiangjia.cn/)
