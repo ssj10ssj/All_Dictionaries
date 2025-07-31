@@ -982,6 +982,7 @@
 - [Google AI Edge](https://github.com/google-ai-edge/gallery)
 - [MLC](https://llm.mlc.ai/)
 - [Stable Diffusion AI](https://sdai.moroz.cc/)
+- [SimilarWeb](https://www.similarweb.com/zh/)
 - [大数据导航](https://hao.199it.com/)
 - [Google Dataset Search
 ](https://datasetsearch.research.google.com/)
@@ -1724,7 +1725,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 
 == 辅助学习 ==
 - 离线RSS（+api）
-- 知识管理工具（+爬虫）
+- 知识管理工具（+爬虫/Tor）
 - 电子书软件（网络书库/书源/OPDS）
 - 慕课（网盘/磁力/嗅探/聚合/OSINT）
 
@@ -1990,6 +1991,8 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [Visha](https://visha.notion.site/669507ed9c0c47fd889e0ea975056c8d?v=1d1693306255437f8cf6f116ee043300)
 - [FeedMe](https://play.google.com/store/apps/details?id=com.seazon.feedme&hl=zh_HK&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA+rss&pcampaignid=APPU_1_Ey-FaMuOO8jn2roP0bDbwQU)
 - [Flud](https://delphisoftwares.com/flud)
+- [Google Analytics](https://marketingplatform.google.com/intl/zh-CN_cn/about/analytics/)
+- [IFTTT](https://ifttt.com/)
 
 == 资源区 ==
 - [Zim资源](https://library.kiwix.org/?lang=zho#lang=zho)
