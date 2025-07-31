@@ -513,6 +513,7 @@
 - [注音字典](https://bopomofo.com.tw/)
 - [快学网字典](http://zidian.kxue.com/)
 - [句子迷](https://www.juzimi.com/)
+- [汉字部件（大合辑）](https://forum.freemdict.com/t/topic/14675)
 - [小鸡词典 (网络流行语)](https://jikipedia.com/)
 
 </details>
