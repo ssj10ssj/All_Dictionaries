@@ -1916,6 +1916,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [Online dictionary based on the console，基于控制台的在线词典 on GitHub ](https://github.com/kuanghy/kictor)
 - [MYDICTIONARY Desktop Application of CLI on GitHub ](https://github.com/zzc-tongji/mydictionary-client-cli)
 - [有道词典的命令行版本 on GitHub](https://github.com/ChestnutHeng/Wudao-dict)
+- [public-apis-cn](https://github.com/llf007/public-apis-cn)
 - [GitHub/NoHeartPen/日语](https://github.com/NoHeartPen/awesome_japanese_study_tools)
 - [Librera Reader（app）](https://github.com/foobnix/LibreraReader)
 - [阅读（app）](https://github.com/gedoor/legado)
