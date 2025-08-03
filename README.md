@@ -1037,6 +1037,9 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [ACG王国导航](https://www.acgkingdom.com/)
 - [鹿次元](https://luacg.com/)
 - [木晞i的资源汇总](https://yftdtddh.github.io/muxizyhz/)
+- [ACG导航](https://www.acgdh.cc/)
+- [二次元宝藏导航](https://acg.baozangdh.com/)
+- [萌站 次元导航](https://moe321.com/)
 
 </details>
 
