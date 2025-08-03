@@ -1106,7 +1106,6 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [物書堂](https://www.monokakido.jp/)
 - [BIGLOBE](http://manabi.biglobe.ne.jp/)
 - [爱译客/Gaminik](https://www.gaminik.cn/)
-- [Kiwix](https://www.kiwix.org/en/)
 - [LogoVista](http://www.logovista.co.jp/)
 - [LogoVista電子辞典シリーズ ライセンス価格](http://www.logovista.co.jp/LVERP/information/license/dic.html)
 - [Mobile Systems](https://www.mobisystems.com/dictionaries/)
@@ -1177,6 +1176,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [SilverDict](https://forum.freemdict.com/t/topic/23724)
 - [词悦](https://github.com/mumu-lhl/Ciyue?tab=readme-ov-file)
 - [Aard2](https://aarddict.org/)
+- [Kiwix](https://www.kiwix.org/en/)
 - [其他替代](https://zh.altapps.net/soft/goldendict)
 
 </details>
