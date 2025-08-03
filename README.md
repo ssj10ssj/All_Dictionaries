@@ -2042,7 +2042,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [Animia](https://animia.me/)
 - [Ani-One](https://www.medialink.com.hk/tc/Anione.aspx)
 - [Muse木棉花](https://www.e-muse.com.tw/)
-- [Age动漫](https://m.agemys.org/#/)
+- [Age动漫](https://m.agemys.org/#/)/[Age网址](https://github.com/agefanscom/website)
 - [Pixiv](https://www.pixiv.net/)
 - [角川平方 KADOKAWA GEMPAK STARZ](https://gempakstarz.com/zh/home-3/)
 - [魔豆原创 Magic Bean](https://m.facebook.com/I.Love.MagicBean)
