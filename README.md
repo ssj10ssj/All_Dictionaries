@@ -1089,7 +1089,12 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - http://blog.liberty-e.com/blog/
 - [看典古籍](https://www.kandianguji.com/)
 - [儒藏](https://www.rulib.cn/#/)
-- [登楼古籍+汇总](https://forum.freemdict.com/t/topic/8832)
+- [登楼古籍](https://tio.freemdict.com/denglou)/[登楼古籍+汇总](https://forum.freemdict.com/t/topic/8832)
+- [古籍资源](https://www.ihns.ac.cn/njgsz/zcbm/lytsg/zydh/sjkdh/zwdj/)
+- [中国基本古籍库](http://er07.com/home/pro_3.html)
+- [鼎秀古籍全文检索平台](https://www.ding-xiu.com/ancientbook/portal/index/index.do)
+- [中华经典古籍库](https://jingdian.ancientbooks.cn/6)
+- [中国日本古籍全文资料库](https://www.udndata.com/promo/ancient_press/index.html)
 - [WuDaoCorpora(悟道)](https://data.baai.ac.cn/details/WuDaoCorporaText)
 - [Common Crawl](https://commoncrawl.org/)
 - [The Pile](https://pile.eleuther.ai/)
