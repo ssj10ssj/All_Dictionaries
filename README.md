@@ -1656,6 +1656,8 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [Wikipedia](https://en.m.wikipedia.org/wiki/Portal:Mathematics)
 - [nLab](https://ncatlab.org/nlab/show/HomePage)
 - [大数学维基](https://googology.fandom.com/zh/wiki/%E5%A4%A7%E6%95%B8%E5%88%97%E8%A1%A8?variant=zh-cn)
+- [Lean/Mathlib](https://lean-lang.org/)
+- [Coq](https://rocq-prover.org/)
 - [WolframAlpha](https://www.wolframalpha.com/)
 - [Wolfram Mathematica](www.wolfram.com/mathematica/)
 - [Maple](www.maplesoft.com/products/maple/)
@@ -1725,10 +1727,10 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - 《从数学观点看物理世界 : 基本粒子与统一场理论》
 - 《人工智能 : 现代方法》
 - 《系统科学精要》
-- 《超级思维》
-- 《思维模型》
 - 《逻辑学大辞典》
 - 《哲学大辞典》
+- 《思维模型》
+- 《超级思维》
 
 </details>
 
