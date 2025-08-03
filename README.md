@@ -1654,8 +1654,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [MathWorld](https://mathworld.wolfram.com/)
 - [ProofWiki](https://proofwiki.org/wiki/Main_Page)
 - [Wikipedia](https://en.m.wikipedia.org/wiki/Portal:Mathematics)
-- [陶哲轩 博客](https://terrytao.wordpress.com/)
-- [Matrix67](http://www.matrix67.com/)
+- [nLab](https://ncatlab.org/nlab/show/HomePage)
 - [WolframAlpha](https://www.wolframalpha.com/)
 - [Wolfram Mathematica](www.wolfram.com/mathematica/)
 - [Maple](www.maplesoft.com/products/maple/)
@@ -1672,9 +1671,12 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [玄数](http://math001.com/link/)
 - [AMS](https://www.ams.org/home/page)
 - [大数学维基](https://googology.fandom.com/zh/wiki/%E5%A4%A7%E6%95%B8%E5%88%97%E8%A1%A8?variant=zh-cn)
+- [MathOverflow](https://mathoverflow.net/)
 - [Stack Exchange](https://stackexchange.com/)/[Mathematics](https://math.stackexchange.com/)
 - [Reddit（形式科学）](https://www.reddit.com/t/formal_science/)
 - [知乎（数学）](https://www.zhihu.com/topic/19554091/hot)
+- [陶哲轩 博客](https://terrytao.wordpress.com/)
+- [Matrix67](http://www.matrix67.com/)
 
 </details>
 
