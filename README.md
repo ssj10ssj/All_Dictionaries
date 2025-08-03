@@ -1105,6 +1105,10 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [WuDaoCorpora(悟道)](https://data.baai.ac.cn/details/WuDaoCorporaText)
 - [Common Crawl](https://commoncrawl.org/)
 - [The Pile](https://pile.eleuther.ai/)
+- [arXiv](https://arxiv.org/)
+- [Sci-Hub](https://sci-hub.se/)
+- [SciDB/科学数据银行](https://www.scidb.cn/)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
 </details>
 
