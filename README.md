@@ -1058,8 +1058,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [超星数字图书馆](https://www.chaoxing.com/)
 - [龙岩图书馆](http://www.lytsg.com/)
 - [读秀](https://www.duxiu.com/)
-- [80图书馆](http://www.80lib.com/)
-- [蜗牛图书馆](http://wnlib.com/)
+- [80图书馆](http://www.80lib.com/)/[蜗牛图书馆](http://wnlib.com/)
 - [Omniglot](https://www.omniglot.com/)
 - [Separated by a Common Language Observations on British and American English by an American linguist in the UK](https://separatedbyacommonlanguage.blogspot.com/)
 - [John Wells’s phonetic blog](http://phonetic-blog.blogspot.com/)
@@ -2048,6 +2047,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [角川平方 KADOKAWA GEMPAK STARZ](https://gempakstarz.com/zh/home-3/)
 - [魔豆原创 Magic Bean](https://m.facebook.com/I.Love.MagicBean)
 - [小鸡模拟器](https://play.google.com/store/apps/details?id=org.xiaoji001.app&hl=zh≷=US)
+- [橙光](https://m.66rpg.com/mini/home)
 
 </details>
 
