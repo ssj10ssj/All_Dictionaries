@@ -983,6 +983,7 @@
 - [Google AI Edge](https://github.com/google-ai-edge/gallery)
 - [MLC](https://llm.mlc.ai/)
 - [Stable Diffusion AI](https://sdai.moroz.cc/)
+- [Replit](https://replit.com/)
 - [SimilarWeb](https://www.similarweb.com/zh/)
 - [大数据导航](https://hao.199it.com/)
 - [Google Dataset Search
