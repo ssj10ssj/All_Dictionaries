@@ -1971,6 +1971,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 == 综合 ==
 - [GitHub中文社区](https://www.github-zh.com/)
 - [程序员应该访问的最佳网站](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
+- [免费的编程资源大全](https://github.com/liyupi/free-programming-resources)
 - [freeCodeCamp.org](https://github.com/freeCodeCamp)
 - [Tatoeba on GitHub](https://github.com/Tatoeba/tatoeba2)
 - [Online dictionary based on the console，基于控制台的在线词典 on GitHub ](https://github.com/kuanghy/kictor)
