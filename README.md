@@ -1889,6 +1889,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [有没有值得推荐的拉丁语在线翻译网站？](https://www.zhihu.com/question/21977562)
 - [意语干货：最实用的意语在线词典！](https://it.hujiang.com/new/p777140/)
 - [Dictionaries - English Spanish Dictionaries](https://lingolex.com/spanishbookshop/dictionary.htm)
+- [全网最全编程学习网站汇总](https://www.cnblogs.com/three-fighter/p/13641835.html#navigator)
 - [20款顶级AI聊天机器人推荐](https://juejin.cn/post/7213695693201014840)
 - [技术栈](https://nullwy.me/2023/12/popular-websites-tech-stack/)
 - [各领域公开数据集](https://zhuanlan.zhihu.com/p/25138563)
