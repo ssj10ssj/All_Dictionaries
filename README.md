@@ -1972,6 +1972,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 == 综合 ==
 - [GitHub中文社区](https://www.github-zh.com/)
 - [技术博客网站推荐](https://github.com/csarron/ITBlogs)
+- [程序员开拓眼界和提升效率](https://github.com/ctimbai/awesome-things)
 - [程序员应该访问的最佳网站](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 - [高质量程序员相关资源](https://github.com/coderzcr/Awesome-Programmer-Source)
 - [Awesome Tools](https://github.com/YSGStudyHards/Awesome-Tools)
