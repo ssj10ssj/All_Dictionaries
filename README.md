@@ -977,6 +977,8 @@
 - [月之暗面(Kimi)](https://www.moonshot.cn/)
 - [智谱](https://open.bigmodel.cn/)
 - [Capterra/Intercom](https://www.capterra.com/p/134347/Intercom/)
+- [Goatchat](https://goatchat.ai/zh-CN/chat/elmo)
+- [Hello History](https://www.hellohistory.ai/)
 - [Jasper Chat](https://www.jasper.ai/chat)
 - [聊天机器人列表](https://zh.m.wikipedia.org/zh-cn/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%97%E8%A1%A8)
 - [中国大模型列表](https://github.com/wgwang/awesome-LLMs-In-China)
@@ -991,14 +993,23 @@
 - [MLC](https://llm.mlc.ai/)
 - [Poe](https://poe.com/login)
 - [Stable Diffusion AI](https://sdai.moroz.cc/)
+- [Bubble](https://bubble.io/live_not_supported?appname=chatbotgpt3)
+- [Chai](https://www.chai-research.com/)
 - [Character.ai](https://character.ai/)
+- [GPT Hotline](https://www.gpthotline.com/)
 - [GPTBots](https://www.gptbots.ai/zh_TW)
 - [G2](https://www.g2.com/)
+- [PeopleAI](https://chatbotkit.com/apps/peopleai)
+- [Quickchat AI](https://quickchat.ai/)
 - [Replit](https://replit.com/)
 - [SimilarWeb](https://www.similarweb.com/zh/)
+- [Text GPT](https://textgpt.net/)
+- [Uminal](https://www.uminal.com/)
+- [Webapi.ai ](https://webapi.ai/)
 - [大数据导航](https://hao.199it.com/)
 - [Google Dataset Search
 ](https://datasetsearch.research.google.com/)
+- [ToolAI](https://www.toolai.io/zh)
 - [OSINT Framework](https://osintframework.com/)
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint)
 - [
@@ -1059,6 +1070,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 <details>
 <summary>展开</summary>
 
+- [科学网](https://www.sciencenet.cn/)
 - [Hyread 国立台湾图书馆](https://ntledu.ebook.hyread.com.tw/index.jsp)
 - [世界数字图书馆](https://www.wdl.org/zh/)
 - [中国国家图书馆](http://www.nlc.cn/)
@@ -1877,6 +1889,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [有没有值得推荐的拉丁语在线翻译网站？](https://www.zhihu.com/question/21977562)
 - [意语干货：最实用的意语在线词典！](https://it.hujiang.com/new/p777140/)
 - [Dictionaries - English Spanish Dictionaries](https://lingolex.com/spanishbookshop/dictionary.htm)
+- [20款顶级AI聊天机器人推荐](https://juejin.cn/post/7213695693201014840)
 - [技术栈](https://nullwy.me/2023/12/popular-websites-tech-stack/)
 - [各领域公开数据集](https://zhuanlan.zhihu.com/p/25138563)
 - [各行业开源数据](https://github.com/FlagOpen/Awesome-Industry-Dataset)
@@ -1957,6 +1970,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 
 == 综合 ==
 - [GitHub中文社区](https://www.github-zh.com/)
+- [程序员应该访问的最佳网站](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 - [freeCodeCamp.org](https://github.com/freeCodeCamp)
 - [Tatoeba on GitHub](https://github.com/Tatoeba/tatoeba2)
 - [Online dictionary based on the console，基于控制台的在线词典 on GitHub ](https://github.com/kuanghy/kictor)
