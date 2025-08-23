@@ -1167,7 +1167,6 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [文林® 汉语学习软件](https://wenlin.com/)
 - [HelloTalk](http://www.hellotalk.com/)
 - [JP Ninja](https://play.google.com/store/apps/details?id=com.app.jlptninja&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Djp+ninja&pcampaignid=APPU_1_rYmCaJL9FZfR2roP15TK4QI)
-- [日语语法酷](https://m.wandoujia.com/apps/6860621)
 - [日语达人-环游日本大冒险](https://play.google.com/store/apps/details?id=com.chaos.jpmaster&hl=zh_TW&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E6%97%A5%E8%AF%AD%E8%BE%BE%E4%BA%BA+%E8%B0%B7%E6%AD%8C%E5%95%86%E5%BA%97&pcampaignid=APPU_1_55IXZfTkGPbPseMPsJaDiA8)
 - [日文小说-轻](https://play.google.com/store/apps/details?id=com.suhao.lightnovel&hl=zh&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E8%BD%BB%E5%B0%8F%E8%AF%B4+app&pcampaignid=APPU_1_CMoVZafQJ_idseMP56Du0QM)
 
