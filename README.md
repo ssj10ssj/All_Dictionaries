@@ -1978,6 +1978,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [程序员开拓眼界和提升效率](https://github.com/ctimbai/awesome-things)
 - [程序员应该访问的最佳网站](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 - [高质量程序员相关资源](https://github.com/coderzcr/Awesome-Programmer-Source)
+- [Awesome](https://github.com/sindresorhus/awesome)
 - [Awesome Tools](https://github.com/YSGStudyHards/Awesome-Tools)
 - [免费的编程资源大全](https://github.com/liyupi/free-programming-resources)
 - [freeCodeCamp.org](https://github.com/freeCodeCamp)
