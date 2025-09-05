@@ -1986,6 +1986,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [Online dictionary based on the console，基于控制台的在线词典 on GitHub ](https://github.com/kuanghy/kictor)
 - [MYDICTIONARY Desktop Application of CLI on GitHub ](https://github.com/zzc-tongji/mydictionary-client-cli)
 - [有道词典的命令行版本 on GitHub](https://github.com/ChestnutHeng/Wudao-dict)
+- [京墨](https://github.com/hefengbao/jingmo)
 - [chinese-dictionary](https://github.com/mapull/chinese-dictionary)
 - [中文词典](https://github.com/lxs602/Chinese-Mandarin-Dictionaries)
 - [ECDICT/简明英汉必应](https://github.com/skywind3000/ECDICT)
