@@ -515,6 +515,7 @@
 - [句子迷](https://www.juzimi.com/)
 - [汉字部件（大合辑）](https://forum.freemdict.com/t/topic/14675)
 - [小鸡词典 (网络流行语)](https://jikipedia.com/)
+- [汉语辞典总汇](https://www.hanyucidian.org/#home)
 
 </details>
 
@@ -882,8 +883,7 @@
 - [维基百科](https://zh.m.wikipedia.org/wiki/)
 - [维基大典](https://zh-classical.m.wikipedia.org/wiki/)
 - [百度百科](https://baike.baidu.com/)
-- [快懂百科/头条百科/抖音百科/互动百科](https://m.baike.com/)
-- [互动百科](http://www.baike.com/)
+- [抖音/识典/快懂/头条/互动百科](https://m.baike.com/)
 - [搜狗百科](http://baike.sogou.com/)
 - [360 百科](https://baike.so.com/)
 - [MBA智库百科](http://wiki.mbalib.com/)
@@ -1786,12 +1786,12 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 
 == 辅助学习 ==
 - 离线RSS（+api）
+- 电子书软件（+书源/OPDS）
 - 知识管理工具（+爬虫/Tor）
-- 电子书软件（网络书库/书源/OPDS）
-- 慕课（网盘/磁力/嗅探/聚合/OSINT）
+- 慕课（+网盘/磁力/嗅探/聚合/OSINT）
 
 == 推荐网站（旧） ==
-- [书享家(电子书导航)](https://shuxiangjia.cn/)
+- [资源帝(电子书导航)](http://shu.ziyuandi.cn/)
 - [15学习导航(学习导航)](https://www.yao515.com/)
 - [科塔学术导航(学术导航)](https://site.sciping.com/)
 
@@ -1973,13 +1973,14 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 <summary>展开</summary>
 
 == 综合 ==
+- [Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome Tools](https://github.com/YSGStudyHards/Awesome-Tools)
 - [GitHub中文社区](https://www.github-zh.com/)
+- [public-apis-cn](https://github.com/llf007/public-apis-cn)
 - [技术博客网站推荐](https://github.com/csarron/ITBlogs)
 - [程序员开拓眼界和提升效率](https://github.com/ctimbai/awesome-things)
 - [程序员应该访问的最佳网站](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 - [高质量程序员相关资源](https://github.com/coderzcr/Awesome-Programmer-Source)
-- [Awesome](https://github.com/sindresorhus/awesome)
-- [Awesome Tools](https://github.com/YSGStudyHards/Awesome-Tools)
 - [免费的编程资源大全](https://github.com/liyupi/free-programming-resources)
 - [freeCodeCamp.org](https://github.com/freeCodeCamp)
 - [Tatoeba on GitHub](https://github.com/Tatoeba/tatoeba2)
@@ -1987,10 +1988,9 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [MYDICTIONARY Desktop Application of CLI on GitHub ](https://github.com/zzc-tongji/mydictionary-client-cli)
 - [有道词典的命令行版本 on GitHub](https://github.com/ChestnutHeng/Wudao-dict)
 - [京墨](https://github.com/hefengbao/jingmo)
-- [chinese-dictionary](https://github.com/mapull/chinese-dictionary)
 - [中文词典](https://github.com/lxs602/Chinese-Mandarin-Dictionaries)
+- [chinese-dictionary](https://github.com/mapull/chinese-dictionary)
 - [ECDICT/简明英汉必应](https://github.com/skywind3000/ECDICT)
-- [public-apis-cn](https://github.com/llf007/public-apis-cn)
 - [GitHub/NoHeartPen/日语](https://github.com/NoHeartPen/awesome_japanese_study_tools)
 - [Librera Reader（app）](https://github.com/foobnix/LibreraReader)
 - [阅读（app）](https://github.com/gedoor/legado)
