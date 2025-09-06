@@ -433,6 +433,7 @@
 - [东方语言学](http://www.eastling.org/)
 - [《汉语方言学大词典》数字化平台](http://www.fangyanxue.com:8090/)
 - [国家语言资源服务平台](http://fw.ywky.edu.cn/)
+- [汉语辞典总汇](https://www.hanyucidian.org/#home)
 - [聚典](https://www.jdapi.com/)
 
 </details>
@@ -515,7 +516,6 @@
 - [句子迷](https://www.juzimi.com/)
 - [汉字部件（大合辑）](https://forum.freemdict.com/t/topic/14675)
 - [小鸡词典 (网络流行语)](https://jikipedia.com/)
-- [汉语辞典总汇](https://www.hanyucidian.org/#home)
 
 </details>
 
