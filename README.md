@@ -39,6 +39,7 @@
 - [Español](#español)
 - [Português](#português)
 - [梵语](#梵语)
+- [拉丁语](#拉丁语)
 - [其他](#其他)
 - [汉语百科](#汉语百科)
 - [语料库](#语料库)
@@ -815,6 +816,18 @@
 
 </details>
 
+## 拉丁语
+<details>
+<summary>展开</summary>
+
+- [Latin Word Study Tool](http://www.perseus.tufts.edu/hopper/morph?l=chartis&la=la)
+- [Glossa: a Latin dictionary](http://athirdway.com/glossa/)
+- [William Whitaker's Words](http://archives.nd.edu/words.html)
+- [Legal Latin phrases and maxims](http://www.inrebus.com/legalmaxims_a.php)
+- [Latin-English](http://humanum.arts.cuhk.edu.hk/Lexis/Latin/)
+
+</details>
+
 ## 其他语种
 <details>
 <summary>展开</summary>
@@ -839,18 +852,6 @@
 - [夏威夷语词典](http://wehewehe.org)
 - [Logeion(古希腊语)](https://logeion.uchicago.edu/)
 - [e马来文字典 eKamus](http://www.ekamus.info/)
-
-</details>
-
-### 拉丁语
-<details>
-<summary>展开</summary>
-
-- [Latin Word Study Tool](http://www.perseus.tufts.edu/hopper/morph?l=chartis&la=la)
-- [Glossa: a Latin dictionary](http://athirdway.com/glossa/)
-- [William Whitaker's Words](http://archives.nd.edu/words.html)
-- [Legal Latin phrases and maxims](http://www.inrebus.com/legalmaxims_a.php)
-- [Latin-English](http://humanum.arts.cuhk.edu.hk/Lexis/Latin/)
 
 </details>
 
