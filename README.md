@@ -837,6 +837,7 @@
 - [维搜维汉在线词典 - izda](http://cn.dict.izda.com/)
 - [Uyghur-Chinese-Uyghur Dictionary 维汉词典](http://www.uyghurche.com/)
 - [夏威夷语词典](http://wehewehe.org)
+- [Logeion(古希腊语)](https://logeion.uchicago.edu/)
 - [e马来文字典 eKamus](http://www.ekamus.info/)
 
 </details>
