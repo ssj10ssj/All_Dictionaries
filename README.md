@@ -879,6 +879,7 @@
 - [A+医学百科](http://www.a-hospital.com/)
 - [医学百科](https://www.wiki8.com/)
 - [多识植物百科](http://duocet.ibiodiversity.net/)
+- [化工百科](https://www.chembk.com/cn)
 - [知网百科](https://xuewen.cnki.net/)
 - [灰机wiki](https://www.huijiwiki.com/wiki/)
 - [伪基百科](https://uncyclopedia.miraheze.org/wiki/)
