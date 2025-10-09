@@ -1026,6 +1026,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 <summary>展开</summary>
 
 == 学习类 ==
+- [科研Mate导航](https://www.keyanmate.com/)
 - [15学习导航](https://www.yao515.com/)
 - [1纳米学习](http://www.1nami.com/)
 - [科塔学术导航](https://site.sciping.com/)
@@ -1447,6 +1448,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [SegmentFault 思否](https://segmentfault.com/)
 - [博客园](https://www.cnblogs.com/)
 - [牛客网](https://m.nowcoder.com/)
+- [丁香园](https://app.dxy.cn/)
 - [5ch](https://itest.5ch.net/)/[2ch](https://2ch.sc/)
 - [Cari 佳礼](https://www.cari.com.my/)
 
@@ -1880,16 +1882,16 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - 开源仓库
 - 维基农场
 - 知识图谱
-- 数据集
-- 元搜索
-- 预印本平台
-- 学术数据库
+- 数据集/语料库
+- 元搜索/导航网
+- 学术数据库/OSF
+- 预印本/论文/期刊平台
 - 问答论坛/博客/社交网站
 
-== 推荐网站（旧） ==
+== 推荐网站 ==
 - [资源帝(电子书导航)](http://shu.ziyuandi.cn/)
 - [15学习导航(学习导航)](https://www.yao515.com/)
-- [科塔学术导航(学术导航)](https://site.sciping.com/)
+- [科研Mate导航(学术导航)](https://www.keyanmate.com/)
 
 </details>
 
