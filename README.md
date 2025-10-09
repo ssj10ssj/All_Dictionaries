@@ -1118,6 +1118,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [linguamarina](https://www.youtube.com/channel/UCAQg09FkoobmLquNNoO4ulg)
 - [Marina Mogilko](https://www.youtube.com/channel/UCLJl8-mbCfolWMkh1F1qfjA)
 - http://blog.liberty-e.com/blog/
+- [书格](https://www.shuge.org/)
 - [看典古籍](https://www.kandianguji.com/)
 - [儒藏](https://www.rulib.cn/#/)
 - [登楼古籍](https://tio.freemdict.com/denglou)/[登楼古籍+汇总](https://forum.freemdict.com/t/topic/8832)
@@ -1276,7 +1277,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [Scribd](https://www.scribd.com/)
 - [Good Reads](https://www.goodreads.com/)
 - [English textbooks](https://www.at.alleng.org/english/txb1.htm)
-- [Library Genesis/libgen](http://libgen.is/)
+- [Library Genesis/libgen/创世纪图书馆](http://libgen.is/)
 - [Z-Library](https://z-lib.org/)
     - [Z-Library(Wikipedia备址)](https://en.m.wikipedia.org/wiki/Z-Library)
 - [安娜的档案/Anna’s Archive](https://zh.annas-archive.org/)
@@ -1425,13 +1426,25 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 <details>
 <summary>知识社区</summary>
 
+- [Reddit](https://www.reddit.com/)
+- [Stack Overflow](https://stackoverflow.com/questions)
+- [Stack Exchange](https://stackexchange.com/)
+- [Quora](https://www.quora.com/)
+- [百度知道](https://zhidao.baidu.com/)/[百度贴吧](https://tieba.baidu.com/index/tbwise/feed?refer=www.google.com&source=awww.google.com-b-c-d-e0)
 - [知乎](https://www.zhihu.com/)
 - [豆瓣](https://m.douban.com/home_guide)
 - [简书](https://www.jianshu.com/)
+- [方格子](https://vocus.cc/latest)
 - [科学网](https://www.sciencenet.cn/)
 - [果壳网](https://m.guokr.com/)
     - [科学松鼠会(历史页面)](https://web.archive.org/web/20190712091722/https://songshuhui.net/)
 - [小木虫](https://mob.muchong.com/bbs/)
+- [CSDN](https://www.csdn.net/)
+- [稀土掘金](https://juejin.cn/)
+- [SegmentFault 思否](https://segmentfault.com/)
+- [牛客网](https://m.nowcoder.com/)
+- [5ch](https://itest.5ch.net/)/[2ch](https://2ch.sc/)
+- [Cari 佳礼](https://www.cari.com.my/)
 
 </details>
 
@@ -2149,6 +2162,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [轻小说合集 freemdict](https://forum.freemdict.com/t/topic/9083)
 - [作业君的小站（轻小说txt）](https://homeworkkun.wordpress.com/2018/08/18/dcdlls/#more-241)
 - [Zlib书单](https://zh.z-library.sk/profile/12760922/4f6f09)
+- [站酷](https://m.zcool.com.cn/home)
 - [Meme梗图仓库](https://memes.tw/maker?q=%E7%99%BE%E7%A7%91&from=tag)
 - [异次元-源仓库](https://www.yckceo.com/yiciyuan/tuyuan/index.html)
 - [简单动漫（BT下载）](https://www.36dm.org/)
