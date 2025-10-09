@@ -386,7 +386,6 @@
 - [Associated Press Stylebook](https://www.apstylebook.com/)
 - [Purdue Online Writing Lab (OWL)](https://owl.english.purdue.edu/owl/)
 - [grammarly](https://www.grammarly.com/)
-- [TED:Ideas worth spreading](https://www.ted.com/)
 - [iversity](https://iversity.org/en/courses)
 - [openculture](http://www.openculture.com/freeonlinecourses)
 - [futurelearn](https://www.futurelearn.com/courses)
@@ -1076,9 +1075,6 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 <details>
 <summary>展开</summary>
 
-- [科学网](https://www.sciencenet.cn/)
-- [果壳网](https://m.guokr.com/)
-    - [科学松鼠会(历史页面)](https://web.archive.org/web/20190712091722/https://songshuhui.net/)
 - [Hyread 国立台湾图书馆](https://ntledu.ebook.hyread.com.tw/index.jsp)
 - [世界数字图书馆](https://www.wdl.org/zh/)
 - [中国国家图书馆](http://www.nlc.cn/)
@@ -1399,6 +1395,9 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 <details>
 <summary>展开</summary>
 
+<details>
+<summary>慕课</summary>
+
 - [Coursera](https://www.coursera.org/)
 - [edX](https://www.edx.org/)
 - [Udacity](https://www.udacity.com/)
@@ -1409,6 +1408,32 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [可汗学院](https://www.khanacademy.org/)
 - [新东方在线](https://m.koolearn.com/)
 - [沪江网校](https://mc.hujiang.com/)
+
+</details>
+
+<details>
+<summary>视频教学</summary>
+
+- [TED:Ideas worth spreading](https://www.ted.com/)
+- [小红书](https://www.xiaohongshu.com/)
+- [YouTube](https://m.youtube.com/)
+- [TikTok](https://www.tiktok.com/)
+- [哔哩哔哩](https://m.bilibili.com/)
+
+</details>
+
+<details>
+<summary>知识社区</summary>
+
+- [知乎](https://www.zhihu.com/)
+- [豆瓣](https://m.douban.com/home_guide)
+- [简书](https://www.jianshu.com/)
+- [科学网](https://www.sciencenet.cn/)
+- [果壳网](https://m.guokr.com/)
+    - [科学松鼠会(历史页面)](https://web.archive.org/web/20190712091722/https://songshuhui.net/)
+- [小木虫](https://mob.muchong.com/bbs/)
+
+</details>
 
 </details>
 
