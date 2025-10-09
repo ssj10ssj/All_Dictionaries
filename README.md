@@ -1875,6 +1875,17 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - 知识管理工具（+爬虫/嗅探/Tor）
 - 慕课（+网盘/磁力/聚合/OSINT）
 
+== 相关概念 ==
+- 影子图书馆
+- 开源仓库
+- 维基农场
+- 知识图谱
+- 数据集
+- 元搜索
+- 预印本平台
+- 学术数据库
+- 问答论坛/博客/社交网站
+
 == 推荐网站（旧） ==
 - [资源帝(电子书导航)](http://shu.ziyuandi.cn/)
 - [15学习导航(学习导航)](https://www.yao515.com/)
