@@ -1407,19 +1407,22 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [MOOC学院](https://www.openlearning.com/guokrmooc/)
 - [Ewant](https://www.ewant.org/)
 - [可汗学院](https://www.khanacademy.org/)
+- [网易有道](https://www.youdao.com/m/)
 - [新东方在线](https://m.koolearn.com/)
 - [沪江网校](https://mc.hujiang.com/)
 
 </details>
 
 <details>
-<summary>视频教学</summary>
+<summary>影音教学</summary>
 
 - [TED:Ideas worth spreading](https://www.ted.com/)
 - [小红书](https://www.xiaohongshu.com/)
 - [YouTube](https://m.youtube.com/)
 - [TikTok](https://www.tiktok.com/)
 - [哔哩哔哩](https://m.bilibili.com/)
+- [喜马拉雅FM](https://m.ximalaya.com/?source=pc_jump)
+- [蜻蜓FM](https://m.qtfm.cn/)
 
 </details>
 
@@ -1442,6 +1445,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [CSDN](https://www.csdn.net/)
 - [稀土掘金](https://juejin.cn/)
 - [SegmentFault 思否](https://segmentfault.com/)
+- [博客园](https://www.cnblogs.com/)
 - [牛客网](https://m.nowcoder.com/)
 - [5ch](https://itest.5ch.net/)/[2ch](https://2ch.sc/)
 - [Cari 佳礼](https://www.cari.com.my/)
