@@ -52,6 +52,7 @@
 - [mdx等辞典下载网站](#mdx等辞典下载网站)
 - [电子书搜索-网站-文库-书店](#电子书搜索-网站-文库-书店)
 - [书源](#书源)
+- [慕课](#慕课)
 - [日语学习网站](#日语学习网站)
 - [数学学习网站-书籍](#数学学习网站-书籍)
 - [学习推荐](#学习推荐)
@@ -385,13 +386,11 @@
 - [Purdue Online Writing Lab (OWL)](https://owl.english.purdue.edu/owl/)
 - [grammarly](https://www.grammarly.com/)
 - [TED:Ideas worth spreading](https://www.ted.com/)
-- [Coursera](https://www.coursera.org/)
 - [iversity](https://iversity.org/en/courses)
 - [openculture](http://www.openculture.com/freeonlinecourses)
 - [futurelearn](https://www.futurelearn.com/courses)
 - [OnlineCourses.com](http://www.onlinecourses.com/)
 - [Open Yale Courses](https://oyc.yale.edu/)
-- [edX](https://www.edx.org/)
 - [The Great Courses](https://www.thegreatcourses.com/)
 - [ENGLISH NUMBERS](https://english-number.com/)
 
@@ -1077,6 +1076,8 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 <summary>展开</summary>
 
 - [科学网](https://www.sciencenet.cn/)
+- [果壳网](https://m.guokr.com/)
+    -[科学松鼠会(历史页面)](https://web.archive.org/web/20190712091722/https://songshuhui.net/)
 - [Hyread 国立台湾图书馆](https://ntledu.ebook.hyread.com.tw/index.jsp)
 - [世界数字图书馆](https://www.wdl.org/zh/)
 - [中国国家图书馆](http://www.nlc.cn/)
@@ -1390,6 +1391,20 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - https://gitcode.net/Haleydutest/cupdate/-/raw/master/sourceBaseUrl.json
 - http://www.cimoc.top/cimoc/sourc/master/raw/sourceBaseUrl.json
 - https://miuscapp.com/cimoc/sourceBaseUrl.json
+
+</details>
+
+## 慕课
+<details>
+<summary>展开</summary>
+
+- [Coursera](https://www.coursera.org/)
+- [edX](https://www.edx.org/)
+- [Udacity](https://www.udacity.com/)
+- [中国大学MOOC](https://www.icourse163.org/)
+- [学堂在线](https://www.xuetangx.com/)
+- [MOOC学院](https://www.openlearning.com/guokrmooc/)
+- [Ewant](https://www.ewant.org/)
 
 </details>
 
