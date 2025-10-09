@@ -2132,7 +2132,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [萌卡社](https://moetcg.club/)
 - [Bangumi(番组计划)](https://bangumi.tv/)
 - [巴哈姆特](https://m.gamer.com.tw/?t=GNN&page=1)
-- [哔哩哔哩视频解析下载](https://bili.iiilab.com/)
+- [(SnapAny)哔哩哔哩视频解析下载](https://bili.iiilab.com/)
 - [动漫派](https://app.tvtvd.com/)
 - [Animia](https://animia.me/)
 - [Ani-One](https://www.medialink.com.hk/tc/Anione.aspx)
