@@ -59,7 +59,7 @@
 - [字体](#字体)
 - [输入法](#输入法)
 - [GitHub电子书](#GitHub电子书)
-- [GitHub](#GitHub)
+- [GitHub-Git](#GitHub-Git)
 - [Chrome-扩展](#Chrome-扩展)
 - [综合工具](#综合工具)
 - [ACGN-二次元](#ACGN-二次元)
@@ -352,6 +352,7 @@
 - http://www.cgan.net/book/books/print/cn-en_dict/indexcidian/vic_body/vic_a7.htm
 - [Encycolorpedia](http://encycolorpedia.cn/)
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
+- [Internet Encyclopedia of Philosophy](https://iep.utm.edu/)
 - [Parts-of-speech.Info](http://parts-of-speech.info/)
 - [wordinfo.info](http://wordinfo.info/)
 - [CineDico is a multi-lingual lexicon on the theme of cinematographic and audiovisual techniques.](https://www.lecinedico.com/)
@@ -1140,6 +1141,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [籍合网](https://www.ancientbooks.cn/)
 - [古籍在线](http://www.gujionline.com/index.php)
 - [中国古籍总目](https://bibliographical.guji.cn/)
+- [中国古典文献资源导航系统](https://www.wenxianxue.cn/)
 - [凯希](https://www.kaixims.com/)
 - [WuDaoCorpora(悟道)](https://data.baai.ac.cn/details/WuDaoCorporaText)
 - [Common Crawl](https://commoncrawl.org/)
@@ -1148,6 +1150,8 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [Sci-Hub](https://sci-hub.se/)
 - [SciDB/科学数据银行](https://www.scidb.cn/)
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+- [中国科技论文在线](https://www.paper.edu.cn/)
+- [ChinaXiv](https://www.chinaxiv.org/home.htm)
 
 </details>
 
@@ -1794,8 +1798,8 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 == 辅助学习 ==
 - 离线RSS（+api）
 - 电子书软件（+书源/OPDS）
-- 知识管理工具（+爬虫/Tor）
-- 慕课（+网盘/磁力/嗅探/聚合/OSINT）
+- 知识管理工具（+爬虫/嗅探/Tor）
+- 慕课（+网盘/磁力/聚合/OSINT）
 
 == 推荐网站（旧） ==
 - [资源帝(电子书导航)](http://shu.ziyuandi.cn/)
@@ -1856,13 +1860,14 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [插件&模块化的多媒体软件汇总](https://bgm.tv/group/topic/390250)
 
 == 维基列表类 ==
-- [在线百科全书列表 维基](https://zh.m.wikipedia.org/wiki/在线百科全书列表)
-- [问答网站列表 维基](https://zh.m.wikipedia.org/wiki/问答网站列表)
-- [语料库列表 维基](https://zh.m.wikipedia.org/wiki/语料库)
-- [搜索引擎列表 维基](https://zh.m.wikipedia.org/wiki/搜索引擎列表)
-- [Wiki网站列表](https://zh.m.wikipedia.org/wiki/Wiki网站列表)
-- [Wiki农场比较表](https://zh.m.wikipedia.org/wiki/Wiki农场比较表)
-- [中国大陆网盘列表](https://zh.m.wikipedia.org/wiki/中国大陆网盘列表)
+- [在线百科全书列表(维基)](https://zh.m.wikipedia.org/wiki/在线百科全书列表)
+- [问答网站列表(维基)](https://zh.m.wikipedia.org/wiki/问答网站列表)
+- [语料库列表(维基)](https://zh.m.wikipedia.org/wiki/语料库)
+- [搜索引擎列表(维基)](https://zh.m.wikipedia.org/wiki/搜索引擎列表)
+- [Wiki网站列表(维基)](https://zh.m.wikipedia.org/wiki/Wiki网站列表)
+- [Wiki农场比较表(维基)](https://zh.m.wikipedia.org/wiki/Wiki农场比较表)
+- [中国大陆网盘列表(维基)](https://zh.m.wikipedia.org/wiki/中国大陆网盘列表)
+- [Git列表(维基)](https://zh.wikipedia.org/wiki/Git)
 - [List of online dictionaries](https://en.wikipedia.org/wiki/List_of_online_dictionaries)
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
 
@@ -1976,7 +1981,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 
 </details>
 
-## GitHub
+## GitHub-Git
 <details>
 <summary>展开</summary>
 
@@ -1984,6 +1989,11 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Awesome Tools](https://github.com/YSGStudyHards/Awesome-Tools)
 - [GitHub中文社区](https://www.github-zh.com/)
+- [Gitee](https://gitee.com/)
+- [GitCode](https://gitcode.com/)
+- [GitLab](https://about.gitlab.com/)
+- [Gitea](https://about.gitea.com/)
+- [GitBook](https://www.gitbook.com/)
 - [public-apis-cn](https://github.com/llf007/public-apis-cn)
 - [技术博客网站推荐](https://github.com/csarron/ITBlogs)
 - [程序员开拓眼界和提升效率](https://github.com/ctimbai/awesome-things)
