@@ -890,6 +890,8 @@
 - [搜狗百科](http://baike.sogou.com/)
 - [360 百科](https://baike.so.com/)
 - [MBA智库百科](http://wiki.mbalib.com/)
+- [集智百科](https://wiki.swarma.org/)
+- [IP知识百科](https://info.support.huawei.com/info-finder/encyclopedia/zh/index.html)
 - [小时百科](https://wuli.wiki/index.html)
 - [萌娘百科](https://zh.moegirl.org/)
 - [Bwiki](https://wiki.biligame.com/wiki/)
