@@ -55,6 +55,7 @@
 - [慕课](#慕课)
 - [日语学习网站](#日语学习网站)
 - [数学学习网站-书籍](#数学学习网站-书籍)
+- [编程学习网站-工具](#编程学习网站-工具)
 - [学习推荐](#学习推荐)
 - [参考](#参考)
 - [字体](#字体)
@@ -1405,6 +1406,9 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [学堂在线](https://www.xuetangx.com/)
 - [MOOC学院](https://www.openlearning.com/guokrmooc/)
 - [Ewant](https://www.ewant.org/)
+- [可汗学院](https://www.khanacademy.org/)
+- [新东方在线](https://m.koolearn.com/)
+- [沪江网校](https://mc.hujiang.com/)
 
 </details>
 
@@ -1800,6 +1804,19 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 
 </details>
 
+## 编程学习网站-工具
+<details>
+<summary>展开</summary>
+
+- [Python官方文档](https://docs.python.org/zh-cn/3/)
+- [Pypi](https://pypi.org/)
+- [F-Droid](https://f-droid.org/)
+- [菜鸟教程 Runoob](https://www.runoob.com/)
+- [编程狮 W3Cschool](https://m.w3cschool.cn/)
+- [DevDocs](https://devdocs.io/)
+
+</details>
+
 ## 学习推荐
 <details>
 <summary>展开</summary>
@@ -2078,12 +2095,6 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [AIDE](https://www.android-ide.com/)
 - [QPython](https://github.com/qpython-android/qpython3/releases)
 - [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dpydroid&pcampaignid=APPU_1_XhoVZftAmoPj4Q_Uv7SQCw)
-- [Python官方文档](https://docs.python.org/zh-cn/3/)
-- [Pypi](https://pypi.org/)
-- [F-Droid](https://f-droid.org/)
-- [菜鸟教程 Runoob](https://www.runoob.com/)
-- [编程狮 W3Cschool](https://m.w3cschool.cn/)
-- [DevDocs](https://devdocs.io/)
 - [TinyPNG](https://tinify.cn/)
 - [爱笔思画](https://ibispaint.com/lecture/index.jsp?lang=zh-HANS)
 - [CLIP STUDIO PAINT](https://www.clipstudio.net/tc/)
