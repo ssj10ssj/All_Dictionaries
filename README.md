@@ -1077,7 +1077,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 
 - [科学网](https://www.sciencenet.cn/)
 - [果壳网](https://m.guokr.com/)
-    -[科学松鼠会(历史页面)](https://web.archive.org/web/20190712091722/https://songshuhui.net/)
+    - [科学松鼠会(历史页面)](https://web.archive.org/web/20190712091722/https://songshuhui.net/)
 - [Hyread 国立台湾图书馆](https://ntledu.ebook.hyread.com.tw/index.jsp)
 - [世界数字图书馆](https://www.wdl.org/zh/)
 - [中国国家图书馆](http://www.nlc.cn/)
