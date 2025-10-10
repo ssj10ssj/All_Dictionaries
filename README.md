@@ -1027,6 +1027,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 
 == 学习类 ==
 - [科研Mate导航](https://www.keyanmate.com/)
+- [CNS学术导航](https://cnspub.com/)
 - [15学习导航](https://www.yao515.com/)
 - [1纳米学习](http://www.1nami.com/)
 - [科塔学术导航](https://site.sciping.com/)
@@ -1034,6 +1035,8 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [ChinaG.PRO](https://google.gdn/)
 - [学吧导航](https://www.xue8nav.com/)
 - [木木学习导航](https://www.mumudaohang.com/)
+- [熊猫学术搜索](https://scholar.xmsoushu.com/#/)
+- [聚合学术导航](http://6972.net/)
 
 == 综合类 ==
 - [24K导航](https://www.24kdh.com/)
@@ -1103,6 +1106,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [Sentence first:An Irishman's blog about the English language.](https://stancarey.wordpress.com/)
 - [Sesquiotica - Words, words, words](https://sesquiotic.wordpress.com/)
 - [World Wide Words](http://www.worldwidewords.org/)
+- [中国科学院文献情报中心](https://www.las.ac.cn/)
 - [国家哲学社会科学文献中心](http://www.ncpssd.org/)
 - [CJK Dictionary Institute 日中韩辞典数据库](http://www.cjk.org/)
 - [曾泰元](http://hugoscorner.blogspot.com/)
@@ -1443,10 +1447,12 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [果壳网](https://m.guokr.com/)
     - [科学松鼠会(历史页面)](https://web.archive.org/web/20190712091722/https://songshuhui.net/)
 - [小木虫](https://mob.muchong.com/bbs/)
+- [集智俱乐部](https://swarma.org/)
 - [CSDN](https://www.csdn.net/)
 - [稀土掘金](https://juejin.cn/)
 - [SegmentFault 思否](https://segmentfault.com/)
 - [博客园](https://www.cnblogs.com/)
+- [InfoQ](https://www.infoq.cn/)
 - [牛客网](https://m.nowcoder.com/)
 - [丁香园](https://app.dxy.cn/)
 - [5ch](https://itest.5ch.net/)/[2ch](https://2ch.sc/)
