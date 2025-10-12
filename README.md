@@ -1010,6 +1010,8 @@
 - [Text GPT](https://textgpt.net/)
 - [Uminal](https://www.uminal.com/)
 - [Webapi.ai ](https://webapi.ai/)
+- [AI工具集](https://ai-bot.cn/)
+- [SeekTool.AI](https://seektool.ai/cn)
 - [大数据导航](https://hao.199it.com/)
 - [Google Dataset Search
 ](https://datasetsearch.research.google.com/)
@@ -1030,7 +1032,6 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [CNS学术导航](https://cnspub.com/)
 - [15学习导航](https://www.yao515.com/)
 - [1纳米学习](http://www.1nami.com/)
-- [科塔学术导航](https://site.sciping.com/)
 - [英语学习网站大全](http://www.yywz123.com/)
 - [ChinaG.PRO](https://google.gdn/)
 - [学吧导航](https://www.xue8nav.com/)
@@ -1039,8 +1040,6 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [聚合学术导航](http://6972.net/)
 
 == 综合类 ==
-- [24K导航](https://www.24kdh.com/)
-- [12K导航网](https://www.12k.net/)
 - [极致导航网](https://www.zzdhz.com/)
 - [亿万导航](https://www.yiw1.com/)
 - [搜奇导航](https://www.souqidaohang.com/)
@@ -1063,6 +1062,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [你好网](http://site.nihaowang.com/)
 - [看国外](https://www.kanguowai.com/index.html)
 - [悠悠国外网](http://www.yoyone.com/)
+- [WebDesk云桌面](http://159.226.241.44:8080/shop/main/Login/shopFrame.do)
 - [汇总转载](https://forum.freemdict.com/t/topic/35604)/[汇总原文](https://gitee.com/jamesfengcao/uweb/blob/master/zh/search.md)
 
 == 二次元 ==
@@ -1072,6 +1072,11 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [ACG导航](https://www.acgdh.cc/)
 - [二次元宝藏导航](https://acg.baozangdh.com/)
 - [萌站 次元导航](https://moe321.com/)
+
+==可能失效==
+- [科塔学术导航](https://site.sciping.com/)
+- [24K导航](https://www.24kdh.com/)
+- [12K导航网](https://www.12k.net/)
 
 </details>
 
@@ -1309,6 +1314,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [维基文库](https://zh.m.wikisource.org/wiki/)
 - [Project Gutenberg 古登堡计划](https://www.gutenberg.org/)
 - [大百科全书大辞典网](http://www.dbkdcd.com/)
+- [科学文库](http://159.226.241.44:8080/shop/main/Login/shopFrame.do)
 - [掌阅](https://m.zhangyue.com/)
 - [知乎盐选](https://www.zhihu.com/xen/market/vip/remix-album)
 - [微信读书](https://weread.qq.com/)
@@ -1455,6 +1461,8 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [博客园](https://www.cnblogs.com/)
 - [InfoQ](https://www.infoq.cn/)
 - [牛客网](https://m.nowcoder.com/)
+- [少数派](https://sspai.com/)
+- [AI未来百科](https://www.aihubpro.cn/)
 - [丁香园](https://app.dxy.cn/)
 - [5ch](https://itest.5ch.net/)/[2ch](https://2ch.sc/)
 - [Cari 佳礼](https://www.cari.com.my/)
@@ -1862,9 +1870,11 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [Python官方文档](https://docs.python.org/zh-cn/3/)
 - [Pypi](https://pypi.org/)
 - [F-Droid](https://f-droid.org/)
+- [菜鸟工具](https://www.jyshare.com/)
 - [菜鸟教程 Runoob](https://www.runoob.com/)
 - [编程狮 W3Cschool](https://m.w3cschool.cn/)
 - [DevDocs](https://devdocs.io/)
+- [LeetCode](https://leetcode.com/)/[力扣](https://leetcode.cn/)
 
 </details>
 
@@ -1889,16 +1899,18 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - 开源仓库
 - 维基农场
 - 知识图谱
-- 数据集/语料库
-- 元搜索/导航网
-- 学术数据库/OSF
-- 预印本/论文/期刊平台
-- 问答论坛/博客/社交网站
+- 数据集、语料库
+- 元搜索、导航网
+- 学术数据库、智库
+- OSF、OA
+- 预印本、论文、期刊平台
+- 问答论坛、博客、社交网站
 
 == 推荐网站 ==
 - [资源帝(电子书导航)](http://shu.ziyuandi.cn/)
 - [15学习导航(学习导航)](https://www.yao515.com/)
 - [科研Mate导航(学术导航)](https://www.keyanmate.com/)
+- [WebDesk云桌面(导航站导航)](https://www.webdesk.cc/)
 
 </details>
 
