@@ -1040,10 +1040,6 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [聚合学术导航](http://6972.net/)
 
 == 综合类 ==
-- [极致导航网](https://www.zzdhz.com/)
-- [亿万导航](https://www.yiw1.com/)
-- [搜奇导航](https://www.souqidaohang.com/)
-- [小言导航](https://www.bbddh.com/)
 - [爱达杂货铺](https://adzhp.cn/)
 - [果汁导航](http://guozhivip.com/)
 - [醉长生](https://www.exapmple.com/)
@@ -1062,13 +1058,11 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [你好网](http://site.nihaowang.com/)
 - [看国外](https://www.kanguowai.com/index.html)
 - [悠悠国外网](http://www.yoyone.com/)
-- [WebDesk云桌面](http://159.226.241.44:8080/shop/main/Login/shopFrame.do)
+- [WebDesk云桌面](https://www.webdesk.cc/)
 - [汇总转载](https://forum.freemdict.com/t/topic/35604)/[汇总原文](https://gitee.com/jamesfengcao/uweb/blob/master/zh/search.md)
 
 == 二次元 ==
-- [ACG王国导航](https://www.acgkingdom.com/)
 - [鹿次元](https://luacg.com/)
-- [木晞i的资源汇总](https://yftdtddh.github.io/muxizyhz/)
 - [ACG导航](https://www.acgdh.cc/)
 - [二次元宝藏导航](https://acg.baozangdh.com/)
 - [萌站 次元导航](https://moe321.com/)
@@ -1077,6 +1071,12 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [科塔学术导航](https://site.sciping.com/)
 - [24K导航](https://www.24kdh.com/)
 - [12K导航网](https://www.12k.net/)
+- [极致导航网](https://www.zzdhz.com/)
+- [亿万导航](https://www.yiw1.com/)
+- [搜奇导航](https://www.souqidaohang.com/)
+- [小言导航](https://www.bbddh.com/)
+- [ACG王国导航](https://www.acgkingdom.com/)
+- [木晞i的资源汇总](https://yftdtddh.github.io/muxizyhz/)/[木晞i的时光机](https://bgm.tv/user/bangumi_muxi)
 
 </details>
 
