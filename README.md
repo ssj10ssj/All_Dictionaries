@@ -1035,7 +1035,6 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [英语学习网站大全](http://www.yywz123.com/)
 - [ChinaG.PRO](https://google.gdn/)
 - [学吧导航](https://www.xue8nav.com/)
-- [木木学习导航](https://www.mumudaohang.com/)
 - [熊猫学术搜索](https://scholar.xmsoushu.com/#/)
 - [聚合学术导航](http://6972.net/)
 
@@ -1054,10 +1053,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [360导航](http://h5.mse.360.cn/newnavi.html#/home)
 - [百度网址大全](http://site.ageqin.cn/)
 - [世界各国网址大全](http://www.world68.com/)
-- [全球名站之家 u8588](https://m.u8588.com/)
-- [你好网](http://site.nihaowang.com/)
 - [看国外](https://www.kanguowai.com/index.html)
-- [悠悠国外网](http://www.yoyone.com/)
 - [WebDesk云桌面](https://www.webdesk.cc/)
 - [汇总转载](https://forum.freemdict.com/t/topic/35604)/[汇总原文](https://gitee.com/jamesfengcao/uweb/blob/master/zh/search.md)
 
@@ -1069,12 +1065,16 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 
 ==可能失效==
 - [科塔学术导航](https://site.sciping.com/)
+- [木木学习导航](https://www.mumudaohang.com/)
 - [24K导航](https://www.24kdh.com/)
 - [12K导航网](https://www.12k.net/)
 - [极致导航网](https://www.zzdhz.com/)
 - [亿万导航](https://www.yiw1.com/)
 - [搜奇导航](https://www.souqidaohang.com/)
 - [小言导航](https://www.bbddh.com/)
+- [全球名站之家 u8588](https://m.u8588.com/)
+- [你好网](http://site.nihaowang.com/)
+- [悠悠国外网](http://www.yoyone.com/)
 - [ACG王国导航](https://www.acgkingdom.com/)
 - [木晞i的资源汇总](https://yftdtddh.github.io/muxizyhz/)/[木晞i的时光机](https://bgm.tv/user/bangumi_muxi)
 
