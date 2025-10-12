@@ -1096,6 +1096,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/)
 - [超星数字图书馆](https://www.chaoxing.com/)/[读秀](https://www.duxiu.com/)
 - [龙岩图书馆](http://www.lytsg.com/)
+- [WorldCat](https://search.worldcat.org/zh-cn)
 - [iData](https://www.cn-ki.net/)
 - [Google学术搜索](http://scholar.google.com/)
 - [微软学术搜索](https://academic.microsoft.com/home)
@@ -1162,6 +1163,14 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 - [中国科技论文在线](https://www.paper.edu.cn/)
 - [ChinaXiv](https://www.chinaxiv.org/home.htm)
+- [IEEE](https://www.ieee.org/)
+- [爱思唯尔](https://www.elsevier.com/zh-cn)
+- [DOAJ](https://doaj.org/)
+- [JSTOR](https://www.jstor.org/)
+- [OA图书馆](https://www.oalib.com/)
+- [Socolar](https://www.socolar.com/)
+- [SpringerLink](https://link.springer.com/)
+- [Web of Science](https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/?utm_medium=Referral&utm_source=en-wikipedia-org)
 
 </details>
 
@@ -1315,6 +1324,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [Project Gutenberg 古登堡计划](https://www.gutenberg.org/)
 - [大百科全书大辞典网](http://www.dbkdcd.com/)
 - [科学文库](http://159.226.241.44:8080/shop/main/Login/shopFrame.do)
+- [爱学术](https://www.iresearchbook.cn/m)
 - [掌阅](https://m.zhangyue.com/)
 - [知乎盐选](https://www.zhihu.com/xen/market/vip/remix-album)
 - [微信读书](https://weread.qq.com/)
@@ -1454,6 +1464,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [果壳网](https://m.guokr.com/)
     - [科学松鼠会(历史页面)](https://web.archive.org/web/20190712091722/https://songshuhui.net/)
 - [小木虫](https://mob.muchong.com/bbs/)
+- [ResearchGATE](https://www.researchgate.net/)
 - [集智俱乐部](https://swarma.org/)
 - [CSDN](https://www.csdn.net/)
 - [稀土掘金](https://juejin.cn/)
