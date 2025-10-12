@@ -1100,6 +1100,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [iData](https://www.cn-ki.net/)
 - [Google学术搜索](http://scholar.google.com/)
 - [微软学术搜索](https://academic.microsoft.com/home)
+- [百度学术](https://xueshu.baidu.com/)
 - [OpenAlex](https://openalex.org/)
 - [OpenStax](https://openstax.org/)
 - [ScienceDirect](http://www.sciencedirect.com/)
@@ -1952,6 +1953,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 
 == 文献学术类 ==
 - [2020学术公众号100强](https://www.linkresearcher.com/information/1e0f2178-3620-42e1-914a-9b9bda48aeb1)
+- [130个学术网站和26个科研工具](https://zhuanlan.zhihu.com/p/676581923)
 - [78个学术网站！史上最全常用文献数据库汇总!](https://blog.csdn.net/u012687394/article/details/109599943)
 - [收藏！史上最全学术搜索引擎推荐！](http://www.ecorr.org/news/industry/2018-02-08/168174.html)
 - [史上最全的常用学术网站，没有之一！](https://3g.163.com/dy/article/GKPKA9780536L1PQ.html?spss=adap_pc)
