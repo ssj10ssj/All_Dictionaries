@@ -58,8 +58,7 @@
 - [编程学习网站-工具](#编程学习网站-工具)
 - [学习推荐](#学习推荐)
 - [参考](#参考)
-- [字体](#字体)
-- [输入法](#输入法)
+- [文字处理](#文字处理)
 - [GitHub电子书](#GitHub电子书)
 - [GitHub-Git](#GitHub-Git)
 - [Chrome-扩展](#Chrome-扩展)
@@ -1257,6 +1256,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [词悦](https://github.com/mumu-lhl/Ciyue?tab=readme-ov-file)
 - [Aard2](https://aarddict.org/)
 - [Kiwix](https://www.kiwix.org/en/)
+- [(格式转换工具)Pyglossary](https://github.com/ilius/pyglossary)
 - [其他替代](https://zh.altapps.net/soft/goldendict)
 
 </details>
@@ -2033,9 +2033,12 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 
 </details>
 
-## 字体
+## 文字处理
 <details>
 <summary>展开</summary>
+
+<details>
+<summary>字体</summary>
 
 - [花園明朝](http://fonts.jp/hanazono/)
 - [List of CJK fonts](https://en.wikipedia.org/wiki/List_of_CJK_fonts)
@@ -2043,9 +2046,13 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 
 </details>
 
-## 输入法
 <details>
-<summary>展开</summary>
+<summary>OCR</summary>
+
+</details>
+
+<details>
+<summary>输入法</summary>
 
 - [RIME | 中州韻輸入法引擎](http://rime.im/)
 - [搜狗输入法](https://pinyin.sogou.com/)
@@ -2058,6 +2065,8 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [法语智能输入法](http://soft.frdic.com/product/francais_input.aspx)
 - [蒙科立智能输入法](http://www.menksoft.com/site/alias__menkcms/2824/Default.aspx)
 - [ATOK](https://www.atok.com/)
+
+</details>
 
 <details>
 <summary>日轻标点</summary>
@@ -2164,7 +2173,9 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 <details>
 <summary>展开</summary>
 
-== 手机端 ==
+<details>
+<summary>手机端</summary>
+
 - [静读天下](http://www.moondownload.com/chinese.html)
 - [ReadEra](https://readera.org/)
 - [Notion](https://www.notion.com/mobile)
@@ -2201,7 +2212,11 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [Google Analytics](https://marketingplatform.google.com/intl/zh-CN_cn/about/analytics/)
 - [IFTTT](https://ifttt.com/)
 
-== 资源区 ==
+</details>
+
+<details>
+<summary>资源区</summary>
+
 - [Zim资源](https://library.kiwix.org/?lang=zho#lang=zho)
 - [Tab字典合集（mdx）](https://forum.freemdict.com/t/topic/13177)
 - [ 阿彌陀佛（mdx）](https://forum.freemdict.com/t/topic/7530)
@@ -2220,6 +2235,8 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [Java游戏小站](https://java.owoemu.com/)
 - [Java手机乐园](https://jvgm.cn/class)
 - [Phoneky](https://cn.phoneky.com/games/?p=browse)
+
+</details>
 
 </details>
 
