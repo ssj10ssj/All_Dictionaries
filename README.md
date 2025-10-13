@@ -2049,6 +2049,19 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 <details>
 <summary>OCR</summary>
 
+- [扫描全能王(合合)](https://www.intsig.com/)
+- [白描(有道)](https://ai.youdao.com/)
+- [夸克扫描王(阿里)](https://scan.quark.cn/)
+- [百度OCR](https://ai.baidu.com/tech/ocr)
+- [谷歌OCR](https://cloud.google.com/use-cases/ocr?hl=zh-CN)
+- [火山引擎](https://www.volcengine.com/product/OCR)
+- [讯飞OCR](https://www.xfyun.cn/services/ocr_model)
+- [腾讯OCR](https://cloud.tencent.com/product/ocr)
+- [布丁扫描](https://www.budingscan.com/mobile.html#/)
+- [PaddleOCR(开源)](https://github.com/PaddlePaddle/PaddleOCR/tree/main)
+- [EasyOCR(开源)](https://github.com/JaidedAI/EasyOCR)
+- [Tesseract OCR(开源)](https://github.com/tesseract-ocr/tesseract)
+
 </details>
 
 <details>
