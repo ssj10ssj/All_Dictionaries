@@ -988,8 +988,10 @@
 - [中文大语言模型列表(小规模)](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 - [Hugging Face](https://huggingface.co/)
 - [Ollama](https://ollama.com/library)
+- [AI风月](https://coverstation.xyz/zh/explore/apps?ref_id=ad58625e-3fb5-40c9-830d-c9aea86e77da&ranking=daily_rank&display=simple)
 - [りんな 人工智能 Line](https://www.rinna.jp/)
 - [日文口说老师Aoi](https://play.google.com/store/apps/details?id=com.db.lingotv&hl=zh_TW≷=US)
+- [FastGPT](https://fastgpt.io/zh)
 - [口袋AI](https://github.com/yzfly/pocketpal-ai-zh)
 - [MNN](https://github.com/alibaba/MNN/tree/master)
 - [Google AI Edge](https://github.com/google-ai-edge/gallery)
@@ -1221,7 +1223,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 <summary>展开</summary>
 
 - [金典 GoldenDict](https://github.com/goldendict/)
-- [MDict](http://mdict.cn/) ： Windows、Android、iOS
+- [MDict](http://mdict.cn/) ： Windows、Android、iOS/[MDict(GitHub)](https://github.com/raymanzhang/mdict)
 - [深蓝词典 \(BlueDict\)：mdx](http://ssdlsoft.com/bluedict/)：Android
 - [星际译王 StarDict](https://github.com/huzheng001/stardict-3)
 - [EBDic：EPWING、mdx、StarDict](http://t.cn/RY14MLP)：Android
@@ -1254,13 +1256,14 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [Online Dictionary Helper (with Anki app support)](https://github.com/ninja33/ODH)
 - [SituLearner](https://github.com/coda251/situlearner)
 - [Medict](https://github.com/terasum/medict)
-- [Dict Tango](https://play.google.com/store/apps/details?id=cn.jimex.dict&hl=en&gl=US&auao=none&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Ddict+tango&pcampaignid=APPU_1_yFeRYaazJNWzmgeF0r-4Dw)
+- [Dict Tango(GitHub)](https://github.com/Jimex/DictTango-Android)/[Dict Tango(Google Play)](https://play.google.com/store/apps/details?id=cn.jimex.dict&hl=en&gl=US&auao=none&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Ddict+tango&pcampaignid=APPU_1_yFeRYaazJNWzmgeF0r-4Dw)/[Dict Tango(Freemdict)](https://forum.freemdict.com/t/topic/2354)
 - Plod/[平典 Plain Dictionary](https://m.apkpure.com/cn/plain-dictionary/com.knziha/versions?_gl=1*gl1k70*_ga*YW1wLXdnVTI5cVNuZFV4WWNyUmRoZW9uc2FZNXZoV3d2b0dkalhVcWhNYUVIME81UFZHR2VacFdQS2tUeEx5LUM3MF8.)/[无限词典](https://github.com/KnIfER/PlainDictionaryAPP)/[字典](http://forum.freemdict.com/t/topic/18443/129)
 - [Ahktionary](https://forum.freemdict.com/t/topic/4818)
 - [WarblerDict](https://forum.freemdict.com/t/topic/7079)
 - [SilverDict](https://github.com/Crissium/SilverDict)
 - [词悦](https://github.com/mumu-lhl/Ciyue?tab=readme-ov-file)
 - [英酷词典](https://www.cnblogs.com/iMath/p/EngkuDict.html)
+- 多语大师
 - [Aard2](https://aarddict.org/)
 - [Kiwix](https://www.kiwix.org/en/)
 - [(格式转换工具)Pyglossary](https://github.com/ilius/pyglossary)
@@ -1279,7 +1282,10 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
     - [FreeMdict 网站](https://freemdict.com/)
     - [FreeMdict 云盘](https://cloud.freemdict.com/)
     - [TIO](https://tio.freemdict.com/)
+    - [拉鲁斯法汉双解大词典在线版](https://linzertorte.github.io/larousse/)
     - [Ai-Dict(Github)](https://github.com/Buriburizaem0n/ai-dict)/[Ai-Dict(现成)](https://dict.4555556.xyz/)
+    - [Wikitionary Copilot](https://cloud.fastgpt.io/chat/share?shareId=bnUGE2dRQO2Dn7Z59SeEpc3g)
+    - [易查](https://www.easy-search-dict.com/)/[易查简介](https://forum.freemdict.com/t/topic/42017)
     - [Telegram: Contact @freemdict](https://t.me/freemdict)
     - [Telegram: Contact @freemdict_channel](https://t.me/freemdict_channel)
     - [Telegram: Freemdict](https://t.me/s/freemdict_channel/)
@@ -1918,7 +1924,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - 开源仓库、Git
 - 维基农场
 - 知识图谱
-- 数据集、语料库
+- 数据集、语料库、文库
 - 元搜索、导航网
 - 学术数据库、智库
 - OSF、OA
@@ -2164,6 +2170,8 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [GitHub/NoHeartPen/日语](https://github.com/NoHeartPen/awesome_japanese_study_tools)
 - [Librera Reader（app）](https://github.com/foobnix/LibreraReader)
 - [阅读（app）](https://github.com/gedoor/legado)
+- [Anx Reader](https://github.com/Anxcye/anx-reader/blob/develop/README_zh.md)
+- [ebook-reader(topic)](https://github.com/topics/ebook-reader)
 
 == 二次元 ==
 - [轻小说文库（GooglePlay）](https://github.com/MewX/light-novel-library_Wenku8_Android)
