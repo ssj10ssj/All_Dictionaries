@@ -1914,8 +1914,8 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - 慕课（+网盘/磁力/聚合/OSINT）
 
 == 相关概念 ==
-- 影子图书馆
-- 开源仓库
+- 影子图书馆、联合目录
+- 开源仓库、Git
 - 维基农场
 - 知识图谱
 - 数据集、语料库
@@ -1924,6 +1924,10 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - OSF、OA
 - 预印本、论文、期刊平台
 - 问答论坛、博客、社交网站
+- P2P、IPFS、FTP
+- N大国际标准组织、FOIA请求
+- 邮件列表、频道机器人
+- 白皮书
 
 == 推荐网站 ==
 - [资源帝(电子书导航)](http://shu.ziyuandi.cn/)
