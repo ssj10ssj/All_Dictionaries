@@ -1925,7 +1925,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - 维基农场
 - 知识图谱
 - 数据集、语料库、文库
-- 元搜索、导航网
+- 导航网、元搜索、垂直搜索
 - 学术数据库、智库
 - OSF、OA
 - 预印本、论文、期刊平台
@@ -1933,7 +1933,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - P2P、IPFS、FTP
 - N大国际标准组织、FOIA请求
 - 邮件列表、频道机器人
-- 白皮书
+- 白皮书、学术公众号
 
 == 推荐网站 ==
 - [资源帝(电子书导航)](http://shu.ziyuandi.cn/)
@@ -2170,7 +2170,8 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [GitHub/NoHeartPen/日语](https://github.com/NoHeartPen/awesome_japanese_study_tools)
 - [Librera Reader（app）](https://github.com/foobnix/LibreraReader)
 - [阅读（app）](https://github.com/gedoor/legado)
-- [Anx Reader](https://github.com/Anxcye/anx-reader/blob/develop/README_zh.md)
+- [Anx Reader（app）](https://github.com/Anxcye/anx-reader/blob/develop/README_zh.md)
+- [Openlib（app）](https://github.com/dstark5/Openlib)
 - [ebook-reader(topic)](https://github.com/topics/ebook-reader)
 
 == 二次元 ==
