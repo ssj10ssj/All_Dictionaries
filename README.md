@@ -1898,6 +1898,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [菜鸟工具](https://www.jyshare.com/)
 - [菜鸟教程 Runoob](https://www.runoob.com/)
 - [编程狮 W3Cschool](https://m.w3cschool.cn/)
+- [W3schools](https://www.w3schools.com/)
 - [DevDocs](https://devdocs.io/)
 - [LeetCode](https://leetcode.com/)/[力扣](https://leetcode.cn/)
 
@@ -1934,6 +1935,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - N大国际标准组织、FOIA请求
 - 邮件列表、频道机器人
 - 白皮书、学术公众号
+- 端侧、RAG、MCP
 
 == 推荐网站 ==
 - [资源帝(电子书导航)](http://shu.ziyuandi.cn/)
