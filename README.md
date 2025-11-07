@@ -986,6 +986,8 @@
 - [聊天机器人列表](https://zh.m.wikipedia.org/zh-cn/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%97%E8%A1%A8)
 - [中国大模型列表](https://github.com/wgwang/awesome-LLMs-In-China)
 - [中文大语言模型列表(小规模)](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
+- [魔塔](https://modelscope.cn/home)
+- [魔乐](https://modelers.csdn.net/)
 - [Hugging Face](https://huggingface.co/)
 - [Ollama](https://ollama.com/library)
 - [AI风月](https://coverstation.xyz/zh/explore/apps?ref_id=ad58625e-3fb5-40c9-830d-c9aea86e77da&ranking=daily_rank&display=simple)
@@ -1934,7 +1936,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - P2P、IPFS、FTP
 - N大国际标准组织、FOIA请求
 - 邮件列表、频道机器人
-- 白皮书、学术公众号
+- 白皮书、官方文档、学术公众号
 - 端侧、RAG、MCP
 
 == 推荐网站 ==
@@ -2246,7 +2248,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [Flud](https://delphisoftwares.com/flud)
 - [Google Analytics](https://marketingplatform.google.com/intl/zh-CN_cn/about/analytics/)
 - [IFTTT](https://ifttt.com/)
-- [tita搜索(与相关app)](https://play.google.com/store/apps/details?id=so.tita&hl=zh_HK&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dtita+%E6%90%9C%E7%B4%A2+%E5%AE%98%E7%BD%91&pcampaignid=APPU_1_sWANaYH0Lqqt4-EP7e7DuAY)
+- [tita搜索(与相关app)(异常)](https://play.google.com/store/apps/details?id=so.tita&hl=zh_HK&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dtita+%E6%90%9C%E7%B4%A2+%E5%AE%98%E7%BD%91&pcampaignid=APPU_1_sWANaYH0Lqqt4-EP7e7DuAY)
 
 </details>
 
