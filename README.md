@@ -1055,6 +1055,11 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [世界各国网址大全](http://www.world68.com/)
 - [看国外](https://www.kanguowai.com/index.html)
 - [万能导航](https://wndh.net/)
+- [龙之向导](https://www.dragon-guide.net/)
+- [搜索引擎大全](https://www.isys.top/)
+- [全搜网](http://so.tangjiataoyuan.com/index.html)
+- [教你搜](http://www.sowang.com/)
+- [情色网站大全](https://qingse.one/)/[PornFind](https://www.pornfind.cc/)
 - [WebDesk云桌面](https://www.webdesk.cc/)
 - [汇总转载](https://forum.freemdict.com/t/topic/35604)/[汇总原文](https://gitee.com/jamesfengcao/uweb/blob/master/zh/search.md)
 
@@ -1932,7 +1937,8 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - 学术数据库、智库
 - OSF、OA
 - 预印本、论文、期刊平台
-- 问答论坛、博客、社交网站
+- 问答论坛、博客、社交媒体
+- 播客、短视频
 - P2P、IPFS、FTP
 - N大国际标准组织、FOIA请求
 - 邮件列表、频道机器人
@@ -2019,6 +2025,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [搜索引擎搜集](https://getquicker.net/KC/Kb/Article/285)
 - [替代搜索引擎：Google 的 25 种替代方案](https://www.affde.com/zh-CN/alternative-search-engines-7.html)
 - [2021年将使用22个替代搜索引擎](http://www.srcmini.com/68902.html)
+- [亚洲搜索引擎大全](https://zhuanlan.zhihu.com/p/490271939)
 
 == 网盘资源类 ==
 - [50个网盘](https://zhuanlan.zhihu.com/p/97798044)
