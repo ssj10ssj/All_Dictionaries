@@ -1928,6 +1928,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - 慕课（+网盘/磁力/聚合/OSINT）
 
 == 相关概念 ==
+- 网站时光机
 - 影子图书馆、联合目录
 - 开源仓库、Git
 - 维基农场
