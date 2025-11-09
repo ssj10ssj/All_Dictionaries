@@ -919,7 +919,7 @@
 - [岁年网（旧）](https://www.suinian.com/)
 - [夸克百科](https://baike.quark.cn/)
 - [世界大典](https://worldpedia.miraheze.org/wiki/%E4%B8%96%E7%95%8C%E5%A4%A7%E5%85%B8:%E9%A6%96%E9%A0%81)
-- [国家文化资料库/台湾大百科全书](https://worldpedia.miraheze.org/wiki/%E4%B8%96%E7%95%8C%E5%A4%A7%E5%85%B8:%E9%A6%96%E9%A0%81)
+- [国家文化资料库/台湾大百科全书](https://nrch.culture.tw/nrch/zh-tw)
 - [台湾棒球维基馆](https://twbsball.dils.tku.edu.tw/wiki/index.php?title=%E9%A6%96%E9%A0%81)
 
 </details>
