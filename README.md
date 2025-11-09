@@ -1938,13 +1938,14 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - 学术数据库、智库
 - OSF、OA
 - 预印本、论文、期刊平台
-- 问答论坛、博客、社交媒体
+- 博客、问答论坛、社交媒体
 - 播客、短视频
 - P2P、IPFS、FTP
 - N大国际标准组织、FOIA请求
 - 邮件列表、频道机器人
 - 白皮书、官方文档、学术公众号
 - 端侧、RAG、MCP
+- App、交互式、沙盒
 
 == 推荐网站 ==
 - [资源帝(电子书导航)](http://shu.ziyuandi.cn/)
