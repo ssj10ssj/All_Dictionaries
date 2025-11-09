@@ -1319,7 +1319,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [安娜的档案/Anna’s Archive](https://zh.annas-archive.org/)
     - [安娜的档案(Wikipedia备址)](https://en.wikipedia.org/wiki/Anna%27s_Archive)
 - [WeLib](https://zh.welib.org/)
-- [Z-Library](https://z-lib.org/)
+- [Z-Library](https://z-library.ec/)
     - [Z-Library(Wikipedia备址)](https://en.m.wikipedia.org/wiki/Z-Library)
 - [Library Genesis/libgen/创世纪图书馆](http://libgen.is/)
 - [Internet Archive](https://archive.org/)
