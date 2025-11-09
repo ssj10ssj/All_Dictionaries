@@ -1051,7 +1051,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [iMyShare](https://imyshare.com/)
 - [虫部落 快搜](https://search.chongbuluo.com/)
 - [资源狗](https://m.ziyuangou.cc/)
-- [searX](https://searx.space/)
+- [SearX](https://searx.space/)
 - [搜狗网址导航](https://123.sogou.com/)
 - [hao123导航](https://m.hao123.com/)
 - [2345网址导航](http://m.2345.com/)
@@ -2013,7 +2013,7 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 - [插件&模块化的多媒体软件汇总](https://bgm.tv/group/topic/390250)
 
 == 维基列表类 ==
-- [维基百科列表索引](https://zh.wikipedia.org/wiki/维基百科列表索引)
+- [维基百科列表索引(维基)](https://zh.wikipedia.org/wiki/维基百科列表索引)
 - [在线百科全书列表(维基)](https://zh.m.wikipedia.org/wiki/在线百科全书列表)
 - [问答网站列表(维基)](https://zh.m.wikipedia.org/wiki/问答网站列表)
 - [语料库列表(维基)](https://zh.m.wikipedia.org/wiki/语料库)
@@ -2028,7 +2028,6 @@ Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Every
 == 搜索聚合类 ==
 - [聚合搜索 百度](https://baike.baidu.com/item/聚合搜索)
 - [资源搜索 freemdict](https://forum.freemdict.com/t/topic/9117)
-- [SearX 搜索引擎 列表](https://searx.space/)
 - [搜索引擎-大汇总](https://zhuanlan.zhihu.com/p/90673241)
 - [搜索引擎搜集](https://getquicker.net/KC/Kb/Article/285)
 - [替代搜索引擎：Google 的 25 种替代方案](https://www.affde.com/zh-CN/alternative-search-engines-7.html)
