@@ -1033,7 +1033,9 @@
 <details>
 <summary>展开</summary>
 
-== 搜索引擎 ==
+<details>
+<summary>搜索引擎</summary>
+
 - [Google](https://www.google.com/)
 - [Bing](https://www.bing.com/)
 - [Yandex](https://yandex.com/)
@@ -1050,7 +1052,11 @@
 - [Naver](https://m.naver.com/)
 - [Ecosia](https://www.ecosia.org/)
 
-== 学习类 ==
+</details>
+
+<details>
+<summary>学习类</summary>
+
 - [科研Mate导航](https://www.keyanmate.com/)
 - [CNS学术导航](https://cnspub.com/)
 - [15学习导航](https://www.yao515.com/)
@@ -1060,7 +1066,11 @@
 - [熊猫学术搜索](https://scholar.xmsoushu.com/#/)
 - [聚合学术导航](http://6972.net/)
 
-== 综合类 ==
+</details>
+
+<details>
+<summary>综合类</summary>
+
 - [爱达杂货铺](https://adzhp.cn/)
 - [果汁导航](http://guozhivip.com/)
 - [醉长生](https://www.exapmple.com/)
@@ -1083,13 +1093,21 @@
 - [WebDesk云桌面](https://www.webdesk.cc/)
 - [汇总转载](https://forum.freemdict.com/t/topic/35604)/[汇总原文](https://gitee.com/jamesfengcao/uweb/blob/master/zh/search.md)
 
-== 二次元 ==
+</details>
+
+<details>
+<summary>二次元</summary>
+
 - [鹿次元](https://luacg.com/)
 - [ACG导航](https://www.acgdh.cc/)
 - [二次元宝藏导航](https://acg.baozangdh.com/)
 - [萌站 次元导航](https://moe321.com/)
 
-==可能失效==
+</details>
+
+<details>
+<summary>可能失效</summary>
+
 - [科塔学术导航](https://site.sciping.com/)
 - [木木学习导航](https://www.mumudaohang.com/)
 - [ChinaG.PRO](https://google.gdn/)
@@ -1106,6 +1124,8 @@
 - [百度网址大全](http://site.ageqin.cn/)
 - [ACG王国导航](https://www.acgkingdom.com/)
 - [木晞i的资源汇总](https://yftdtddh.github.io/muxizyhz/)/[木晞i的时光机](https://bgm.tv/user/bangumi_muxi)
+
+</details>
 
 </details>
 
@@ -1968,7 +1988,7 @@
 - 端侧、RAG、MCP
 - App、交互式、沙盒
 
-== 推荐网站 ==
+== 推荐网站(更新不定期) ==
 - [资源帝(电子书导航)](http://shu.ziyuandi.cn/)
 - [15学习导航(学习导航)](https://www.yao515.com/)
 - [科研Mate导航(学术导航)](https://www.keyanmate.com/)
@@ -1980,7 +2000,9 @@
 <details>
 <summary>展开</summary>
 
-== 在线词典类 ==
+<details>
+<summary>在线词典类</summary>
+
 - [宇宙最全在线词典网站导航[GitHub][...]](https://pdawiki.com/forum/thread-22886-1-1.html)
 - [[在线词典] 在线词典网址看这里,优秀的都在了](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=28557)
 - [网上在线翻译字典词典大全](http://www.gtnet.us/link/dic.htm)
@@ -2001,7 +2023,11 @@
 - [各种在线字典、词典（文字工具书大全，珍藏版） - 蚂蚁文库](https://www.antsdoc.com/art/AAQJBVJQVV4HVAcJBwACDw.html)
 - [Electronic Resources: English & French dictionaries](http://libraryresources.unog.ch/c.php?g=462656&p=3163215)
 
-== 文献学术类 ==
+</details>
+
+<details>
+<summary>文献学术类</summary>
+
 - [2020学术公众号100强](https://www.linkresearcher.com/information/1e0f2178-3620-42e1-914a-9b9bda48aeb1)
 - [130个学术网站和26个科研工具](https://zhuanlan.zhihu.com/p/676581923)
 - [78个学术网站！史上最全常用文献数据库汇总!](https://blog.csdn.net/u012687394/article/details/109599943)
@@ -2013,7 +2039,11 @@
 - [从哪里能找到完整的法律英语论文、期刊或者案例？](https://www.zhihu.com/question/28550667)
 - [主要参考文献一覧表 - 広島大学](http://home.hiroshima-u.ac.jp/wisdom/)
 
-== 日语网站类 ==
+</details>
+
+<details>
+<summary>日语网站类</summary>
+
 - [Freemdict 日语网站收集](https://forum.freemdict.com/t/topic/16334)
 - [TheMoeWay](https://learnjapanese.moe/)
 - [影音漫画小说词汇挖矿指路](https://github.com/NoHeartPen/awesome_japanese_study_tools/issues/6)
@@ -2028,7 +2058,11 @@
 - [漫画APP 资源汇总](https://github.com/maomao1996/daily-notes/issues/48)
 - [插件&模块化的多媒体软件汇总](https://bgm.tv/group/topic/390250)
 
-== 维基列表类 ==
+</details>
+
+<details>
+<summary>维基列表类</summary>
+
 - [维基百科列表索引(维基)](https://zh.wikipedia.org/wiki/维基百科列表索引)
 - [在线百科全书列表(维基)](https://zh.m.wikipedia.org/wiki/在线百科全书列表)
 - [问答网站列表(维基)](https://zh.m.wikipedia.org/wiki/问答网站列表)
@@ -2041,7 +2075,11 @@
 - [List of online dictionaries](https://en.wikipedia.org/wiki/List_of_online_dictionaries)
 - [List of online encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
 
-== 搜索聚合类 ==
+</details>
+
+<details>
+<summary>搜索聚合类</summary>
+
 - [聚合搜索 百度](https://baike.baidu.com/item/聚合搜索)
 - [资源搜索 freemdict](https://forum.freemdict.com/t/topic/9117)
 - [搜索引擎-大汇总](https://zhuanlan.zhihu.com/p/90673241)
@@ -2050,7 +2088,11 @@
 - [2021年将使用22个替代搜索引擎](http://www.srcmini.com/68902.html)
 - [亚洲搜索引擎大全](https://zhuanlan.zhihu.com/p/490271939)
 
-== 网盘资源类 ==
+</details>
+
+<details>
+<summary>网盘资源类</summary>
+
 - [50个网盘](https://zhuanlan.zhihu.com/p/97798044)
 - [40个网盘](https://zhuanlan.zhihu.com/p/65644792)
 - [12个网盘](https://m.chinaz.com/free/2010/0123/104816.shtml)
@@ -2059,7 +2101,11 @@
 - [百度网盘资源搜索网站大全](https://zhuanlan.zhihu.com/p/68359089)
 - [129个百度网盘资源搜索网站大全](https://jishuin.proginn.com/p/763bfbd2ddcd)
 
-== 综合类 ==
+</details>
+
+<details>
+<summary>综合类</summary>
+
 - [mdx入门 freemdict](https://forum.freemdict.com/t/topic/9610)
 - [全网免费电子书 iMyShare](https://imyshare.com/article/28/)
 - [免费电子书资源大全](https://qiao.dev/2021/03/14/2021%E5%B9%B4%E5%85%8D%E8%B4%B9%E7%94%B5%E5%AD%90%E4%B9%A6%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8.html)
@@ -2081,6 +2127,8 @@
 - [各领域公开数据集](https://zhuanlan.zhihu.com/p/25138563)
 - [各行业开源数据](https://github.com/FlagOpen/Awesome-Industry-Dataset)
 - [50个公共数据集](https://github.com/XNoteW/Studying/blob/master/dataset.md)
+
+</details>
 
 </details>
 
