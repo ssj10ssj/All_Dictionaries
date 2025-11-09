@@ -1026,13 +1026,25 @@
 - [ToolAI](https://www.toolai.io/zh)
 - [OSINT Framework](https://osintframework.com/)
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint)
-- [
-Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything)
+- [Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything)
 </details>
 
 ## 搜索引擎-聚合搜索-网站导航
 <details>
 <summary>展开</summary>
+
+== 搜索引擎 ==
+- [Google](https://www.google.com/)
+- [Bing](https://www.bing.com/)
+- [Yandex](https://yandex.com/)
+- [Yahoo](https://tw.yahoo.com/)
+- [DuckDuckGo](https://duckduckgo.com/)
+- [百度](https://www.baidu.com/)
+- [搜狗](https://m.sogou.com/)
+- [360搜索](https://m.so.com/)
+- [Startpage](https://www.startpage.com/)
+- [Naver](https://m.naver.com/)
+- [Ecosia](https://www.ecosia.org/)
 
 == 学习类 ==
 - [科研Mate导航](https://www.keyanmate.com/)
