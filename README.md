@@ -987,6 +987,7 @@
 - [通义千问](https://tongyi.aliyun.com/)
 - [腾讯元宝](https://yuanbao.tencent.com/chat/naQivTmsDa)/[腾讯混元](https://hunyuan.tencent.com/)
 - [文心一言](https://yiyan.baidu.com/)
+- [秘塔](https://metaso.cn/)
 - [豆包](https://www.doubao.com/chat/)/[Cici](https://www.cici.com/chat/)
 - [月之暗面(Kimi)](https://www.moonshot.cn/)
 - [智谱](https://open.bigmodel.cn/)/[ChatGLM](https://chatglm.cn/miniapp/home?lang=zh)
