@@ -1083,6 +1083,7 @@
 <details>
 <summary>综合类</summary>
 
+- [全网导航](https://www.webnav.net/)
 - [爱达杂货铺](https://adzhp.cn/)
 - [果汁导航](http://guozhivip.com/)
 - [醉长生](https://www.exapmple.com/)
@@ -1099,7 +1100,6 @@
 - [万能导航](https://wndh.net/)
 - [龙之向导](https://www.dragon-guide.net/)
 - [搜索引擎大全](https://www.isys.top/)
-- [全搜网](http://so.tangjiataoyuan.com/index.html)
 - [教你搜](http://www.sowang.com/)
 - [情色网站大全](https://qingse.one/)/[PornFind](https://www.pornfind.cc/)
 - [WebDesk云桌面](https://www.webdesk.cc/)
@@ -1131,6 +1131,7 @@
 - [小言导航](https://www.bbddh.com/)
 - [你好网](http://site.nihaowang.com/)
 - [文件搜](http://dh.wjsou.com/)
+- [全搜网](http://so.tangjiataoyuan.com/index.html)
 - [悠悠国外网](http://www.yoyone.com/)
 - [全球名站之家 u8588](https://m.u8588.com/)
 - [百度网址大全](http://site.ageqin.cn/)
@@ -2006,6 +2007,8 @@
 - [资源帝(电子书导航)](http://shu.ziyuandi.cn/)
 - [15学习导航(学习导航)](https://www.yao515.com/)
 - [科研Mate导航(学术导航)](https://www.keyanmate.com/)
+- [维基百科图书馆(资料导航)](https://zh.wikipedia.org/wiki/Wikipedia:%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E5%9B%BE%E4%B9%A6%E9%A6%86/%E8%B5%84%E6%96%99)
+- [全网导航(综合导航)](https://www.webnav.net/)
 - [WebDesk云桌面(导航站导航)](https://www.webdesk.cc/)
 
 </details>
