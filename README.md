@@ -1865,7 +1865,6 @@
 
 - [数学百科全书](https://encyclopediaofmath.org/wiki/Main_Page)
 - [PlanetMath(数学星球)](https://planetmath.org/)
-- [MathWorld](https://mathworld.wolfram.com/)
 - [ProofWiki](https://proofwiki.org/wiki/Main_Page)
 - [Wikipedia](https://en.m.wikipedia.org/wiki/Portal:Mathematics)
     - [Wikipedia:WikiProject_Mathematics/Reference_resources](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics/Reference_resources)
@@ -1875,8 +1874,8 @@
 - [Lean/Mathlib](https://lean-lang.org/)
 - [Coq](https://rocq-prover.org/)
 - [WolframAlpha](https://www.wolframalpha.com/)
-    - [Wolfram Mathematica](www.wolfram.com/mathematica/)
-    - [Wolfram数学世界](https://mathworld.wolfram.com/)
+    - [Wolfram Mathematica(异常)](www.wolfram.com/mathematica/)
+    - [Wolfram数学世界(MathWorld)](https://mathworld.wolfram.com/)
 - [Maple](www.maplesoft.com/products/maple/)
 - [Maxima](https://maxima.sourceforge.io/zh/index.html)
 - [MATLAB](https://www.mathworks.com/products/matlab.html)
