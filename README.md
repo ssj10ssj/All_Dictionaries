@@ -995,6 +995,7 @@
 - [阶跃星辰](https://stepfun.ai/chats/new)
 - [讯飞星火](https://xinghuo.xfyun.cn/)
 - [零一万物](https://www.lingyiwanwu.com/)
+- [PLaMo(日)](https://plamo.preferredai.jp/)
 - [Capterra/Intercom](https://www.capterra.com/p/134347/Intercom/)
 - [Goatchat](https://goatchat.ai/zh-CN/chat/elmo)
 - [Hello History](https://www.hellohistory.ai/)
@@ -1077,6 +1078,7 @@
 - [学吧导航](https://www.xue8nav.com/)
 - [熊猫学术搜索](https://scholar.xmsoushu.com/#/)
 - [聚合学术导航](http://6972.net/)
+- [个人知识站点](https://ducidian.com/forum.php)
 
 </details>
 
@@ -2017,8 +2019,7 @@
 - [15学习导航(学习导航)](https://www.yao515.com/)
 - [科研Mate导航(学术导航)](https://www.keyanmate.com/)
 - [维基百科图书馆(资料导航)](https://zh.wikipedia.org/wiki/Wikipedia:%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E5%9B%BE%E4%B9%A6%E9%A6%86/%E8%B5%84%E6%96%99)
-- [全网导航(综合导航)](https://www.webnav.net/)
-- [WebDesk云桌面(导航站导航)](https://www.webdesk.cc/)
+- [全网导航(导航站导航)](https://www.webnav.net/)
 
 </details>
 
@@ -2070,9 +2071,11 @@
 <details>
 <summary>日语网站类</summary>
 
-- [Freemdict 日语网站收集](https://forum.freemdict.com/t/topic/16334)
+- [易查(辞典列表)](https://hbq08jzhrer.sg.larksuite.com/wiki/QqCSwwHnCid6ADkJqqzlOQeIgHh?from=from_copylink&sheet=LCVb9e)
 - [TheMoeWay](https://learnjapanese.moe/)
 - [影音漫画小说词汇挖矿指路](https://github.com/NoHeartPen/awesome_japanese_study_tools/issues/6)
+- [NoHeartPen's Digital Garden](https://publish.obsidian.md/noheartpen/index)
+- [Freemdict 日语网站收集](https://forum.freemdict.com/t/topic/16334)
 - [日语学习网站整理 知乎](https://zhuanlan.zhihu.com/p/85343511)
 - [网上学习日语网站大集合](https://m.hujiang.com/c/wangshangxueriyu/p1095759/?source=pc)
 - [日语实用网站网址大集合](https://m.douban.com/group/topic/9518549/)
@@ -2090,6 +2093,8 @@
 <summary>维基列表类</summary>
 
 - [元维基](https://meta.wikimedia.org/w/index.php?title=Main_Page/zh&variant=zh-hans)
+- [维基社群](https://zh.wikipedia.org/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5)
+- [网络书源](https://zh.wikipedia.org/wiki/Wikipedia:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90)
 - [维基百科列表索引(维基)](https://zh.wikipedia.org/wiki/维基百科列表索引)
 - [在线百科全书列表(维基)](https://zh.m.wikipedia.org/wiki/在线百科全书列表)
 - [问答网站列表(维基)](https://zh.m.wikipedia.org/wiki/问答网站列表)
@@ -2148,6 +2153,7 @@
 - [有没有值得推荐的拉丁语在线翻译网站？](https://www.zhihu.com/question/21977562)
 - [意语干货：最实用的意语在线词典！](https://it.hujiang.com/new/p777140/)
 - [Dictionaries - English Spanish Dictionaries](https://lingolex.com/spanishbookshop/dictionary.htm)
+- [1000 部英语类词典名录兼词典推荐、选择 on GitHub](https://github.com/Dictionaryphile/1000_Eng_Dicts)
 - [全网最全编程学习网站汇总](https://www.cnblogs.com/three-fighter/p/13641835.html#navigator)
 - [20款顶级AI聊天机器人推荐](https://juejin.cn/post/7213695693201014840)
 - [技术栈](https://nullwy.me/2023/12/popular-websites-tech-stack/)
