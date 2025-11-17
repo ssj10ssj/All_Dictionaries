@@ -2071,6 +2071,7 @@
 <details>
 <summary>日语网站类</summary>
 
+- [辞典协会(及《优良辞典六法目录》)](https://www.jitenkyokai.gr.jp/)
 - [易查(辞典列表)](https://hbq08jzhrer.sg.larksuite.com/wiki/QqCSwwHnCid6ADkJqqzlOQeIgHh?from=from_copylink&sheet=LCVb9e)
 - [TheMoeWay](https://learnjapanese.moe/)
 - [影音漫画小说词汇挖矿指路](https://github.com/NoHeartPen/awesome_japanese_study_tools/issues/6)
