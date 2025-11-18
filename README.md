@@ -1112,7 +1112,7 @@
 <details>
 <summary>二次元</summary>
 
-- [鹿次元](https://luacg.com/)
+- [欧派动漫](https://oupai.org/)/[鹿次元](https://luacg.com/)
 - [ACG导航](https://www.acgdh.cc/)
 - [二次元宝藏导航](https://acg.baozangdh.com/)
 - [萌站 次元导航](https://moe321.com/)
@@ -2340,7 +2340,7 @@
 - [ES文件浏览器](http://www.estrongs.com/)
 - [Acode](https://acode.app/)
 - [AIDE](https://www.android-ide.com/)
-- [QPython](https://github.com/qpython-android/qpython3/releases)
+- [QPython](https://www.qpython.org/)/[QPython+](https://www.qpython.com/)/[QPython3](https://github.com/qpython-android/qpython3/releases)
 - [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dpydroid&pcampaignid=APPU_1_XhoVZftAmoPj4Q_Uv7SQCw)
 - [TinyPNG](https://tinify.cn/)
 - [爱笔思画](https://ibispaint.com/lecture/index.jsp?lang=zh-HANS)
@@ -2356,8 +2356,10 @@
 - [FL Studio](https://play.google.com/store/apps/details?id=com.imageline.FLM&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dfl+studio%E4%B8%8B%E8%BD%BD&pcampaignid=APPU_1_I8k4aK20DtOMseMPwO-siAw)
 - [Cubasis 3](https://www.steinberg-cn.com/cubasis/)
 - [Visha](https://visha.notion.site/669507ed9c0c47fd889e0ea975056c8d?v=1d1693306255437f8cf6f116ee043300)
+- [Voice Tools](https://devextras.com/voicetools/)
 - [FeedMe](https://play.google.com/store/apps/details?id=com.seazon.feedme&hl=zh_HK&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA+rss&pcampaignid=APPU_1_Ey-FaMuOO8jn2roP0bDbwQU)
 - [Flud](https://delphisoftwares.com/flud)
+- [TeraBox](https://www.terabox.com/wap/chinese)
 - [Google Analytics](https://marketingplatform.google.com/intl/zh-CN_cn/about/analytics/)
 - [IFTTT](https://ifttt.com/)
 - [tita搜索(与相关app)(异常)](https://play.google.com/store/apps/details?id=so.tita&hl=zh_HK&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dtita+%E6%90%9C%E7%B4%A2+%E5%AE%98%E7%BD%91&pcampaignid=APPU_1_sWANaYH0Lqqt4-EP7e7DuAY)
