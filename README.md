@@ -514,6 +514,7 @@
 - [注音字典](https://bopomofo.com.tw/)
 - [快学网字典](http://zidian.kxue.com/)
 - [句子迷](https://www.juzimi.com/)
+- [教育百科](https://pedia.cloud.edu.tw/)
 - [汉字部件（大合辑）](https://forum.freemdict.com/t/topic/14675)
 - [小鸡词典 (网络流行语)](https://jikipedia.com/)
 
@@ -1154,6 +1155,9 @@
 - [维基百科图书馆](https://zh.wikipedia.org/wiki/Wikipedia:%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E5%9B%BE%E4%B9%A6%E9%A6%86)
     - [维基百科图书馆(资料)](https://zh.wikipedia.org/wiki/Wikipedia:%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E5%9B%BE%E4%B9%A6%E9%A6%86/%E8%B5%84%E6%96%99)
 - [Hyread 国立台湾图书馆](https://ntledu.ebook.hyread.com.tw/index.jsp)
+- [台湾云端书库](https://www.ebookservice.tw/)
+- [香港公共图书馆](https://www.hkpl.gov.hk/mobile/tc/index.html)
+- [HathiTrust Digital Library](https://www.hathitrust.org/)
 - [世界数字图书馆](https://www.wdl.org/zh/)
 - [中国国家图书馆](http://www.nlc.cn/)
 - [(NSTL)国家科技图书文献中心](https://www.nstl.gov.cn/)
