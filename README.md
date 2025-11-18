@@ -1995,6 +1995,7 @@
 - 慕课（+网盘/磁力/聚合/OSINT）
 
 == 相关概念 ==
+- 公有领域
 - 网站时光机
 - 影子图书馆、联合目录
 - 开源仓库、Git
@@ -2006,7 +2007,7 @@
 - OSF、OA
 - 预印本、论文、期刊平台
 - 博客、问答论坛、社交媒体
-- 播客、短视频
+- 短视频、播客、X生成内容
 - P2P、IPFS、FTP
 - N大国际标准组织、FOIA请求
 - 邮件列表、频道机器人
@@ -2340,7 +2341,7 @@
 - [ES文件浏览器](http://www.estrongs.com/)
 - [Acode](https://acode.app/)
 - [AIDE](https://www.android-ide.com/)
-- [QPython](https://www.qpython.org/)/[QPython+](https://www.qpython.com/)/[QPython3](https://github.com/qpython-android/qpython3/releases)
+- [QPython](https://www.qpython.org/)/[QPython+](https://www.qpython.com/)/[QPython3](https://github.com/qpython-android)
 - [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dpydroid&pcampaignid=APPU_1_XhoVZftAmoPj4Q_Uv7SQCw)
 - [TinyPNG](https://tinify.cn/)
 - [爱笔思画](https://ibispaint.com/lecture/index.jsp?lang=zh-HANS)
