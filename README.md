@@ -1942,8 +1942,9 @@
 - [Reddit（形式科学）](https://www.reddit.com/t/formal_science/)
 - [知乎（数学）](https://www.zhihu.com/topic/19554091/hot)
 - [Matrix67](http://www.matrix67.com/)
-- [陶哲轩 博客](https://terrytao.wordpress.com/)
+- [陶哲轩（博客）](https://terrytao.wordpress.com/)
 - [博士家园](https://www.mathorg.cn/)
+- [数学网站(维基列表)](https://en.wikipedia.org/wiki/Category:Mathematics_websites)
 
 </details>
 
