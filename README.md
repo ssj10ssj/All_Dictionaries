@@ -2417,8 +2417,8 @@
 
 - [Zim资源](https://library.kiwix.org/?lang=zho#lang=zho)
 - [Tab字典合集（mdx）](https://forum.freemdict.com/t/topic/13177)
-- [ 阿彌陀佛（mdx）](https://forum.freemdict.com/t/topic/7530)
-- [Ru-Board（mdx）](https://forum.freemdict.com/t/topic/12050)
+- [阿彌陀佛（mdx）](https://forum.freemdict.com/t/topic/7530)/[云盘链接](https://cloud.freemdict.com/index.php/s/ADrbLw4GRjtWqnQ)
+- [Ru-Board（mdx）](https://forum.freemdict.com/t/topic/12050)/[云盘链接](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs)
 - [实用字辞典清单（mdx）](https://forum.freemdict.com/t/topic/13970)
 - [数学（mdx）](https://forum.freemdict.com/t/topic/13811)
 - [轻小说合集 freemdict](https://forum.freemdict.com/t/topic/9083)
