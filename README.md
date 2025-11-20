@@ -2404,6 +2404,7 @@
 - [Voice Tools](https://devextras.com/voicetools/)
 - [FeedMe](https://play.google.com/store/apps/details?id=com.seazon.feedme&hl=zh_HK&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA+rss&pcampaignid=APPU_1_Ey-FaMuOO8jn2roP0bDbwQU)
 - [Flud](https://delphisoftwares.com/flud)
+- [Nextcloud](https://nextcloud.com/)
 - [TeraBox](https://www.terabox.com/wap/chinese)
 - [Google Analytics](https://marketingplatform.google.com/intl/zh-CN_cn/about/analytics/)
 - [IFTTT](https://ifttt.com/)
