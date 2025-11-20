@@ -1386,6 +1386,7 @@
 - [WeLib](https://zh.welib.org/)
 - [Z-Library](https://zh.z-library.ec/)
     - [Z-Library(Wikipedia备址)](https://en.m.wikipedia.org/wiki/Z-Library)
+    - [Z-Access](https://library-access.sk/)
 - [Library Genesis/libgen/创世纪图书馆](http://libgen.is/)
 - [Internet Archive](https://archive.org/)
     - [Open Library/开放图书馆](https://openlibrary.org/)
