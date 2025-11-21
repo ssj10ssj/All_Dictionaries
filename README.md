@@ -1341,6 +1341,7 @@
 - [SilverDict](https://github.com/Crissium/SilverDict)
 - [词悦](https://github.com/mumu-lhl/Ciyue?tab=readme-ov-file)
 - [英酷词典](https://www.cnblogs.com/iMath/p/EngkuDict.html)
+- [Vibedict](https://github.com/w4lt3rmel0n/Vibedict)
 - 多语大师
 - [Aard2](https://aarddict.org/)
 - [Kiwix](https://www.kiwix.org/en/)
