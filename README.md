@@ -2117,6 +2117,8 @@
 - [【最全汇总】24个免费下载论文、查找文献的神级网站合集，超实用！](https://zhuanlan.zhihu.com/p/148742230)
 - [从哪里能找到完整的法律英语论文、期刊或者案例？](https://www.zhihu.com/question/28550667)
 - [主要参考文献一覧表 - 広島大学](http://home.hiroshima-u.ac.jp/wisdom/)
+- [中文核心期刊要目总览(维基)](https://zh.wikipedia.org/wiki/中文核心期刊要目总览)
+- [核心期刊(百度)](https://baike.baidu.com/item/核心期刊)
 
 </details>
 
@@ -2149,6 +2151,7 @@
 - [维基社群](https://zh.wikipedia.org/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5)
 - [网络书源](https://zh.wikipedia.org/wiki/Wikipedia:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90)
 - [维基百科列表索引(维基)](https://zh.wikipedia.org/wiki/维基百科列表索引)
+- [学术期刊列表(维基)](https://zh.wikipedia.org/wiki/Category:%E5%AD%B8%E8%A1%93%E6%9C%9F%E5%88%8A%E5%88%97%E8%A1%A8)
 - [在线百科全书列表(维基)](https://zh.m.wikipedia.org/wiki/在线百科全书列表)
 - [问答网站列表(维基)](https://zh.m.wikipedia.org/wiki/问答网站列表)
 - [语料库列表(维基)](https://zh.m.wikipedia.org/wiki/语料库)
@@ -2191,6 +2194,7 @@
 <details>
 <summary>综合类</summary>
 
+- [FMHY](https://fmhy.net/reading)
 - [mdx入门 freemdict](https://forum.freemdict.com/t/topic/9610)
 - [全网免费电子书 iMyShare](https://imyshare.com/article/28/)
 - [免费电子书资源大全](https://qiao.dev/2021/03/14/2021%E5%B9%B4%E5%85%8D%E8%B4%B9%E7%94%B5%E5%AD%90%E4%B9%A6%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8.html)
