@@ -1257,6 +1257,10 @@
 - [Socolar](https://www.socolar.com/)
 - [SpringerLink](https://link.springer.com/)
 - [Web of Science](https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/?utm_medium=Referral&utm_source=en-wikipedia-org)
+    - [SCI(科学引文索引)](https://mjl.clarivate.com/home?PC=K)
+    - [CPCI/ISTP(科技会议录索引)](https://access.clarivate.com/login?app=wos&alternative=true&shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F&roaming=true)
+- [EI(工程索引)](https://www.elsevier.com/products/engineering-village/databases/compendex)
+- [国际核心索引检索平台](https://www.ei-istp.com/Wap/)
 
 </details>
 
