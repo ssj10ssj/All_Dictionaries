@@ -2123,6 +2123,26 @@
 </details>
 
 <details>
+<summary>数据库列表类</summary>
+
+- [北京大学图书馆](https://www.lib.pku.edu.cn/3wxbz/31zyql/index.htm)
+- [南京大学图书馆](https://lib.nju.edu.cn/dzzy/dzzy_sjkdh.jsp?urltype=tree.TreeTempUrl&wbtreeid=1013)
+- [中国科学院文献情报中心](https://www.las.ac.cn/front/dataBase/list?action=search&facetField=collect_institute_name&facetValue=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E6%96%87%E7%8C%AE%E6%83%85%E6%8A%A5%E4%B8%AD%E5%BF%83)
+- [中国社会科学院图书馆](http://lib.cssn.cn/zy/dzzy/?column=xueke)
+- [武汉大学图书馆](https://whu.metaersp.cn/databaseList)
+- [清华大学图书馆](https://ecollection.lib.tsinghua.edu.cn/mdatabasenav/entrance/databaseNav)
+- [中国人民大学图书馆](https://libproxy.ruc.edu.cn/ermsClient/browse.do)
+- [上海财经大学图书馆](https://sufe.libguides.com/az.php)
+- [上海交通大学图书馆](https://www.lib.sjtu.edu.cn/f/database/database.shtml)
+- [北京理工大学图书馆](https://lib.bit.edu.cn/db/)
+- [中山大学图书馆](https://library.sysu.edu.cn/basic/860)
+- [國立臺灣師範大學圖書館](https://database.lib.ntnu.edu.tw/db/index.html)
+- [國立屏東大學圖書館](https://library.nptu.edu.tw/eresource/CDblist.aspx)
+- [香港都会大学图书馆](https://libguides.lib.hkmu.edu.hk/az/databases_chi)
+
+</details>
+
+<details>
 <summary>日语网站类</summary>
 
 - [辞典协会(及《优良辞典六法目录》)](https://www.jitenkyokai.gr.jp/)
