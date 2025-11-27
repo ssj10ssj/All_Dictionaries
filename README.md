@@ -2218,7 +2218,6 @@
 <details>
 <summary>综合类</summary>
 
-- [FMHY](https://fmhy.net/reading)
 - [mdx入门 freemdict](https://forum.freemdict.com/t/topic/9610)
 - [全网免费电子书 iMyShare](https://imyshare.com/article/28/)
 - [免费电子书资源大全](https://qiao.dev/2021/03/14/2021%E5%B9%B4%E5%85%8D%E8%B4%B9%E7%94%B5%E5%AD%90%E4%B9%A6%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8.html)
@@ -2408,6 +2407,7 @@
 
 - [静读天下](http://www.moondownload.com/chinese.html)
 - [ReadEra](https://readera.org/)
+- [Zotero](https://www.zotero.org/)
 - [Notion](https://www.notion.com/mobile)
 - [金山 WPS](https://mo.wps.cn/pc-app/office.html)
 - [AndrOpen Office](https://andropenoffice.blogspot.com/?m=1)
@@ -2440,6 +2440,7 @@
 - [Voice Tools](https://devextras.com/voicetools/)
 - [FeedMe](https://play.google.com/store/apps/details?id=com.seazon.feedme&hl=zh_HK&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA+rss&pcampaignid=APPU_1_Ey-FaMuOO8jn2roP0bDbwQU)
 - [Flud](https://delphisoftwares.com/flud)
+- [Ponydroid](https://m.ponydroid.com/en/)
 - [Nextcloud](https://nextcloud.com/)
 - [TeraBox](https://www.terabox.com/wap/chinese)
 - [Proton Mail](https://proton.me/zh-tw/mail)
@@ -2452,24 +2453,29 @@
 <details>
 <summary>资源区</summary>
 
+- [FMHY](https://fmhy.net/reading)
 - [Zim资源](https://library.kiwix.org/?lang=zho#lang=zho)
-- [Tab字典合集（mdx）](https://forum.freemdict.com/t/topic/13177)
-- [阿彌陀佛（mdx）](https://forum.freemdict.com/t/topic/7530)/[云盘链接](https://cloud.freemdict.com/index.php/s/ADrbLw4GRjtWqnQ)
-- [Ru-Board（mdx）](https://forum.freemdict.com/t/topic/12050)/[云盘链接](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs)
-- [实用字辞典清单（mdx）](https://forum.freemdict.com/t/topic/13970)
-- [数学（mdx）](https://forum.freemdict.com/t/topic/13811)
-- [轻小说合集 freemdict](https://forum.freemdict.com/t/topic/9083)
-- [作业君的小站（轻小说txt）](https://homeworkkun.wordpress.com/2018/08/18/dcdlls/#more-241)
+- Mdx资源
+    - [Tab字典合集（mdx）](https://forum.freemdict.com/t/topic/13177)
+    - [阿彌陀佛（mdx）](https://forum.freemdict.com/t/topic/7530)/[云盘链接](https://cloud.freemdict.com/index.php/s/ADrbLw4GRjtWqnQ)
+    - [Ru-Board（mdx）](https://forum.freemdict.com/t/topic/12050)/[云盘链接](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs)
+    - [实用字辞典清单（mdx）](https://forum.freemdict.com/t/topic/13970)
+    - [数学（mdx）](https://forum.freemdict.com/t/topic/13811)
+- 轻小说资源
+    - [轻小说合集 freemdict](https://forum.freemdict.com/t/topic/9083)
+    - [作业君的小站（轻小说txt）](https://homeworkkun.wordpress.com/2018/08/18/dcdlls/#more-241)
 - [Zlib书单](https://zh.z-library.sk/profile/12760922/4f6f09)
 - [站酷](https://m.zcool.com.cn/home)
 - [Meme梗图仓库](https://memes.tw/maker?q=%E7%99%BE%E7%A7%91&from=tag)
 - [异次元-源仓库](https://www.yckceo.com/yiciyuan/tuyuan/index.html)
 - [简单动漫（BT下载）](https://www.36dm.org/)
 - [任地鱼（rom下载）](https://m.rendiyu.com/)
-- [52模拟器|Java](http://java.52emu.cn/)
-- [Java游戏小站](https://java.owoemu.com/)
-- [Java手机乐园](https://jvgm.cn/class)
-- [Phoneky](https://cn.phoneky.com/games/?p=browse)
+- Java资源
+    - [52模拟器|Java](http://java.52emu.cn/)
+    - [Java游戏小站](https://java.owoemu.com/)
+    - [Java手机乐园](https://jvgm.cn/class)
+    - [Phoneky](https://cn.phoneky.com/games/?p=browse)
+- [Real-Debrid](https://real-debrid.com/)
 
 </details>
 
