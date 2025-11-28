@@ -1377,6 +1377,7 @@
         - [Wikitionary Copilot](https://cloud.fastgpt.io/chat/share?shareId=bnUGE2dRQO2Dn7Z59SeEpc3g)
         - [易查](https://www.easy-search-dict.com/)/[易查简介](https://forum.freemdict.com/t/topic/42017)
         - [WordVein/LLM Glance(leapx.top)](https://leapx.top/)
+        - [佛学辞典网](https://dict.fo/)
 - [掌上百科-PDAWIKI](https://www.pdawiki.com/forum/)
     - [Pdawiki存档检索(主站)](https://061061.xyz/)
     - [Pdawiki存档检索(备站)](https://a.061061.xyz/)
