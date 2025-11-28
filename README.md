@@ -1106,6 +1106,7 @@
 - [360导航](http://h5.mse.360.cn/newnavi.html#/home)
 - [世界各国网址大全](http://www.world68.com/)
 - [看国外](https://www.kanguowai.com/index.html)
+- [奔跑中的奶酪](https://www.runningcheese.com/a)
 - [万能导航](https://wndh.net/)
 - [龙之向导](https://www.dragon-guide.net/)
 - [搜索引擎大全](https://www.isys.top/)
@@ -1394,7 +1395,7 @@
 <details>
 <summary>综合类</summary>
 
-- [安娜的档案/Anna’s Archive](https://zh.annas-archive.org/)
+- [安娜的档案/Anna’s Archive(PiLiMi)](https://zh.annas-archive.org/)
     - [安娜的档案(Wikipedia备址)](https://en.wikipedia.org/wiki/Anna%27s_Archive)
 - [WeLib(镜像1)](https://zh.welib.org/)/[WeLib(镜像2)](https://zh.welib.st/)
 - [Z-Library](https://zh.z-library.ec/)
@@ -1427,6 +1428,7 @@
 - [法文数学类书籍、论文、期刊等](http://archive.numdam.org/)
 - [书享家](https://shuxiangjia.cn/)
 - [资源帝](http://shu.ziyuandi.cn/)
+- [电子书宝藏导航](https://shu.baozangdh.com/)
 - [青空文库](https://www.aozora.gr.jp/)
 - [维基文库](https://zh.m.wikisource.org/wiki/)
 - [Project Gutenberg 古登堡计划](https://www.gutenberg.org/)
@@ -2144,6 +2146,7 @@
 - [上海交通大学图书馆](https://www.lib.sjtu.edu.cn/f/database/database.shtml)
 - [北京理工大学图书馆](https://lib.bit.edu.cn/db/)
 - [中山大学图书馆](https://library.sysu.edu.cn/basic/860)
+- [國立臺灣大學圖書館](https://ntu.primo.exlibrisgroup.com/discovery/dbsearch?query=contains,dbcategory,&tab=jsearch_slot&sortby=title&vid=886NTU_INST:886NTU_INST&databases=category,A&lang=zh-tw)
 - [國立臺灣師範大學圖書館](https://database.lib.ntnu.edu.tw/db/index.html)
 - [國立屏東大學圖書館](https://library.nptu.edu.tw/eresource/CDblist.aspx)
 - [香港都会大学图书馆](https://libguides.lib.hkmu.edu.hk/az/databases_chi)
