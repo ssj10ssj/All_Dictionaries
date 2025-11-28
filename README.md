@@ -2352,11 +2352,13 @@
     - [Gitea](https://about.gitea.com/)
     - [GitBook](https://www.gitbook.com/)
 - [public-apis-cn](https://github.com/llf007/public-apis-cn)
-- [技术博客网站推荐](https://github.com/csarron/ITBlogs)
-- [程序员开拓眼界和提升效率](https://github.com/ctimbai/awesome-things)
-- [程序员应该访问的最佳网站](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
-- [高质量程序员相关资源](https://github.com/coderzcr/Awesome-Programmer-Source)
-- [免费的编程资源大全](https://github.com/liyupi/free-programming-resources)
+- [国内开源镜像站点汇总](https://github.com/SUSTech-CRA/chinese-opensource-mirror-site)
+- 程序员/编程推荐
+    - [技术博客网站推荐](https://github.com/csarron/ITBlogs)
+    - [程序员开拓眼界和提升效率](https://github.com/ctimbai/awesome-things)
+    - [程序员应该访问的最佳网站](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
+    - [高质量程序员相关资源](https://github.com/coderzcr/Awesome-Programmer-Source)
+    - [免费的编程资源大全](https://github.com/liyupi/free-programming-resources)
 - [freeCodeCamp.org](https://github.com/freeCodeCamp)
 - [Tatoeba on GitHub](https://github.com/Tatoeba/tatoeba2)
 - [Online dictionary based on the console，基于控制台的在线词典 on GitHub ](https://github.com/kuanghy/kictor)
@@ -2367,11 +2369,12 @@
 - [chinese-dictionary](https://github.com/mapull/chinese-dictionary)
 - [ECDICT/简明英汉必应](https://github.com/skywind3000/ECDICT)
 - [GitHub/NoHeartPen/日语](https://github.com/NoHeartPen/awesome_japanese_study_tools)
-- [Librera Reader（app）](https://github.com/foobnix/LibreraReader)
-- [阅读（app）](https://github.com/gedoor/legado)
-- [Anx Reader（app）](https://github.com/Anxcye/anx-reader/blob/develop/README_zh.md)
-- [Openlib（app）](https://github.com/dstark5/Openlib)
-- [ebook-reader(topic)](https://github.com/topics/ebook-reader)
+- 阅读
+    - [Librera Reader（app）](https://github.com/foobnix/LibreraReader)
+    - [阅读（app）](https://github.com/gedoor/legado)
+    - [Anx Reader（app）](https://github.com/Anxcye/anx-reader/blob/develop/README_zh.md)
+    - [Openlib（app）](https://github.com/dstark5/Openlib)
+    - [ebook-reader(topic)](https://github.com/topics/ebook-reader)
 
 == 二次元 ==
 - [轻小说文库（GooglePlay）](https://github.com/MewX/light-novel-library_Wenku8_Android)
@@ -2386,6 +2389,7 @@
 - [Anime Searcher](https://github.com/zaxtyson/AnimeSearcher)
 - [AGE动漫](https://github.com/agefanscom/website)
 - [Aniyomi](https://github.com/aniyomiorg/aniyomi)
+- [益达](https://github.com/xiaohucode/yidaRule)
 
 </details>
 
