@@ -1374,7 +1374,7 @@
         - [Ai-Dict(Github)](https://github.com/Buriburizaem0n/ai-dict)/[Ai-Dict(现成)](https://dict.4555556.xyz/)
         - [Wikitionary Copilot](https://cloud.fastgpt.io/chat/share?shareId=bnUGE2dRQO2Dn7Z59SeEpc3g)
         - [易查](https://www.easy-search-dict.com/)/[易查简介](https://forum.freemdict.com/t/topic/42017)
-        - [LLM Glance(leapx.top)](https://leapx.top/)
+        - [WordVein/LLM Glance(leapx.top)](https://leapx.top/)
 - [掌上百科-PDAWIKI](https://www.pdawiki.com/forum/)
     - [Pdawiki存档检索(主站)](https://061061.xyz/)
     - [Pdawiki存档检索(备站)](https://a.061061.xyz/)
@@ -1408,6 +1408,7 @@
 - [English textbooks](https://www.at.alleng.org/english/txb1.htm)
 - [易书](https://yibook.org/)
 - [好读](https://haodoo.net/?M=hd&P=welcome)
+- [九九藏书网](https://www.99csw.com/)
 - [TMZN](https://netdrive.tmzncty.cn/)
 - [FreeMbook](https://freembook.com/)
 - [FreeComputerBooks](https://freecomputerbooks.com/)
@@ -2340,14 +2341,16 @@
 
 == 综合 ==
 - [Awesome](https://github.com/sindresorhus/awesome)
-- [Awesome Tools](https://github.com/YSGStudyHards/Awesome-Tools)
-- [Awsome-Courses](https://github.com/forthespada/Awsome-Courses?tab=readme-ov-file)
-- [GitHub中文社区](https://www.github-zh.com/)
-- [Gitee](https://gitee.com/)
-- [GitCode](https://gitcode.com/)
-- [GitLab](https://about.gitlab.com/)
-- [Gitea](https://about.gitea.com/)
-- [GitBook](https://www.gitbook.com/)
+    - [Awesome Useful Websites](https://github.com/atakanaltok/awesome-useful-websites)
+    - [Awesome Tools](https://github.com/YSGStudyHards/Awesome-Tools)
+    - [Awsome-Courses](https://github.com/forthespada/Awsome-Courses?tab=readme-ov-file)
+- Git
+    - [GitHub中文社区](https://www.github-zh.com/)
+    - [Gitee](https://gitee.com/)
+    - [GitCode](https://gitcode.com/)
+    - [GitLab](https://about.gitlab.com/)
+    - [Gitea](https://about.gitea.com/)
+    - [GitBook](https://www.gitbook.com/)
 - [public-apis-cn](https://github.com/llf007/public-apis-cn)
 - [技术博客网站推荐](https://github.com/csarron/ITBlogs)
 - [程序员开拓眼界和提升效率](https://github.com/ctimbai/awesome-things)
@@ -2454,7 +2457,10 @@
 <summary>资源区</summary>
 
 - [FMHY](https://fmhy.net/reading)
+- [r/Piracy](https://www.reddit.com/r/Piracy/)
+- [Megathread](https://rentry.co/megathread)
 - [Zim资源](https://library.kiwix.org/?lang=zho#lang=zho)
+- [Wiki数据库下载](https://zh.wikipedia.org/wiki/Wikipedia:%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%8B%E8%BD%BD)
 - Mdx资源
     - [Tab字典合集（mdx）](https://forum.freemdict.com/t/topic/13177)
     - [阿彌陀佛（mdx）](https://forum.freemdict.com/t/topic/7530)/[云盘链接](https://cloud.freemdict.com/index.php/s/ADrbLw4GRjtWqnQ)
