@@ -1107,6 +1107,7 @@
 - [世界各国网址大全](http://www.world68.com/)
 - [看国外](https://www.kanguowai.com/index.html)
 - [奔跑中的奶酪](https://www.runningcheese.com/a)/[电子书导航](https://www.runningcheese.cn/s22)
+- [喜欢书签](https://www.likebookmark.com/)
 - [万能导航](https://wndh.net/)
 - [龙之向导](https://www.dragon-guide.net/)
 - [搜索引擎大全](https://www.isys.top/)
@@ -1114,6 +1115,7 @@
 - [办公人导航](https://www.bgrdh.com/)
 - [情色网站大全](https://qingse.one/)/[PornFind](https://www.pornfind.cc/)
 - [WebDesk云桌面](https://www.webdesk.cc/)
+- [mTab](https://go.mtab.cc/)/[mTab官网](https://mtab.cc/)
 - [汇总转载](https://forum.freemdict.com/t/topic/35604)/[汇总原文](https://gitee.com/jamesfengcao/uweb/blob/master/zh/search.md)
 
 </details>
