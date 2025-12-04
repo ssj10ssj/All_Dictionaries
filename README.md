@@ -374,6 +374,7 @@
 - [词汇大全](http://dict.youdao.com/map/)
 - [pyDict - 英漢、漢英兩用字典](http://mirror.sars.tw/FreeBSD_Chinese_HOWTO/pydict.html)
 - [万词王WantWords](https://wantwords.thunlp.org/)
+- [ThinkWiki](https://www.thinkwiki.org/wiki/ThinkWiki)
 
 </details>
 
@@ -2159,6 +2160,7 @@
 <summary>日语网站类</summary>
 
 - [辞典协会(及《优良辞典六法目录》)](https://www.jitenkyokai.gr.jp/)
+- [WORD-WISE WEB](https://dictionary.sanseido-publ.co.jp/)
 - [易查(辞典列表)](https://hbq08jzhrer.sg.larksuite.com/wiki/QqCSwwHnCid6ADkJqqzlOQeIgHh?from=from_copylink&sheet=LCVb9e)
 - [TheMoeWay](https://learnjapanese.moe/)
 - [影音漫画小说词汇挖矿指路](https://github.com/NoHeartPen/awesome_japanese_study_tools/issues/6)
@@ -2375,6 +2377,7 @@
 - [京墨](https://github.com/hefengbao/jingmo)
 - [中文词典](https://github.com/lxs602/Chinese-Mandarin-Dictionaries)
 - [chinese-dictionary](https://github.com/mapull/chinese-dictionary)
+- [chinese-poetry: 最全中文诗歌古典文集数据库](https://github.com/chinese-poetry/chinese-poetry)
 - [ECDICT/简明英汉必应](https://github.com/skywind3000/ECDICT)
 - [GitHub/NoHeartPen/日语](https://github.com/NoHeartPen/awesome_japanese_study_tools)
 - 阅读
