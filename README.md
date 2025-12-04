@@ -1520,6 +1520,19 @@
 
 </details>
 
+<details>
+<summary>书评书单</summary>
+
+- [Readmoo分享書](https://share.readmoo.com/)
+- [喵喵書評](https://meowbooks.tw/)
+- [豆瓣](https://m.douban.com/book/)
+- [Goodreads](https://www.goodreads.com/)
+- [LibraryThing](https://www.librarything.com/t/cn1)
+- [BookBrowsers](https://www.bookbrowse.com/)
+- [The Greatest Books of All Time](https://thegreatestbooks.org/)
+
+</details>
+
 </details>
 
 ## 书源
@@ -2150,6 +2163,7 @@
 - [上海交通大学图书馆](https://www.lib.sjtu.edu.cn/f/database/database.shtml)
 - [北京理工大学图书馆](https://lib.bit.edu.cn/db/)
 - [中山大学图书馆](https://library.sysu.edu.cn/basic/860)
+- [浙江大学图书馆](https://libdb.zju.edu.cn/s/lib/libtb/)
 - [國立臺灣大學圖書館](https://ntu.primo.exlibrisgroup.com/discovery/dbsearch?query=contains,dbcategory,&tab=jsearch_slot&sortby=title&vid=886NTU_INST:886NTU_INST&databases=category,A&lang=zh-tw)
 - [國立臺灣師範大學圖書館](https://database.lib.ntnu.edu.tw/db/index.html)
 - [國立屏東大學圖書館](https://library.nptu.edu.tw/eresource/CDblist.aspx)
@@ -2234,6 +2248,7 @@
 - [全网免费电子书 iMyShare](https://imyshare.com/article/28/)
 - [免费电子书资源大全](https://qiao.dev/2021/03/14/2021%E5%B9%B4%E5%85%8D%E8%B4%B9%E7%94%B5%E5%AD%90%E4%B9%A6%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8.html)
 - [有了这50个电子书网站...](https://m.sohu.com/a/276723424_99949461/?pvid=000115_3w_a)
+- [书评网推荐(知乎)](https://zhuanlan.zhihu.com/p/25701508747)
 - [英语网站大全 百度文库](https://wk.baidu.com/view/37dfde62f5335a8102d220f0)
 - [Alexa - Top Sites by Category: Reference](https://www.alexa.com/topsites/category/Reference)
 - [**bbkbbk** 德语词库整理](https://pdawiki.com/forum/thread-11437-1-1.html)
@@ -2498,6 +2513,20 @@
     - [Java手机乐园](https://jvgm.cn/class)
     - [Phoneky](https://cn.phoneky.com/games/?p=browse)
 - [Real-Debrid](https://real-debrid.com/)
+
+</details>
+
+<details>
+<summary>思维导图</summary>
+
+- [博思白板(BoardMix)](https://boardmix.cn/community/)
+- [亿图脑图(MindMaster)](https://mm.edrawsoft.cn/community/show/1)
+- [树图(TreeMind)](https://m.shutu.cn/)
+- [幕布](https://mubu.com/mobile/explore)
+- [知犀](https://www.zhixi.com/space)
+- [GitMind](https://gitmind.cn/app/templates)
+- [Xmind](https://xmind.cn/mindmaps-gallery/)
+- [ProcessOn](https://www.processon.com/template)
 
 </details>
 
