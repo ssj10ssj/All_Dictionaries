@@ -375,6 +375,7 @@
 - [pyDict - 英漢、漢英兩用字典](http://mirror.sars.tw/FreeBSD_Chinese_HOWTO/pydict.html)
 - [万词王WantWords](https://wantwords.thunlp.org/)
 - [ThinkWiki](https://www.thinkwiki.org/wiki/ThinkWiki)
+- [Encyclopedia](https://www.encyclopedia.com/)
 
 </details>
 
