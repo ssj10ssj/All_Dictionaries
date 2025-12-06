@@ -2206,6 +2206,7 @@
 - [元维基](https://meta.wikimedia.org/w/index.php?title=Main_Page/zh&variant=zh-hans)
 - [维基社群](https://zh.wikipedia.org/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5)
 - [网络书源](https://zh.wikipedia.org/wiki/Wikipedia:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90)
+- [其他选择](https://zh.wikipedia.org/wiki/Wikipedia:%E5%85%B6%E4%BB%96%E9%80%89%E6%8B%A9)
 - [维基百科列表索引(维基)](https://zh.wikipedia.org/wiki/维基百科列表索引)
 - [学术期刊列表(维基)](https://zh.wikipedia.org/wiki/Category:%E5%AD%B8%E8%A1%93%E6%9C%9F%E5%88%8A%E5%88%97%E8%A1%A8)
 - [在线百科全书列表(维基)](https://zh.m.wikipedia.org/wiki/在线百科全书列表)
