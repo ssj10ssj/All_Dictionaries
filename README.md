@@ -1095,6 +1095,9 @@
 <summary>综合类</summary>
 
 - [全网导航](https://www.webnav.net/)
+- [DMOZ](https://zh.wikipedia.org/wiki/%E5%BC%80%E6%94%BE%E5%BC%8F%E7%9B%AE%E5%BD%95)
+    - [Curlie](https://curlie.org/zh_CN)
+    - [iDMOZ](https://idmoz.org/)
 - [爱达杂货铺](https://adzhp.cn/)
 - [果汁导航](http://guozhivip.com/)
 - [醉长生](https://www.exapmple.com/)
@@ -1182,6 +1185,7 @@
 - [豆瓣(找图书)](https://m.douban.com/book/)
 - [Anobii](https://www.anobii.com/zh-Hans)
 - [WorldCat](https://search.worldcat.org/zh-cn)
+- [LibDex](https://www.libdex.com/)
 - [iData](https://www.cn-ki.net/)
 - [Google学术搜索](http://scholar.google.com/)
 - [微软学术搜索](https://academic.microsoft.com/home)
@@ -1408,6 +1412,7 @@
 - [Library Genesis/libgen/创世纪图书馆](http://libgen.is/)
 - [Internet Archive](https://archive.org/)
     - [Open Library/开放图书馆](https://openlibrary.org/)
+- [万维网虚拟图书馆](https://vlib.org/index.zh)
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [点点文档](https://www.junengfan.cn/bd)
 - [淘链客](https://www.toplinks.cc/s/)
