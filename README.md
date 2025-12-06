@@ -1410,6 +1410,7 @@
     - [Z-Library(Wikipedia备址)](https://en.m.wikipedia.org/wiki/Z-Library)
     - [Z-Access](https://library-access.sk/)
 - [Library Genesis/libgen/创世纪图书馆](http://libgen.is/)
+    - [Libgen(Wikipedia备址)](https://zh.wikipedia.org/wiki/%E5%88%9B%E4%B8%96%E7%BA%AA%E5%9B%BE%E4%B9%A6%E9%A6%86)
 - [Internet Archive](https://archive.org/)
     - [Open Library/开放图书馆](https://openlibrary.org/)
 - [万维网虚拟图书馆](https://vlib.org/index.zh)
