@@ -986,6 +986,7 @@
 - [Grok](https://grok.com/)/[X](https://x.com/i/flow/login)
 - [Microsoft Copilot(前身:Bing Chat)](https://copilot.microsoft.com/chats/rKgoWSiX1KMRGRwj4KwZB)
 - [Mistral AI](https://mistral.ai/)
+- [Amazon Nova](https://nova.amazon.com/chat)
 - [Perplexity](https://www.perplexity.ai/)
 - [深度求索(DeepSeek)](https://www.deepseek.com/)
 - [通义千问](https://tongyi.aliyun.com/)
