@@ -1039,7 +1039,9 @@
 - [Uminal](https://www.uminal.com/)
 - [Webapi.ai ](https://webapi.ai/)
 - [AI工具集](https://ai-bot.cn/)
+- [AIGC导航](https://www.aigc.cn/)
 - [SeekTool.AI](https://seektool.ai/cn)
+- [Toolify](https://www.toolify.ai/zh/)
 - [大数据导航](https://hao.199it.com/)
 - [Google Dataset Search
 ](https://datasetsearch.research.google.com/)
@@ -1122,6 +1124,8 @@
 - [情色网站大全](https://qingse.one/)/[PornFind](https://www.pornfind.cc/)
 - [WebDesk云桌面](https://www.webdesk.cc/)
 - [mTab](https://go.mtab.cc/)/[mTab官网](https://mtab.cc/)
+- [Webstack](https://github.com/WebStackPage/WebStackPage.github.io)
+- [发现导航](https://github.com/xjh22222228/nav)
 - [汇总转载](https://forum.freemdict.com/t/topic/35604)/[汇总原文](https://gitee.com/jamesfengcao/uweb/blob/master/zh/search.md)
 
 </details>
