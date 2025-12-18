@@ -1363,6 +1363,7 @@
 - [词悦](https://github.com/mumu-lhl/Ciyue?tab=readme-ov-file)
 - [英酷词典](https://www.cnblogs.com/iMath/p/EngkuDict.html)
 - [Vibedict](https://github.com/w4lt3rmel0n/Vibedict)
+- MDX Reader([iOS](https://apps.apple.com/cn/app/mdx-reader-personal-dictionary/id6756669176?l=en-GB))([Mac](https://apps.apple.com/cn/app/mdx-dictionary-reader/id6756536184?l=en-GB&mt=12))
 - 多语大师
 - [Aard2](https://aarddict.org/)
 - [Kiwix](https://www.kiwix.org/en/)
