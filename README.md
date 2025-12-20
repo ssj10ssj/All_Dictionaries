@@ -518,7 +518,14 @@
 - [句子迷](https://www.juzimi.com/)
 - [教育百科](https://pedia.cloud.edu.tw/)
 - [汉字部件（大合辑）](https://forum.freemdict.com/t/topic/14675)
-- [小鸡词典 (网络流行语)](https://jikipedia.com/)
+- 流行语
+    - [小鸡词典](https://jikipedia.com/)
+    - [流行语百科](https://www.lxybaike.com/)
+    - [有梗百科](https://yougengbaike.com/index.html)
+    - [梗百科](https://gengbaike.cn/)
+    - [网络流行语](https://hddid.com/)
+    - [有梗蛙](https://www.yougengwa.com/)
+    - [墨鱼词典](https://www.moyuoo.com/)
 
 </details>
 
@@ -880,7 +887,9 @@
 - [默沙东诊疗手册](https://www.msdmanuals.cn/)
 - [A+医学百科](http://www.a-hospital.com/)
 - [医学百科](https://www.wiki8.com/)
+- [医学微视](https://www.mvyxws.cn/)
 - [多识植物百科](http://duocet.ibiodiversity.net/)
+- [农业百科](https://www.nongyie.com/)
 - [化工百科](https://www.chembk.com/cn)
 - [知网百科](https://xuewen.cnki.net/)
 - [Fandom](https://www.fandom.com/)
@@ -889,6 +898,7 @@
 - [维基百科](https://zh.m.wikipedia.org/wiki/)
 - [维基大典](https://zh-classical.m.wikipedia.org/wiki/)
 - [求闻百科](https://www.qiuwenbaike.cn/wiki/Qiuwen:%E9%A6%96%E9%A1%B5)
+- [Wikiwand](https://www.wikiwand.com/zh)
 - [WikiTok](https://wikitok.net/)
 - [百度百科](https://baike.baidu.com/)
     - [百度产品大全](https://www.baidu.com/more/)
@@ -908,6 +918,7 @@
 - [THBWiki](https://thwiki.cc/)
 - [GameKee](https://www.gamekee.com/)
 - [Komica/K岛/糟糕岛](https://komica1.org/)
+- [Hpoi(手办)](https://www.hpoi.net/)
 - [中文Minecraft Wiki](https://zh.minecraft.wiki/)
 - [MC百科](https://www.mcmod.cn/)
 - [柯南百科](https://www.conanpedia.com/)
@@ -927,8 +938,11 @@
 - [岁年网（旧）](https://www.suinian.com/)
 - [夸克百科](https://baike.quark.cn/)
 - [世界大典](https://worldpedia.miraheze.org/wiki/%E4%B8%96%E7%95%8C%E5%A4%A7%E5%85%B8:%E9%A6%96%E9%A0%81)
+- [中国军事百科](https://js.bkzx.cn/items)
 - [国家文化资料库/台湾大百科全书](https://nrch.culture.tw/nrch/zh-tw)
 - [台湾棒球维基馆](https://twbsball.dils.tku.edu.tw/wiki/index.php?title=%E9%A6%96%E9%A0%81)
+- [汽车之家](https://car.autohome.com.cn/baike)
+- [花百科](https://m.huabaike.com/)
 
 </details>
 
