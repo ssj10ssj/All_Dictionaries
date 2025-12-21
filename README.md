@@ -1056,18 +1056,27 @@
 - [Text GPT](https://textgpt.net/)
 - [Uminal](https://www.uminal.com/)
 - [Webapi.ai ](https://webapi.ai/)
-- [AI工具集](https://ai-bot.cn/)
-- [AIGC导航](https://www.aigc.cn/)
-- [SeekTool.AI](https://seektool.ai/cn)
-- [Toolify](https://www.toolify.ai/zh/)
-- [大数据导航](https://hao.199it.com/)
-- [Google Dataset Search
+- AI/数据导航
+    - [AI工具集](https://ai-bot.cn/)
+    - [AIGC导航](https://www.aigc.cn/)
+    - [SeekTool.AI](https://seektool.ai/cn)
+    - [ToolAI](https://www.toolai.io/zh)
+    - [Toolify](https://www.toolify.ai/zh/)
+    - [大数据导航](https://hao.199it.com/)
+- 数据集
+    - [Google Dataset Search
 ](https://datasetsearch.research.google.com/)
-- [Kaggle](https://www.kaggle.com/)
-- [ToolAI](https://www.toolai.io/zh)
-- [OSINT Framework](https://osintframework.com/)
-- [Awesome OSINT](https://github.com/jivoi/awesome-osint)
-- [Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything)
+    - [Kaggle](https://www.kaggle.com/)
+    - [SciDB/科学数据银行](https://www.scidb.cn/)
+    - [世界银行](https://data.worldbank.org.cn/)
+    - [和鲸](https://www.heywhale.com/home/dataset)
+    - [Awesome Public Datasets(GitHub)](https://github.com/awesomedata/awesome-public-datasets)
+    - [各行业开源数据(GitHub)](https://github.com/FlagOpen/Awesome-Industry-Dataset)
+    - [50个公共数据集(GitHub)](https://github.com/XNoteW/Studying/blob/master/dataset.md)
+- OSINT
+    - [OSINT Framework](https://osintframework.com/)
+    - [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+    - [Awesome OSINT For Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything)
 </details>
 
 ## 搜索引擎-聚合搜索-网站导航
@@ -1278,7 +1287,6 @@
 - [中国科技论文在线](https://www.paper.edu.cn/)
 - [Nexus Bots](https://libstc.nexus/)/[STC](https://bafyb4icwuj2nkq5qv7rxaoqdqizekozs4crup6ccotifec4jux4hssl3ei.ipfs.dweb.link/#/)
 - [Sci-Hub](https://sci-hub.se/)
-- [SciDB/科学数据银行](https://www.scidb.cn/)
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 - [IEEE](https://www.ieee.org/)
 - [爱思唯尔](https://www.elsevier.com/zh-cn)
@@ -2297,8 +2305,6 @@
 - [20款顶级AI聊天机器人推荐](https://juejin.cn/post/7213695693201014840)
 - [技术栈](https://nullwy.me/2023/12/popular-websites-tech-stack/)
 - [各领域公开数据集](https://zhuanlan.zhihu.com/p/25138563)
-- [各行业开源数据](https://github.com/FlagOpen/Awesome-Industry-Dataset)
-- [50个公共数据集](https://github.com/XNoteW/Studying/blob/master/dataset.md)
 
 </details>
 
