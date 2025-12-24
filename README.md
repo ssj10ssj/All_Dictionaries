@@ -1254,6 +1254,8 @@
 - [linguamarina](https://www.youtube.com/channel/UCAQg09FkoobmLquNNoO4ulg)
 - [Marina Mogilko](https://www.youtube.com/channel/UCLJl8-mbCfolWMkh1F1qfjA)
 - http://blog.liberty-e.com/blog/
+- [北大法宝](https://m.pkulaw.com/)
+- [中国裁判文书网](https://wenshu.court.gov.cn/)
 - [书格](https://www.shuge.org/)
 - [识典古籍](https://www.shidianguji.com/zh/)
 - [看典古籍](https://www.kandianguji.com/)
