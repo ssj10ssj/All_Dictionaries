@@ -1625,10 +1625,12 @@
 - [MOOC学院](https://www.openlearning.com/guokrmooc/)
 - [Ewant](https://www.ewant.org/)
 - [可汗学院](https://www.khanacademy.org/)
+- [(超星)学习通](https://passport2.chaoxing.com/mlogin?fid=&newversion=true&refer=https%3A%2F%2Fi.chaoxing.com)
 - [网易云课堂](https://m.study.163.com/)、[网易公开课](https://m.open.163.com/)、[有道精品课](https://ke.youdao.com/)
 - [腾讯课堂(结束)](https://www.tencent.com/zh-cn/business/classroom.html)
 - [新东方在线](https://m.koolearn.com/)
 - [沪江网校](https://mc.hujiang.com/)
+- [极客时间](https://time.geekbang.org/)
 
 </details>
 
