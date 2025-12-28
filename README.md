@@ -2491,6 +2491,7 @@
 <details>
 <summary>手机端</summary>
 
+- [Kolibri](https://learningequality.org/kolibri/about-kolibri/)
 - [静读天下](http://www.moondownload.com/chinese.html)
 - [ReadEra](https://readera.org/)
 - [Zotero](https://www.zotero.org/)
@@ -2509,6 +2510,8 @@
 - [AIDE](https://www.android-ide.com/)
 - [QPython](https://www.qpython.org/)/[QPython+](https://www.qpython.com/)/[QPython3](https://github.com/qpython-android)
 - [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dpydroid&pcampaignid=APPU_1_XhoVZftAmoPj4Q_Uv7SQCw)
+- [Luanti(前称Minetest)](https://www.luanti.org/en/)
+- [PhET](https://phet.colorado.edu/zh_CN/)
 - [TinyPNG](https://tinify.cn/)
 - [爱笔思画](https://ibispaint.com/lecture/index.jsp?lang=zh-HANS)
 - [CLIP STUDIO PAINT](https://www.clipstudio.net/tc/)
@@ -2540,6 +2543,10 @@
 <summary>资源区</summary>
 
 - [Internet-in-a-Box](https://internet-in-a-box.org/)
+- [RACHEL](https://rachel.worldpossible.org/)
+- [EdTech Hub](https://edtechhub.org/)/[OER2Go](https://docs.edtechhub.org/lib/8SX5JYDU)
+- [Hesperian Health Guides](https://hesperian.org/)
+- [OpenStreetMap](https://www.openstreetmap.org/)
 - [FMHY](https://fmhy.net/reading)
 - [r/Piracy](https://www.reddit.com/r/Piracy/)
 - [Megathread](https://rentry.co/megathread)
@@ -2590,6 +2597,7 @@
 <summary>展开</summary>
 
 - [Cover](https://cover-corp.com/)/[Hololive](https://hololive.hololivepro.com/)/[Holostars](https://holostars.hololivepro.com/)
+- [百鸽](https://ygocdb.com/)
 - [萌卡YGOPro社区](https://ygobbs.com/)
 - [萌卡社](https://moetcg.club/)
 - [Bangumi(番组计划)](https://bangumi.tv/)
