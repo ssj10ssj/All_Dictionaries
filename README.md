@@ -2431,6 +2431,7 @@
     - [GitBook](https://www.gitbook.com/)
 - [public-apis-cn](https://github.com/llf007/public-apis-cn)
 - [国内开源镜像站点汇总](https://github.com/SUSTech-CRA/chinese-opensource-mirror-site)
+- [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
 - 程序员/编程推荐
     - [技术博客网站推荐](https://github.com/csarron/ITBlogs)
     - [程序员开拓眼界和提升效率](https://github.com/ctimbai/awesome-things)
