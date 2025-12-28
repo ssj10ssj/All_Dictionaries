@@ -994,6 +994,7 @@
 - [汉语词语搭配查询系统](https://deeplang.feishu.cn/docs/doccnoH9ncCZspo2Ubx79bpZ0Lh)
 - [iweb](https://www.english-corpora.org/iweb/)
 - [MNBVC(里屋)](https://github.com/esbatmop/MNBVC)
+- [OPUS](https://opus.nlpl.eu/)
 
 </details>
 
@@ -1073,6 +1074,7 @@
     - [SciDB/科学数据银行](https://www.scidb.cn/)
     - [世界银行](https://data.worldbank.org.cn/)
     - [和鲸](https://www.heywhale.com/home/dataset)
+    - [OpenDataLab](https://opendatalab.com/)
     - [Awesome Public Datasets(GitHub)](https://github.com/awesomedata/awesome-public-datasets)
     - [各行业开源数据(GitHub)](https://github.com/FlagOpen/Awesome-Industry-Dataset)
     - [50个公共数据集(GitHub)](https://github.com/XNoteW/Studying/blob/master/dataset.md)
@@ -2537,6 +2539,7 @@
 <details>
 <summary>资源区</summary>
 
+- [Internet-in-a-Box](https://internet-in-a-box.org/)
 - [FMHY](https://fmhy.net/reading)
 - [r/Piracy](https://www.reddit.com/r/Piracy/)
 - [Megathread](https://rentry.co/megathread)
