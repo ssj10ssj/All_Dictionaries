@@ -1401,6 +1401,7 @@
 - [Aard2](https://aarddict.org/)
 - [Kiwix](https://www.kiwix.org/en/)
 - [(格式转换工具)Pyglossary](https://github.com/ilius/pyglossary)
+- [AutoMdxBuilder 在线词典制作](http://47.111.10.37:8080/)
 - [其他替代](https://zh.altapps.net/soft/goldendict)
 
 </details>
