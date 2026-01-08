@@ -1044,7 +1044,7 @@
 - [Poe](https://poe.com/login)
 - [FastGPT](https://fastgpt.io/zh)
 - [RikkaHub](https://rikka-ai.com/)
-- [口袋AI](https://github.com/yzfly/pocketpal-ai-zh)
+- [口袋AI(原PocketPal)](https://github.com/yzfly/pocketpal-ai-zh)
 - [MNN](https://github.com/alibaba/MNN/tree/master)
 - [Google AI Edge](https://github.com/google-ai-edge/gallery)
 - [MLC](https://llm.mlc.ai/)
@@ -1057,6 +1057,7 @@
 - [G2](https://www.g2.com/)
 - [PeopleAI](https://chatbotkit.com/apps/peopleai)
 - [Quickchat AI](https://quickchat.ai/)
+- [Cursor](https://cursor.com/cn)
 - [Replit](https://replit.com/)
 - [SimilarWeb](https://www.similarweb.com/zh/)
 - [Text GPT](https://textgpt.net/)
@@ -1076,6 +1077,7 @@
     - [SciDB/科学数据银行](https://www.scidb.cn/)
     - [世界银行](https://data.worldbank.org.cn/)
     - [和鲸](https://www.heywhale.com/home/dataset)
+    - [(阿里云)天池](https://tianchi.aliyun.com/)
     - [OpenDataLab](https://opendatalab.com/)
     - [Awesome Public Datasets(GitHub)](https://github.com/awesomedata/awesome-public-datasets)
     - [各行业开源数据(GitHub)](https://github.com/FlagOpen/Awesome-Industry-Dataset)
@@ -1403,7 +1405,7 @@
 - [Aard2](https://aarddict.org/)
 - [Kiwix](https://www.kiwix.org/en/)
 - [(格式转换工具)Pyglossary](https://github.com/ilius/pyglossary)
-- [AutoMdxBuilder 在线词典制作](http://47.111.10.37:8080/)
+- [数字文献学(AutoMdxBuilder 在线词典制作)](http://47.111.10.37:8080/)
 - [其他替代](https://zh.altapps.net/soft/goldendict)
 
 </details>
@@ -1428,7 +1430,7 @@
         - [Wikitionary Copilot](https://cloud.fastgpt.io/chat/share?shareId=bnUGE2dRQO2Dn7Z59SeEpc3g)
         - [易查](https://www.easy-search-dict.com/)/[易查简介](https://forum.freemdict.com/t/topic/42017)
         - [WordVein/LLM Glance(leapx.top)](https://leapx.top/)
-        - [Word Mentor(异常)](https://word-mentor-9edc2.web.app/)
+        - [Word Mentor](https://word-mentor-9edc2.web.app/)
         - [佛学辞典网](https://dict.fo/)
         - [Lingkuma](https://github.com/lingkuma/LingKuma)
 - [掌上百科-PDAWIKI](https://www.pdawiki.com/forum/)
@@ -1447,7 +1449,8 @@
 <details>
 <summary>综合类</summary>
 
-- [安娜的档案/Anna’s Archive(PiLiMi)](https://zh.annas-archive.org/)
+- 安娜的档案/Anna’s Archive(PiLiMi)
+    - [org(异)](https://zh.annas-archive.org/)/[se](https://zh.annas-archive.se/)/[li](https://zh.annas-archive.li/)/[pm](https://zh.annas-archive.pm/)/[in](https://zh.annas-archive.in/)
     - [安娜的档案(Wikipedia备址)](https://en.wikipedia.org/wiki/Anna%27s_Archive)
 - [WeLib(镜像1)](https://zh.welib.org/)/[WeLib(镜像2)](https://zh.welib.st/)
 - [Z-Library](https://zh.z-library.ec/)
