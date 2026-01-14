@@ -1468,6 +1468,7 @@
     - [Libgen(Wikipedia备址)](https://zh.wikipedia.org/wiki/%E5%88%9B%E4%B8%96%E7%BA%AA%E5%9B%BE%E4%B9%A6%E9%A6%86)
 - [Internet Archive](https://archive.org/)
     - [Open Library/开放图书馆](https://openlibrary.org/)
+- [OpenCalibre](https://www.reddit.com/r/opencalibre/)
 - [万维网虚拟图书馆](https://vlib.org/index.zh)
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [点点文档](https://www.junengfan.cn/bd)
