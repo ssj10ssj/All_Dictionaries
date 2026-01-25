@@ -1408,6 +1408,8 @@
 - [英酷词典](https://www.cnblogs.com/iMath/p/EngkuDict.html)
 - [Vibedict](https://github.com/w4lt3rmel0n/Vibedict)
 - MDX Reader([iOS](https://apps.apple.com/cn/app/mdx-reader-personal-dictionary/id6756669176?l=en-GB))([Mac](https://apps.apple.com/cn/app/mdx-dictionary-reader/id6756536184?l=en-GB&mt=12))
+- [极客词典(GeekDict Pro)](https://forum.freemdict.com/t/topic/42979)([微云下载](https://share.weiyun.com/T7qgh405))
+- [readmdx](http://forum.freemdict.com/t/topic/42966/3)
 - 多语大师
 - [Aard2](https://aarddict.org/)
 - [Kiwix](https://www.kiwix.org/en/)
