@@ -1409,7 +1409,7 @@
 - [Vibedict](https://github.com/w4lt3rmel0n/Vibedict)
 - MDX Reader([iOS](https://apps.apple.com/cn/app/mdx-reader-personal-dictionary/id6756669176?l=en-GB))([Mac](https://apps.apple.com/cn/app/mdx-dictionary-reader/id6756536184?l=en-GB&mt=12))
 - [极客词典(GeekDict Pro)](https://forum.freemdict.com/t/topic/42979)([微云下载](https://share.weiyun.com/T7qgh405))
-- readmdx[1](http://forum.freemdict.com/t/topic/42966/3)/[2](https://forum.freemdict.com/t/topic/42966)
+- readmdx[(1)](http://forum.freemdict.com/t/topic/42966/3)/[(2)](https://forum.freemdict.com/t/topic/42966)
 - 多语大师
 - [Dictionareow!(词典喵！)](https://github.com/awaLiny2333/Dictionareow)
 - [Aard2](https://aarddict.org/)
@@ -2372,7 +2372,7 @@
 - [PaddleOCR(开源)](https://github.com/PaddlePaddle/PaddleOCR/tree/main)
 - [EasyOCR(开源)](https://github.com/JaidedAI/EasyOCR)
 - [Tesseract OCR(开源)](https://github.com/tesseract-ocr/tesseract)
-- OCR工具[GitHub](https://github.com/wynick27/DigitizationTools)/[Freemdict](https://forum.freemdict.com/t/topic/42992)
+- OCR工具[(GitHub)](https://github.com/wynick27/DigitizationTools)/[(Freemdict)](https://forum.freemdict.com/t/topic/42992)
 
 </details>
 
