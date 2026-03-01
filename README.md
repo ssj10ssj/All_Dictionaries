@@ -1412,6 +1412,7 @@
 - readmdx[(1)](http://forum.freemdict.com/t/topic/42966/3)/[(2)](https://forum.freemdict.com/t/topic/42966)
 - 多语大师
 - [Dictionareow!(词典喵！)](https://github.com/awaLiny2333/Dictionareow)
+- [EasyDict](https://forum.freemdict.com/t/topic/43251)([云盘](https://cloud.freemdict.com/index.php/s/bGaSbnEp2wgJ4w5)/[软件](https://github.com/AstraLeap/easydict)/[服务器](https://github.com/AstraLeap/easydict-cloud))
 - [Aard2](https://aarddict.org/)
 - [Kiwix](https://www.kiwix.org/en/)
 - [(格式转换工具)Pyglossary](https://github.com/ilius/pyglossary)
@@ -1444,6 +1445,7 @@
         - [WordHub](https://wordhub.top/)
         - [佛学辞典网](https://dict.fo/)
         - [Lingkuma](https://github.com/lingkuma/LingKuma)
+        - [知无涯·柯林斯词典](https://zhiwuya.xyz/collins/)
 - [掌上百科-PDAWIKI](https://www.pdawiki.com/forum/)
     - [Pdawiki存档检索(主站)](https://061061.xyz/)
     - [Pdawiki存档检索(备站)](https://a.061061.xyz/)
@@ -2575,6 +2577,7 @@
 - [Megathread](https://rentry.co/megathread)
 - [Zim资源](https://library.kiwix.org/?lang=zho#lang=zho)
 - [Wiki数据库下载](https://zh.wikipedia.org/wiki/Wikipedia:%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%8B%E8%BD%BD)
+- [小语种词典文本化](https://github.com/wynick27/DictionaryDigitization)
 - Mdx资源
     - [Tab字典合集（mdx）](https://forum.freemdict.com/t/topic/13177)
     - [阿彌陀佛（mdx）](https://forum.freemdict.com/t/topic/7530)/[云盘链接](https://cloud.freemdict.com/index.php/s/ADrbLw4GRjtWqnQ)
