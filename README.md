@@ -1413,6 +1413,8 @@
 - 多语大师
 - [Dictionareow!(词典喵！)](https://github.com/awaLiny2333/Dictionareow)
 - [EasyDict](https://forum.freemdict.com/t/topic/43251)([云盘](https://cloud.freemdict.com/index.php/s/bGaSbnEp2wgJ4w5)/[软件](https://github.com/AstraLeap/easydict)/[服务器](https://github.com/AstraLeap/easydict-cloud))
+    - [Easydict(同名辞典)](https://github.com/tisfeng/Raycast-Easydict?tab=readme-ov-file)
+- [Neko辞書/Neko Dictionary](https://apps.apple.com/us/app/neko-dictionary/id6756643217)
 - [Aard2](https://aarddict.org/)
 - [Kiwix](https://www.kiwix.org/en/)
 - [(格式转换工具)Pyglossary](https://github.com/ilius/pyglossary)
