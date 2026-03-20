@@ -1464,6 +1464,7 @@
 <details>
 <summary>综合类</summary>
 
+- [SLUM](https://open-slum.org/)/[Open SLUM 2.0](https://open-slum.pages.dev/)
 - 安娜的档案/Anna’s Archive(PiLiMi)
     - [org(异)](https://zh.annas-archive.org/)/[se](https://zh.annas-archive.se/)/[li](https://zh.annas-archive.li/)/[pm](https://zh.annas-archive.pm/)/[in](https://zh.annas-archive.in/)
     - [安娜的档案(Wikipedia备址)](https://en.wikipedia.org/wiki/Anna%27s_Archive)
