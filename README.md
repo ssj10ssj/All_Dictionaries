@@ -1415,6 +1415,7 @@
 - [EasyDict](https://forum.freemdict.com/t/topic/43251)([云盘](https://cloud.freemdict.com/index.php/s/bGaSbnEp2wgJ4w5)/[软件](https://github.com/AstraLeap/easydict)/[服务器](https://github.com/AstraLeap/easydict-cloud))
     - [Easydict(同名辞典)](https://github.com/tisfeng/Raycast-Easydict?tab=readme-ov-file)
 - [Neko辞書/Neko Dictionary](https://apps.apple.com/us/app/neko-dictionary/id6756643217)
+- OpenMDict([开发者网站](https://naco-siren.github.io/2026/04/05/OpenMDict/))([App Store](https://apps.apple.com/cn/app/openmdict/id6759032057))
 - [Aard2](https://aarddict.org/)
 - [Kiwix](https://www.kiwix.org/en/)
 - [(格式转换工具)Pyglossary](https://github.com/ilius/pyglossary)
