@@ -913,6 +913,7 @@
 - [微信百科](https://baike.weixin.qq.com/)
 - [集智百科](https://wiki.swarma.org/)
 - [小时百科](https://wuli.wiki/index.html)
+- [LyricsInfo 维基](https://www.musico.wiki/lyricsinfo/LyricsInfo_%E7%BB%B4%E5%9F%BA)
 - [萌娘百科](https://zh.moegirl.org/)
 - [Bwiki](https://wiki.biligame.com/wiki/)
 - [Bangumi维基](https://bangumi.tv/wiki)
