@@ -1410,6 +1410,7 @@
 - [Vibedict](https://github.com/w4lt3rmel0n/Vibedict)
 - MDX Reader([iOS](https://apps.apple.com/cn/app/mdx-reader-personal-dictionary/id6756669176?l=en-GB))([Mac](https://apps.apple.com/cn/app/mdx-dictionary-reader/id6756536184?l=en-GB&mt=12))
 - [极客词典(GeekDict Pro)](https://forum.freemdict.com/t/topic/42979)([微云下载](https://share.weiyun.com/T7qgh405))
+- [PythonMDict/极客Mdict](https://github.com/tengxiyi/PythonMDict)
 - readmdx[(1)](http://forum.freemdict.com/t/topic/42966/3)/[(2)](https://forum.freemdict.com/t/topic/42966)
 - 多语大师
 - [Dictionareow!(词典喵！)](https://github.com/awaLiny2333/Dictionareow)
