@@ -2573,6 +2573,7 @@
 <details>
 <summary>资源区</summary>
 
+- [Project N.O.M.A.D.](https://github.com/Crosstalk-Solutions/project-nomad)
 - [Internet-in-a-Box](https://internet-in-a-box.org/)
 - [RACHEL](https://rachel.worldpossible.org/)
 - [EdTech Hub](https://edtechhub.org/)/[OER2Go](https://docs.edtechhub.org/lib/8SX5JYDU)
