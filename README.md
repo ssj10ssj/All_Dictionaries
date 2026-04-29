@@ -1406,6 +1406,7 @@
 - [WarblerDict](https://forum.freemdict.com/t/topic/7079)
 - [SilverDict](https://github.com/Crissium/SilverDict)
 - [词悦](https://github.com/mumu-lhl/Ciyue?tab=readme-ov-file)
+- [闪卡词典](https://apps.apple.com/cn/app/%E9%97%AA%E5%8D%A1%E8%AF%8D%E5%85%B8/id6762287923?mt=12)
 - [英酷词典](https://www.cnblogs.com/iMath/p/EngkuDict.html)
 - [Vibedict](https://github.com/w4lt3rmel0n/Vibedict)
 - MDX Reader([iOS](https://apps.apple.com/cn/app/mdx-reader-personal-dictionary/id6756669176?l=en-GB))([Mac](https://apps.apple.com/cn/app/mdx-dictionary-reader/id6756536184?l=en-GB&mt=12))
