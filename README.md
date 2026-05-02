@@ -1393,6 +1393,7 @@
 - [Rikaikun](https://github.com/melink14/rikaikun)
 - [Yomichan](https://github.com/FooSoft/yomichan)
 - [沙拉查词 Saladict](https://saladict.crimx.com/)
+- [js-mdx-server(浏览器插件)](https://github.com/wamich/js-mdx-server)/[个人词库](https://mingchang.wang/)
 - [Mdict-Js](https://github.com/fengdh/mdict-js)
 - QTranslate
 - [CopyTranslator](https://github.com/copytranslator/copytranslator/releases)
@@ -1404,6 +1405,7 @@
 - Plod/[平典 Plain Dictionary](https://m.apkpure.com/cn/plain-dictionary/com.knziha/versions?_gl=1*gl1k70*_ga*YW1wLXdnVTI5cVNuZFV4WWNyUmRoZW9uc2FZNXZoV3d2b0dkalhVcWhNYUVIME81UFZHR2VacFdQS2tUeEx5LUM3MF8.)/[无限词典](https://github.com/KnIfER/PlainDictionaryAPP)/[字典](http://forum.freemdict.com/t/topic/18443/129)
 - [Ahktionary](https://forum.freemdict.com/t/topic/4818)
 - [WarblerDict](https://forum.freemdict.com/t/topic/7079)
+- [Yong Dictionary](https://forum.freemdict.com/t/topic/15022)([iOS](https://apps.apple.com/us/app/yong-chinese-dictionary/id1573106056))([Android](https://play.google.com/store/apps/details?id=com.app.yong))([云盘](https://cloud.freemdict.com/index.php/s/rfHfQrjr7WnD3KY?opendetails=))
 - [SilverDict](https://github.com/Crissium/SilverDict)
 - [词悦](https://github.com/mumu-lhl/Ciyue?tab=readme-ov-file)
 - [闪卡词典](https://apps.apple.com/cn/app/%E9%97%AA%E5%8D%A1%E8%AF%8D%E5%85%B8/id6762287923?mt=12)
@@ -1423,7 +1425,8 @@
 - [Kiwix](https://www.kiwix.org/en/)
 - [(格式转换工具)Pyglossary](https://github.com/ilius/pyglossary)
 - [数字文献学(AutoMdxBuilder 在线词典制作)](http://47.111.10.37:8080/)
-- [其他替代](https://zh.altapps.net/soft/goldendict)
+- [备用下载01](https://forum.freemdict.com/t/topic/13750)
+- [其他替代01](https://zh.altapps.net/soft/goldendict)
 
 </details>
 
