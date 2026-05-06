@@ -883,8 +883,9 @@
 <summary>展开</summary>
 
 - [物种2000](http://www.sp2000.org.cn/)
-- [FRPS《中国植物志》全文电子版网站](http://frps.eflora.cn/)
+- [植物智](https://www.iplant.cn/)/[中国植物志](https://www.iplant.cn/frps)/[FRPS《中国植物志》全文电子版网站](http://frps.eflora.cn/)
 - [中国动物志](http://www.zoology.csdb.cn/efauna/index.jsp)
+- [中医百科](https://zhongyibaike.com/)
 - [默沙东诊疗手册](https://www.msdmanuals.cn/)
 - [A+医学百科](http://www.a-hospital.com/)
 - [医学百科](https://www.wiki8.com/)
@@ -942,6 +943,7 @@
 - [夸克百科](https://baike.quark.cn/)
 - [世界大典](https://worldpedia.miraheze.org/wiki/%E4%B8%96%E7%95%8C%E5%A4%A7%E5%85%B8:%E9%A6%96%E9%A0%81)
 - [中国军事百科](https://js.bkzx.cn/items)
+- [热词](https://h5.kepuchina.cn/special/specialnew?id=AR202506272036390487&member_id=ME201606061612501109&check_code=43605e3fbfad282d445097469a62f9a2)([科普中国](https://m.kepuchina.cn/headline))
 - [国家文化资料库/台湾大百科全书](https://nrch.culture.tw/nrch/zh-tw)
 - [台湾棒球维基馆](https://twbsball.dils.tku.edu.tw/wiki/index.php?title=%E9%A6%96%E9%A0%81)
 - [汽车之家](https://car.autohome.com.cn/baike)
@@ -1461,6 +1463,7 @@
 - [Mdict](https://mdict.org/)
 - [Aard2](https://github.com/itkach/slob/wiki/Dictionaries)
 - [FreeDict](https://freedict.org/zh_cn/)
+- [Reader.Dict](https://www.reader-dict.com/)
 
 </details>
 
