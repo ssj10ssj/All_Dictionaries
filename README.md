@@ -944,6 +944,7 @@
 - [世界大典](https://worldpedia.miraheze.org/wiki/%E4%B8%96%E7%95%8C%E5%A4%A7%E5%85%B8:%E9%A6%96%E9%A0%81)
 - [中国军事百科](https://js.bkzx.cn/items)
 - [热词](https://h5.kepuchina.cn/special/specialnew?id=AR202506272036390487&member_id=ME201606061612501109&check_code=43605e3fbfad282d445097469a62f9a2)([科普中国](https://m.kepuchina.cn/headline))
+- [教育百科](https://pedia.cloud.edu.tw/)/[教育云](https://cloud.edu.tw/)
 - [国家文化资料库/台湾大百科全书](https://nrch.culture.tw/nrch/zh-tw)
 - [台湾棒球维基馆](https://twbsball.dils.tku.edu.tw/wiki/index.php?title=%E9%A6%96%E9%A0%81)
 - [汽车之家](https://car.autohome.com.cn/baike)
