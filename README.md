@@ -1428,6 +1428,7 @@
 - [Kiwix](https://www.kiwix.org/en/)
 - [(格式转换工具)Pyglossary](https://github.com/ilius/pyglossary)
 - [数字文献学(AutoMdxBuilder 在线词典制作)](http://47.111.10.37:8080/)
+- [ToyMDict](https://github.com/asgsdbrseg/ToyMDict)
 - [备用下载01](https://forum.freemdict.com/t/topic/13750)
 - [其他替代01](https://zh.altapps.net/soft/goldendict)
 
