@@ -1415,6 +1415,7 @@
 - [闪卡词典](https://apps.apple.com/cn/app/%E9%97%AA%E5%8D%A1%E8%AF%8D%E5%85%B8/id6762287923?mt=12)
 - [英酷词典](https://www.cnblogs.com/iMath/p/EngkuDict.html)
 - [Vibedict](https://github.com/w4lt3rmel0n/Vibedict)
+- aDict([官网](https://adict.ronniewong.cc/))/([iOS](https://apps.apple.com/in/app/adict-dictionary-lookup/id1483402597))
 - MDX Reader([iOS](https://apps.apple.com/cn/app/mdx-reader-personal-dictionary/id6756669176?l=en-GB))([Mac](https://apps.apple.com/cn/app/mdx-dictionary-reader/id6756536184?l=en-GB&mt=12))
 - [极客词典(GeekDict Pro)](https://forum.freemdict.com/t/topic/42979)([微云下载](https://share.weiyun.com/T7qgh405))
 - [PythonMDict/极客Mdict](https://github.com/tengxiyi/PythonMDict)
