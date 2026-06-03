@@ -1036,8 +1036,8 @@
 - [りんな 人工智能 Line](https://rinna.co.jp/)
 - [日文口说老师Aoi](https://play.google.com/store/apps/details?id=com.db.lingotv&hl=zh_TW≷=US)
 - [PLaMo(日)](https://plamo.preferredai.jp/)
+- [SakuraLLM](https://github.com/SakuraLLM/SakuraLLM)
 - [闪念贝壳](https://ideashell.ai/)
-- [Poe](https://poe.com/login)
 - [RikkaHub](https://rikka-ai.com/)
 - [Bubble](https://bubble.io/live_not_supported?appname=chatbotgpt3)
 - [Chai](https://www.chai-research.com/)
@@ -1074,6 +1074,7 @@
     - [魔乐](https://modelers.csdn.net/)
     - [Hugging Face](https://huggingface.co/)
     - [Ollama](https://ollama.com/library)
+    - [Poe](https://poe.com/login)
     - [AI风月](https://coverstation.xyz/zh/explore/apps?ref_id=ad58625e-3fb5-40c9-830d-c9aea86e77da&ranking=daily_rank&display=simple)
 - 数据集
     - [Google Dataset Search
@@ -1244,6 +1245,9 @@
 - [百度学术](https://xueshu.baidu.com/)
 - [OpenAlex](https://openalex.org/)
 - [OpenStax](https://openstax.org/)
+- [LibreTexts](https://libretexts.org/)
+- [Open Textbook Library (OTL)](https://open.umn.edu/opentextbooks)
+- [MIT Libraries](https://libraries.mit.edu/)
 - [ScienceDirect](http://www.sciencedirect.com/)
 - [80图书馆](http://www.80lib.com/)/[蜗牛图书馆](http://wnlib.com/)
 - [Omniglot](https://www.omniglot.com/)
@@ -2440,6 +2444,7 @@
 - [books](https://github.com/programthink/books)
 - [ebooks-1](https://github.com/acrofrank/ebooks-1)
 - [books-2](https://github.com/nagato1208/books-2)
+- [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
 
 == 计算机类 ==
 - [CS-Books](https://github.com/forthespada/CS-Books)
@@ -2567,6 +2572,7 @@
 - [PS Touch](https://m.apkpure.com/adobe-photoshop-touch/air.com.adobe.pstouch/download)
 - [阿Q围棋](https://play.google.com/store/apps/details?id=cn.ezandroid.aq.preview&hl=zh&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E9%98%BFq%E5%9B%B4%E6%A3%8B)
 - [Pixel Studio](https://play.google.com/store/apps/details?id=com.PixelStudio&hl=zh_HK&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E5%83%8F%E7%B4%A0%E7%BB%98%E7%94%BB&pcampaignid=APPU_1_cM84aOnPEs-QseMPr421mA4)
+- [PixAI](https://pixai.art/zh)
 - [巧影](https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree&hl=zh&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E5%B7%A7%E5%BD%B1&pcampaignid=APPU_1_5ck4aMuoJNKhnesPpva4wAg)
 - [FL Studio](https://play.google.com/store/apps/details?id=com.imageline.FLM&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dfl+studio%E4%B8%8B%E8%BD%BD&pcampaignid=APPU_1_I8k4aK20DtOMseMPwO-siAw)
 - [Cubasis 3](https://www.steinberg-cn.com/cubasis/)
