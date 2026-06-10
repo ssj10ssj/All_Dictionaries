@@ -882,6 +882,9 @@
 <details>
 <summary>展开</summary>
 
+- [TBIA 臺灣生物多樣性資訊聯盟](https://tbiadata.tw/)
+- [臺灣生命大百科TaiEOL](https://taieol.tw/)
+- [臺灣物種名錄TaiCOL](https://taicol.tw/zh-hant/)
 - [物种2000](http://www.sp2000.org.cn/)
 - [植物智](https://www.iplant.cn/)/[中国植物志](https://www.iplant.cn/frps)/[FRPS《中国植物志》全文电子版网站](http://frps.eflora.cn/)
 - [中国动物志](http://www.zoology.csdb.cn/efauna/index.jsp)
@@ -892,6 +895,7 @@
 - [医学微视](https://www.mvyxws.cn/)
 - [多识植物百科](http://duocet.ibiodiversity.net/)
 - [农业百科](https://www.nongyie.com/)
+- [环境百科](https://www.encyclopedie-environnement.org/zh/home-2/)
 - [化工百科](https://www.chembk.com/cn)
 - [知网百科](https://xuewen.cnki.net/)
 - [Fandom](https://www.fandom.com/)
@@ -1306,6 +1310,7 @@
 - [WuDaoCorpora(悟道)](https://data.baai.ac.cn/details/WuDaoCorporaText)
 - [Common Crawl](https://commoncrawl.org/)
 - [The Pile](https://pile.eleuther.ai/)
+- [depositar 研究資料寄存所](https://data.depositar.io/)
 - [ArXiv](https://arxiv.org/)
 - [BioRxiv](https://www.biorxiv.org/)
 - [MedRxiv](https://www.medrxiv.org/)
