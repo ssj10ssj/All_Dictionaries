@@ -898,6 +898,7 @@
 - [环境百科](https://www.encyclopedie-environnement.org/zh/home-2/)
 - [化工百科](https://www.chembk.com/cn)
 - [知网百科](https://xuewen.cnki.net/)
+- [Miraheze](https://miraheze.org/zh-hans]
 - [Fandom](https://www.fandom.com/)
 - [灰机wiki](https://www.huijiwiki.com/wiki/)
 - [伪基百科](https://uncyclopedia.miraheze.org/wiki/)
