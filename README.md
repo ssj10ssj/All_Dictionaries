@@ -929,6 +929,7 @@
 - [Hpoi(手办)](https://www.hpoi.net/)
 - [中文Minecraft Wiki](https://zh.minecraft.wiki/)
 - [MC百科](https://www.mcmod.cn/)
+- [SCP基金会](https://scp-wiki-cn.wikidot.com/)
 - [柯南百科](https://www.conanpedia.com/)
 - [神奇宝贝百科](https://wiki.52poke.com/wiki/%E4%B8%BB%E9%A1%B5)
 - [纪妖(妖怪页)](https://www.cbaigui.com/monster?page=1)
@@ -1282,6 +1283,9 @@
 - http://blog.liberty-e.com/blog/
 - [北大法宝](https://m.pkulaw.com/)
 - [中国裁判文书网](https://wenshu.court.gov.cn/)
+- [中國歷代人物傳記資料庫（CBDB）](https://chinesecbdb.hsites.harvard.edu/)
+- [全知识](https://m2.allhistory.com/)
+    - [全历史](https://static.allhistory.com/)
 - [书格](https://www.shuge.org/)
 - [识典古籍](https://www.shidianguji.com/zh/)
 - [看典古籍](https://www.kandianguji.com/)
@@ -2051,6 +2055,7 @@
 - [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo)
 - [大数学维基(Fandom)](https://googology.fandom.com/zh/wiki/%E5%A4%A7%E6%95%B8%E5%88%97%E8%A1%A8?variant=zh-cn)
 - [中文数学wiki(Fandom)](https://math.fandom.com/zh/wiki/%E4%B8%AD%E6%96%87%E6%95%B0%E5%AD%A6_Wiki:%E4%B8%BB%E9%A1%B5)
+- [数学百科](https://mathpedia.miraheze.org/wiki/%E6%95%B0%E5%AD%A6%E7%99%BE%E7%A7%91)
 - [Lean/Mathlib](https://lean-lang.org/)
 - [Coq](https://rocq-prover.org/)
 - [WolframAlpha](https://www.wolframalpha.com/)
@@ -2157,6 +2162,7 @@
 - [DevDocs](https://devdocs.io/)
 - [MDN Web Docs](https://developer.mozilla.org/zh-CN/docs/Web)
 - [LeetCode](https://leetcode.com/)/[力扣](https://leetcode.cn/)
+- [Hello 算法](https://www.hello-algo.com/)
 
 </details>
 
