@@ -882,6 +882,7 @@
 <details>
 <summary>展开</summary>
 
+- [玻尔科学百科](https://www.bohrium.com/sciencepedia)
 - [TBIA 臺灣生物多樣性資訊聯盟](https://tbiadata.tw/)
 - [臺灣生命大百科TaiEOL](https://taieol.tw/)
 - [臺灣物種名錄TaiCOL](https://taicol.tw/zh-hant/)
@@ -1012,6 +1013,7 @@
 <details>
 <summary>展开</summary>
 
+- [玻尔](https://www.bohrium.com/)
 - [ChatGPT](https://chat.openai.com/auth/login)
 - [Claude](https://claude.ai/login)
 - [Gemini(前身:Bard)](https://gemini.google.com/)
