@@ -901,6 +901,8 @@
 - [知网百科](https://xuewen.cnki.net/)
 - [Miraheze](https://miraheze.org/zh-hans)
 - [Fandom](https://www.fandom.com/)
+    - [社区中心:中文站台文章数排名](https://community.fandom.com/zh/wiki/%E7%A4%BE%E5%8C%BA%E4%B8%AD%E5%BF%83:%E4%B8%AD%E6%96%87%E7%AB%99%E5%8F%B0%E6%96%87%E7%AB%A0%E6%95%B8%E6%8E%92%E5%90%8D?variant=zh-my)
+    - [網路百科](https://internetpedia.fandom.com/zh/wiki/%E7%B6%B2%E8%B7%AF%E7%99%BE%E7%A7%91:%E9%A6%96%E9%A0%81)/[中文世界大典](https://worldpedia.miraheze.org/wiki/%E4%B8%96%E7%95%8C%E5%A4%A7%E5%85%B8:%E9%A6%96%E9%A0%81)
 - [灰机wiki](https://www.huijiwiki.com/wiki/)
 - [伪基百科](https://uncyclopedia.miraheze.org/wiki/)
 - [维基百科](https://zh.m.wikipedia.org/wiki/)
@@ -1061,6 +1063,11 @@
 - [Text GPT](https://textgpt.net/)
 - [Uminal](https://www.uminal.com/)
 - [Webapi.ai ](https://webapi.ai/)
+- AI百科
+    - [Grokipedia](https://grokipedia.com/)
+    - [玻尔科学百科](https://www.bohrium.com/sciencepedia)
+    - [AI协作 Wiki](https://aixzwj.fandom.com/zh/wiki/AI%E5%8D%8F%E4%BD%9C_Wiki)
+    - [Infinipedia](https://infinipedia.onrender.com/)([github](https://github.com/Jwiggiff/infinipedia))
 - AI/数据导航
     - [AI工具集](https://ai-bot.cn/)
     - [AIGC导航](https://www.aigc.cn/)
