@@ -911,6 +911,7 @@
 - [Wikiwand](https://www.wikiwand.com/zh)
 - [WikiTok](https://wikitok.net/)
 - [百度百科](https://baike.baidu.com/)
+    - [BaiduWiki](https://baike.baidu.com/ja/index)
     - [百度产品大全](https://www.baidu.com/more/)
     - 活力百科
 - [抖音/识典/快懂/头条/互动百科](https://m.baike.com/)
@@ -1015,7 +1016,7 @@
 <details>
 <summary>展开</summary>
 
-- [玻尔](https://www.bohrium.com/)
+- 玻尔([1](https://www.bohrium.com/))/([2](https://www.bohrium.com/intro))
 - [ChatGPT](https://chat.openai.com/auth/login)
 - [Claude](https://claude.ai/login)
 - [Gemini(前身:Bard)](https://gemini.google.com/)
@@ -1026,8 +1027,10 @@
 - [Perplexity](https://www.perplexity.ai/)
 - [深度求索(DeepSeek)](https://www.deepseek.com/)
 - [通义千问](https://tongyi.aliyun.com/)
+    - [Qwen](https://qwen.ai/home)
 - [腾讯元宝](https://yuanbao.tencent.com/chat/naQivTmsDa)/[腾讯混元](https://hunyuan.tencent.com/)
 - [文心一言](https://yiyan.baidu.com/)、[百度AI产品大全](https://ai.baidu.com/productlist)
+- [华知大模型](https://huazhi.cnki.net/)
 - [知乎直答](https://zhida.zhihu.com/)
 - [秘塔](https://metaso.cn/)
 - [豆包](https://www.doubao.com/chat/)/[Cici](https://www.cici.com/chat/)
