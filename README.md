@@ -1429,8 +1429,6 @@
 - Monokakido([1](https://github.com/NoHeartPen/obsidian-monokakido-copilot-plugin))/([2](https://community.obsidian.md/plugins/monokakido-copilot))
 - QTranslate
 - [CopyTranslator](https://github.com/copytranslator/copytranslator/releases)
-- [Anki（Github）](https://github.com/ankitects/anki)/[AnkiWeb](https://apps.ankiweb.net/)
-- [Online Dictionary Helper (with Anki app support)](https://github.com/ninja33/ODH)
 - [SituLearner](https://github.com/coda251/situlearner)
 - [Medict](https://github.com/terasum/medict)
 - [Dict Tango(GitHub)](https://github.com/Jimex/DictTango-Android)/[Dict Tango(Google Play)](https://play.google.com/store/apps/details?id=cn.jimex.dict&hl=en&gl=US&auao=none&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Ddict+tango&pcampaignid=APPU_1_yFeRYaazJNWzmgeF0r-4Dw)/[Dict Tango(Freemdict)](https://forum.freemdict.com/t/topic/2354)
@@ -1462,15 +1460,21 @@
 - [Neko辞書/Neko Dictionary](https://apps.apple.com/us/app/neko-dictionary/id6756643217)
 - OpenMDict([开发者网站](https://naco-siren.github.io/2026/04/05/OpenMDict/))([App Store](https://apps.apple.com/cn/app/openmdict/id6759032057))
 - [m-tools](https://forum.freemdict.com/t/topic/44605)
+- [Runer](https://runerapp.com/zh)
+- [Anki（Github）](https://github.com/ankitects/anki)
+    - [AnkiWeb](https://apps.ankiweb.net/)
+    - [Online Dictionary Helper (with Anki app support)](https://github.com/ninja33/ODH)
 - [Aard2](https://aarddict.org/)
 - [Kiwix](https://www.kiwix.org/en/)
 - [(格式转换工具)Pyglossary](https://github.com/ilius/pyglossary)
 - [数字文献学(AutoMdxBuilder 在线词典制作)](http://47.111.10.37:8080/)
 - [ToyMDict](https://github.com/asgsdbrseg/ToyMDict)
 - [山寨格式](https://forum.freemdict.com/t/topic/43001)
-- [备用下载01](https://forum.freemdict.com/t/topic/13750)
-- [其他替代01](https://zh.altapps.net/soft/goldendict)
-- [在线替代01](https://forum.freemdict.com/t/topic/44306)
+- 更多参考
+    - [其他替代01](https://zh.altapps.net/soft/goldendict)
+    - [软件帖子01](https://forum.freemdict.com/c/dicttool/10)
+    - [备用下载01](https://forum.freemdict.com/t/topic/13750)
+    - [在线替代01](https://forum.freemdict.com/t/topic/44306)
 
 </details>
 
