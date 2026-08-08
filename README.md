@@ -2626,6 +2626,7 @@
 - [Ponydroid](https://m.ponydroid.com/en/)
 - [Nextcloud](https://nextcloud.com/)
 - [TeraBox](https://www.terabox.com/wap/chinese)
+- [百度网盘(国际版)](https://play.google.com/store/apps/details?id=com.baidu.drive.app&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98+%E5%9B%BD%E9%99%85%E7%89%88&pcampaignid=APPU_1_Z6x3apSyBNCiseMP5a_F4QY)
 - [Proton Mail](https://proton.me/zh-tw/mail)
 - [Google Analytics](https://marketingplatform.google.com/intl/zh-CN_cn/about/analytics/)
 - [IFTTT](https://ifttt.com/)
