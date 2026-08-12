@@ -1444,6 +1444,7 @@
 - [英酷词典](https://www.cnblogs.com/iMath/p/EngkuDict.html)
 - [MDictRust词典](https://forum.freemdict.com/t/topic/43021)
 - [Vibedict](https://github.com/w4lt3rmel0n/Vibedict)
+- AALookup([官网](https://aalookup.laizn.cc/))/([Github](https://github.com/lonelam/aalookup-hub))
 - aDict([官网](https://adict.ronniewong.cc/))/([iOS](https://apps.apple.com/in/app/adict-dictionary-lookup/id1483402597))
 - [mdxReader](https://forum.freemdict.com/t/topic/44232)
 - MDX Reader([iOS](https://apps.apple.com/cn/app/mdx-reader-personal-dictionary/id6756669176?l=en-GB))([Mac](https://apps.apple.com/cn/app/mdx-dictionary-reader/id6756536184?l=en-GB&mt=12))
