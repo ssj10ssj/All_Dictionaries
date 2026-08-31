@@ -626,6 +626,7 @@
 - [日本姓氏語源辞典](https://name-power.net/)
 - [nekodict](https://nekodict.com/)
 - [数え方単位辞典](https://www.sanabo.com/kazoekata/)
+- [言葉の意味辞典 - 言葉の意味や使い方を詳しく解説](https://word-dictionary.jp/)
 - [用例.jp](http://yourei.jp/)
 - [Yahoo!辞書 2019-05-31❗已下线](https://dic.yahoo.co.jp/)
 - [East Education](https://www.east-education.jp/products/dongri/)
@@ -1398,6 +1399,8 @@
 <summary>展开</summary>
 
 - [金典 GoldenDict](https://github.com/goldendict/)
+    - [GoldenDict-ng](https://forum.freemdict.com/t/topic/38795)
+    - [Web版(非官方)](https://github.com/panda-lingo/goldendict)
 - [MDict](http://mdict.cn/) ： Windows、Android、iOS/[MDict(GitHub)](https://github.com/raymanzhang/mdict)
 - [深蓝词典 \(BlueDict\)：mdx](http://ssdlsoft.com/bluedict/)：Android
 - [星际译王 StarDict](https://github.com/huzheng001/stardict-3)
@@ -1446,6 +1449,7 @@
 - [Vibedict](https://github.com/w4lt3rmel0n/Vibedict)
 - AALookup([官网](https://aalookup.laizn.cc/))/([Github](https://github.com/lonelam/aalookup-hub))
 - aDict([官网](https://adict.ronniewong.cc/))/([iOS](https://apps.apple.com/in/app/adict-dictionary-lookup/id1483402597))
+- [Dictol](https://github.com/manxingxing/dictol)
 - [mdxReader](https://forum.freemdict.com/t/topic/44232)
 - MDX Reader([iOS](https://apps.apple.com/cn/app/mdx-reader-personal-dictionary/id6756669176?l=en-GB))([Mac](https://apps.apple.com/cn/app/mdx-dictionary-reader/id6756536184?l=en-GB&mt=12))
 - [极客词典(GeekDict Pro)](https://forum.freemdict.com/t/topic/42979)([微云下载](https://share.weiyun.com/T7qgh405))
