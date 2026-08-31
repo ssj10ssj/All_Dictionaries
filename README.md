@@ -1082,9 +1082,20 @@
 - 端侧
     - [口袋AI(原PocketPal)](https://github.com/yzfly/pocketpal-ai-zh)
     - [MNN](https://github.com/alibaba/MNN/tree/master)
+    - [NCNN](https://github.com/tencent/NCNN)
     - [Google AI Edge](https://github.com/google-ai-edge/gallery)
     - [MLC](https://llm.mlc.ai/)
+    - [ChatterUI](https://github.com/Vali-98/ChatterUI)
+    - [AnythingLLM](https://anythingllm.com/mobile)
+    - [AI Hub(Github)](https://github.com/SilentCoderHere/aihub)
     - [Stable Diffusion AI](https://sdai.moroz.cc/)
+    - [ChatdollKit](https://github.com/uezo/chatdollkit)
+    - [Chatbox](https://chatboxai.app/zh)
+    - [LM Playground](https://lmplayground.app/)
+    - AI PLAYGROUND([Intel](https://github.com/intel/ai-playground))([安卓](https://play.google.com/store/apps/details?id=com.deardhruv.llmplayground&hl=zh))
+    - [ExecuTorch](https://github.com/pytorch/executorch)
+    - [llama.cpp](https://llama-cpp.com/download/)
+    - [LM Studio](https://lmstudio.ai/)
 - LLM库
     - [聊天机器人列表](https://zh.m.wikipedia.org/zh-cn/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%97%E8%A1%A8)
     - [中国大模型列表](https://github.com/wgwang/awesome-LLMs-In-China)
@@ -1094,6 +1105,8 @@
     - [Hugging Face](https://huggingface.co/)
     - [Ollama](https://ollama.com/library)
     - [Poe](https://poe.com/login)
+    - [Monica](https://monica.im/)
+    - [AI Hub](https://aihubapp.io/)
     - [AI风月](https://coverstation.xyz/zh/explore/apps?ref_id=ad58625e-3fb5-40c9-830d-c9aea86e77da&ranking=daily_rank&display=simple)
 - 数据集
     - [Google Dataset Search
