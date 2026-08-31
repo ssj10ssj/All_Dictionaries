@@ -1100,6 +1100,8 @@
     - [聊天机器人列表](https://zh.m.wikipedia.org/zh-cn/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%97%E8%A1%A8)
     - [中国大模型列表](https://github.com/wgwang/awesome-LLMs-In-China)
     - [中文大语言模型列表(小规模)](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
+    - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+    - [Awesome-LLM](https://github.com/hannibal046/awesome-llm)
     - [魔搭](https://modelscope.cn/home)
     - [魔乐](https://modelers.csdn.net/)
     - [Hugging Face](https://huggingface.co/)
