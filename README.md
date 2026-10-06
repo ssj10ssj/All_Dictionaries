@@ -1416,6 +1416,7 @@
 - [金典 GoldenDict](https://github.com/goldendict/)
     - [GoldenDict-ng](https://forum.freemdict.com/t/topic/38795)
     - [Web版(非官方)](https://github.com/panda-lingo/goldendict)
+    - [GoldenDictstudent(新人向)](https://forum.freemdict.com/t/topic/45223)
 - [MDict](http://mdict.cn/) ： Windows、Android、iOS/[MDict(GitHub)](https://github.com/raymanzhang/mdict)
 - [深蓝词典 \(BlueDict\)：mdx](http://ssdlsoft.com/bluedict/)：Android
 - [星际译王 StarDict](https://github.com/huzheng001/stardict-3)
@@ -1424,7 +1425,7 @@
 - [JEDict](http://www.jedict.com/)
 - [Dictionary](https://en.wikipedia.org/wiki/Dictionary_(software))：[☞ [2018-05-06] macOS / iOS 内置版权词典名录](https://dictionaryphile.github.io/blog/2017/03/14/)
 - [☞ [2017-03-15] Kindle（曾）内置版权词典名录](http://mp.weixin.qq.com/s/Ggve-W0ac1vDFKrRZKmCug)
-- [搜狗词典](http://fanyi.sogou.com/)
+- [搜狗词典](http://fanyi.sogou.(com/)
 - [海词词典](http://cidian.dict.cn/center.html)
 - [欧路词典](https://www.eudic.net/)：macOS、Windows、Android、iOS
 - [有道词典](http://dict.youdao.com/)：Windows、Android、iOS、macOS
@@ -1454,6 +1455,7 @@
 - [SituLearner](https://github.com/coda251/situlearner)
 - [Medict](https://github.com/terasum/medict)
 - [Dict Tango(GitHub)](https://github.com/Jimex/DictTango-Android)/[Dict Tango(Google Play)](https://play.google.com/store/apps/details?id=cn.jimex.dict&hl=en&gl=US&auao=none&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Ddict+tango&pcampaignid=APPU_1_yFeRYaazJNWzmgeF0r-4Dw)/[Dict Tango(Freemdict)](https://forum.freemdict.com/t/topic/2354)
+    - Windows版([GitHub](https://github.com/Jimex/DictTango-Windows))/([Freemdict](https://forum.freemdict.com/t/topic/12952))
 - Plod/[平典 Plain Dictionary](https://m.apkpure.com/cn/plain-dictionary/com.knziha/versions?_gl=1*gl1k70*_ga*YW1wLXdnVTI5cVNuZFV4WWNyUmRoZW9uc2FZNXZoV3d2b0dkalhVcWhNYUVIME81UFZHR2VacFdQS2tUeEx5LUM3MF8.)/[无限词典](https://github.com/KnIfER/PlainDictionaryAPP)/[字典](http://forum.freemdict.com/t/topic/18443/129)
 - [Ahktionary](https://forum.freemdict.com/t/topic/4818)
 - [WarblerDict](https://forum.freemdict.com/t/topic/7079)
@@ -1462,6 +1464,7 @@
 - [MdictBrowser](https://forum.freemdict.com/t/topic/45044)/[下载](https://cloud.freemdict.com/index.php/s/tL7gpegy9K89gnn?opendetails=)
 - [mdict-rs](https://github.com/zhimoe/mdict-rs)
 - [mdx-server](https://github.com/ninja33/mdx-server)
+- [My Dictionary Service](https://github.com/PoxenStudio/mydict)
 - [Owl](https://github.com/ca-x/owl/blob/main/README_ZH.md)
 - [词悦](https://github.com/mumu-lhl/Ciyue?tab=readme-ov-file)
 - [闪卡词典](https://apps.apple.com/cn/app/%E9%97%AA%E5%8D%A1%E8%AF%8D%E5%85%B8/id6762287923?mt=12)
@@ -1489,6 +1492,7 @@
 - [1秒辞典](https://apps.apple.com/mo/app/1%E7%A7%92%E8%BE%AD%E5%85%B8-mdict-epwing-%E8%BE%AD%E5%85%B8/id6759234827)
 - [Neko辞書/Neko Dictionary](https://apps.apple.com/us/app/neko-dictionary/id6756643217)
 - OpenMDict([开发者网站](https://naco-siren.github.io/2026/04/05/OpenMDict/))([App Store](https://apps.apple.com/cn/app/openmdict/id6759032057))
+- [WordHub](https://apps.apple.com/us/app/wordhub/id6812649164)
 - [m-tools](https://forum.freemdict.com/t/topic/44605)
 - [Runer](https://runerapp.com/zh)
 - [WordloomDict](https://forum.freemdict.com/t/topic/44745)
@@ -1499,6 +1503,7 @@
 - [Kiwix](https://www.kiwix.org/en/)
 - [(格式转换工具)Pyglossary](https://github.com/ilius/pyglossary)
 - [数字文献学(AutoMdxBuilder 在线词典制作)](http://47.111.10.37:8080/)
+- [mdict-editor](https://github.com/lonelam/mdict-editor)
 - [ToyMDict](https://github.com/asgsdbrseg/ToyMDict)
 - [山寨格式](https://forum.freemdict.com/t/topic/43001)
 - 更多参考
@@ -1537,6 +1542,7 @@
         - [知无涯·柯林斯词典](https://zhiwuya.xyz/collins/)
         - [EgTrainer](https://www.egtrainer.com/)
         - [雅思词典](https://isdc.pages.dev/)
+        - [德语口语练习](https://german-speech.308611.xyz/)
 - [掌上百科-PDAWIKI](https://www.pdawiki.com/forum/)
     - [Pdawiki存档检索(主站)](https://061061.xyz/)
     - [Pdawiki存档检索(备站)](https://a.061061.xyz/)
@@ -2472,6 +2478,7 @@
 - [EasyOCR(开源)](https://github.com/JaidedAI/EasyOCR)
 - [Tesseract OCR(开源)](https://github.com/tesseract-ocr/tesseract)
 - OCR工具[(GitHub)](https://github.com/wynick27/DigitizationTools)/[(Freemdict)](https://forum.freemdict.com/t/topic/42992)
+- [Picture Capture](https://github.com/chigre/Picture_Capture)
 
 </details>
 
