@@ -1425,7 +1425,7 @@
 - [JEDict](http://www.jedict.com/)
 - [Dictionary](https://en.wikipedia.org/wiki/Dictionary_(software))：[☞ [2018-05-06] macOS / iOS 内置版权词典名录](https://dictionaryphile.github.io/blog/2017/03/14/)
 - [☞ [2017-03-15] Kindle（曾）内置版权词典名录](http://mp.weixin.qq.com/s/Ggve-W0ac1vDFKrRZKmCug)
-- [搜狗词典](http://fanyi.sogou.(com/)
+- [搜狗词典](http://fanyi.sogou.com/)
 - [海词词典](http://cidian.dict.cn/center.html)
 - [欧路词典](https://www.eudic.net/)：macOS、Windows、Android、iOS
 - [有道词典](http://dict.youdao.com/)：Windows、Android、iOS、macOS
