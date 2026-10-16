@@ -793,6 +793,7 @@
 - [热典](http://www.hotdic.com/)
 - [词林韩语词典](http://www.cilin.org/kr/)
 - http://alldic.daum.net/
+- [나무위키/Namuwiki/树维基](https://namu.wiki/)
 
 </details>
 
