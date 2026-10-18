@@ -1467,6 +1467,7 @@
 - [mdx-server](https://github.com/ninja33/mdx-server)
 - [My Dictionary Service](https://github.com/PoxenStudio/mydict)
 - [Owl](https://github.com/ca-x/owl/blob/main/README_ZH.md)
+- [词镜 Lens](https://forum.freemdict.com/t/topic/45327)/[下载](https://zhuwei.lanzouw.com/ivkcF4ch57sj)
 - [词悦](https://github.com/mumu-lhl/Ciyue?tab=readme-ov-file)
 - [闪卡词典](https://apps.apple.com/cn/app/%E9%97%AA%E5%8D%A1%E8%AF%8D%E5%85%B8/id6762287923?mt=12)
 - [英酷词典](https://www.cnblogs.com/iMath/p/EngkuDict.html)
