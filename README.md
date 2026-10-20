@@ -146,6 +146,7 @@
 - [欧米翻译](http://www.omifanyi.com/index.html)
 - [沪江小D](https://dict.hujiang.com/app/trans)
 - [papago](https://papago.naver.com/)
+- [Glosbe](https://zh.glosbe.com/)
 
 </details>
 
@@ -825,6 +826,7 @@
 - [华梵网](http://www.sanskrit-input.com/)
 - [Monier Williams Online Dictionary - Koeln Sanskrit Lexicon](http://www.sanskrit-lexicon.uni-koeln.de/monier/)
 - [梵语辞书](http://www.huafan.org.cn/index.php?m=Page&a=index&id=51)
+- [An Encyclopaedic Dictionary of Sanskrit on Historical Principles](https://koshashri-dc.ac.in/)
 
 </details>
 
@@ -837,6 +839,8 @@
 - [William Whitaker's Words](http://archives.nd.edu/words.html)
 - [Legal Latin phrases and maxims](http://www.inrebus.com/legalmaxims_a.php)
 - [Latin-English](http://humanum.arts.cuhk.edu.hk/Lexis/Latin/)
+- [Latin is Simple](https://www.latin-is-simple.com/)
+- [Latein Lex](https://www.lateinlex.de/?call=Home)
 
 </details>
 
@@ -863,6 +867,7 @@
 - [Uyghur-Chinese-Uyghur Dictionary 维汉词典](http://www.uyghurche.com/)
 - [夏威夷语词典](http://wehewehe.org)
 - [Logeion(古希腊语)](https://logeion.uchicago.edu/)
+- [Halot](https://dadako.narod.ru/paperpoe.htm#hebrew)
 - [e马来文字典 eKamus](http://www.ekamus.info/)
 
 </details>
@@ -1473,6 +1478,7 @@
 - [英酷词典](https://www.cnblogs.com/iMath/p/EngkuDict.html)
 - [英阅阅读器](https://ereader.link/)
 - [MDictRust词典](https://forum.freemdict.com/t/topic/43021)
+- [Mdict Studio Pro](https://github.com/shawkynasr/MdictStudioPro/blob/main/README.zh-CN.md)/[汉化版](https://forum.freemdict.com/t/topic/45330/3)
 - [Vibedict](https://github.com/w4lt3rmel0n/Vibedict)
 - [VocabDict(沃开词典)](https://vocabplayer.com/)/[下载](https://vocabplayer.com/download)/[介绍2](https://forum.freemdict.com/t/topic/45064)
 - AALookup([官网](https://aalookup.laizn.cc/))/([Github](https://github.com/lonelam/aalookup-hub))
