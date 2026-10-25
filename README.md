@@ -378,6 +378,7 @@
 - [万词王WantWords](https://wantwords.thunlp.org/)
 - [ThinkWiki](https://www.thinkwiki.org/wiki/ThinkWiki)
 - [Encyclopedia](https://www.encyclopedia.com/)
+- [生物学/医学参考](https://forum.freemdict.com/t/topic/45355)
 
 </details>
 
@@ -935,6 +936,7 @@
 - [Bwiki](https://wiki.biligame.com/wiki/)
 - [Bangumi维基](https://bangumi.tv/wiki)
 - [THBWiki](https://thwiki.cc/)
+- [东方维基](https://zh.touhouwiki.net/wiki/%E6%9D%B1%E6%96%B9%E7%B6%AD%E5%9F%BA)
 - [舰娘百科](https://m.kcwiki.cn/wiki/%E8%88%B0%E5%A8%98%E7%99%BE%E7%A7%91)
 - [GameKee](https://www.gamekee.com/)
 - [Komica/K岛/糟糕岛](https://komica1.org/)
@@ -1512,6 +1514,7 @@
 - [(格式转换工具)Pyglossary](https://github.com/ilius/pyglossary)
 - [数字文献学(AutoMdxBuilder 在线词典制作)](http://47.111.10.37:8080/)
 - [mdict-editor](https://github.com/lonelam/mdict-editor)
+- [mdxpress](https://forum.freemdict.com/t/topic/45365)
 - [ToyMDict](https://github.com/asgsdbrseg/ToyMDict)
 - [山寨格式](https://forum.freemdict.com/t/topic/43001)
 - 更多参考
@@ -1661,7 +1664,10 @@
 - [轻小说文库（wenku8）]( https://www.wenku8.net/)
     - [注册登录页](https://www.wenku8.net/index.php)
 - [哔哩轻小说](https://w.linovelib.com/)
+    - [官网app](https://cdn.a.ln.yodu.app/)
+    - [谷歌app](https://play.google.com/store/apps/details?id=com.linovelib.bilinovel&hl=zh&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E8%BD%BB%E5%B0%8F%E8%AF%B4&pcampaignid=APPU_1_a9zdaq-XOfGYseMP9oKPqAE&pli=1)
 - [轻小说百科](https://lnovel.org/)
+- [幻梦轻小说](https://www.huanmengacg.com/)
 - [无限轻小说](https://www.8novel.com/)
 - [图书馆的无限回廊](https://epub.love/wp/)
 - [205 藏书馆](https://205library.blogspot.com/)
