@@ -1555,7 +1555,7 @@
         - [EgTrainer](https://www.egtrainer.com/)
         - [雅思词典](https://isdc.pages.dev/)
         - [德语口语练习](https://german-speech.308611.xyz/)
-        - [Word Altas/词光](https://forum.freemdict.com/t/topic/45371)/[网站](https://0xlei.tech/words/#/about)/[GitHub项目](https://github.com/designfuchen/word-atlas)
+        - [Word Altas(词光)](https://forum.freemdict.com/t/topic/45371)/[网站](https://0xlei.tech/words/#/about)/[GitHub项目](https://github.com/designfuchen/word-atlas)
 - [掌上百科-PDAWIKI](https://www.pdawiki.com/forum/)
     - [Pdawiki存档检索(主站)](https://061061.xyz/)
     - [Pdawiki存档检索(备站)](https://a.061061.xyz/)
