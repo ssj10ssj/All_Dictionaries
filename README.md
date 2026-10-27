@@ -1427,6 +1427,7 @@
     - [GoldenDictstudent(新人向)](https://forum.freemdict.com/t/topic/45223)
 - [MDict](http://mdict.cn/) ： Windows、Android、iOS/[MDict(GitHub)](https://github.com/raymanzhang/mdict)
 - [深蓝词典 \(BlueDict\)：mdx](http://ssdlsoft.com/bluedict/)：Android
+    - [免费版修改版](https://forum.freemdict.com/t/topic/45266)
 - [星际译王 StarDict](https://github.com/huzheng001/stardict-3)
 - [EBDic：EPWING、mdx、StarDict](http://t.cn/RY14MLP)：Android
 - [EB series：EPWING](http://ebstudio.info/) : iOS、Android、macOS、Windows [mdx] 适合日语学习者
@@ -1554,6 +1555,7 @@
         - [EgTrainer](https://www.egtrainer.com/)
         - [雅思词典](https://isdc.pages.dev/)
         - [德语口语练习](https://german-speech.308611.xyz/)
+        - [Word Altas/词光](https://forum.freemdict.com/t/topic/45371)/[网站](https://0xlei.tech/words/#/about)/[GitHub项目](https://github.com/designfuchen/word-atlas)
 - [掌上百科-PDAWIKI](https://www.pdawiki.com/forum/)
     - [Pdawiki存档检索(主站)](https://061061.xyz/)
     - [Pdawiki存档检索(备站)](https://a.061061.xyz/)
