@@ -1113,6 +1113,7 @@
     - [魔搭](https://modelscope.cn/home)
     - [魔乐](https://modelers.csdn.net/)
     - [Hugging Face](https://huggingface.co/)
+        - [LightNovel5000](https://huggingface.co/datasets/bh2821/LightNovel5000)
     - [Ollama](https://ollama.com/library)
     - [Poe](https://poe.com/login)
     - [Monica](https://monica.im/)
