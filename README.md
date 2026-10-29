@@ -1510,6 +1510,7 @@
 - [WordloomDict](https://forum.freemdict.com/t/topic/44745)
 - [DDReader](https://forum.freemdict.com/t/topic/45395)
 - [NurViewer](https://nursova.com/zh/nurviewer/)/[介绍2](https://forum.freemdict.com/t/topic/45394)
+- [WuWeiDict](https://wudict.legbehindneck.com/)/[开源](https://github.com/wuweidict/wudict)
 - [Anki（Github）](https://github.com/ankitects/anki)
     - [AnkiWeb](https://apps.ankiweb.net/)
     - [Online Dictionary Helper (with Anki app support)](https://github.com/ninja33/ODH)
