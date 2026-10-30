@@ -1216,6 +1216,7 @@
 - [mTab](https://go.mtab.cc/)/[mTab官网](https://mtab.cc/)
 - [Webstack](https://github.com/WebStackPage/WebStackPage.github.io)
 - [发现导航](https://github.com/xjh22222228/nav)
+- [MikuTools](https://okmiku.com/)
 - [汇总转载](https://forum.freemdict.com/t/topic/35604)/[汇总原文](https://gitee.com/jamesfengcao/uweb/blob/master/zh/search.md)
 
 </details>
@@ -1227,6 +1228,7 @@
 - [ACG导航](https://www.acgdh.cc/)
 - [二次元宝藏导航](https://acg.baozangdh.com/)
 - [萌站 次元导航](https://moe321.com/)
+- [喵盒社区](https://www.miaoheshequi.cn/)
 
 </details>
 
@@ -2712,7 +2714,11 @@
 - [Virtual Master](https://www.virtualmaster.app/)
 - [MAME4droid](https://github.com/seleuco)
 - [Happy Chick Emulator](https://www.xiaoji001.org/)
+- [RetroArch Plus](https://www.retroarch.com/)
 - [Dolphin Emulator](https://dolphin-emu.org/)
+- [游戏制作创意齿轮](https://play.google.com/store/apps/details?id=com.gdm.id1686878766739&hl=zh_HK)
+- [GAME CREATOR](https://www.androidgamecreator.com/)
+- [YGOMobile](https://ygom.top/)
 - [阿Q围棋](https://play.google.com/store/apps/details?id=cn.ezandroid.aq.preview&hl=zh&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E9%98%BFq%E5%9B%B4%E6%A3%8B)
 - [tita搜索(与相关app)(异常)](https://play.google.com/store/apps/details?id=so.tita&hl=zh_HK&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dtita+%E6%90%9C%E7%B4%A2+%E5%AE%98%E7%BD%91&pcampaignid=APPU_1_sWANaYH0Lqqt4-EP7e7DuAY)
 - 其他平台
@@ -2799,6 +2805,7 @@
 - [魔豆原创 Magic Bean](https://m.facebook.com/I.Love.MagicBean)
 - [小鸡模拟器](https://play.google.com/store/apps/details?id=org.xiaoji001.app&hl=zh≷=US)
 - [橙光](https://m.66rpg.com/mini/home)
+- [TapTap](https://www.taptap.cn/)
 
 </details>
 
