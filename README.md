@@ -2719,6 +2719,8 @@
 - [游戏制作创意齿轮](https://play.google.com/store/apps/details?id=com.gdm.id1686878766739&hl=zh_HK)
 - [GAME CREATOR](https://www.androidgamecreator.com/)
 - [YGOMobile](https://ygom.top/)
+- [250+纸牌游戏合集](https://anoshenko.com/)
+- [Board Game Arena](https://play.google.com/store/apps/details?id=com.boardgamearena.bgaapp&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dboard+game+arena+%E8%B0%B7%E6%AD%8C%E5%95%86%E5%BA%97&pcampaignid=APPU_1_V8DkaprxOpuSseMPj7O12A8)
 - [阿Q围棋](https://play.google.com/store/apps/details?id=cn.ezandroid.aq.preview&hl=zh&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E9%98%BFq%E5%9B%B4%E6%A3%8B)
 - [tita搜索(与相关app)(异常)](https://play.google.com/store/apps/details?id=so.tita&hl=zh_HK&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dtita+%E6%90%9C%E7%B4%A2+%E5%AE%98%E7%BD%91&pcampaignid=APPU_1_sWANaYH0Lqqt4-EP7e7DuAY)
 - 其他平台
